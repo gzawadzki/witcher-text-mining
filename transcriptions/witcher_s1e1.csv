@@ -1,0 +1,958 @@
+Number;Start time in milliseconds;End time in milliseconds;"Text"
+1;9166,6667;11166,6667;"[water rushing]"
+2;14208,3334;15958,3334;"[woodpecker drilling]"
+3;52416,6667;53458,3334;"[snarling]"
+4;55875;57000;"[screeching]"
+5;58583,3334;60041,6667;"-[yells]
+-[screeches]"
+6;64458,3334;65666,6667;"[grunting]"
+7;69375;70875;"[growls]"
+8;70958,3334;72083,3334;"[hisses]"
+9;78041,6667;79333,3334;"[neighs]"
+10;99833,3334;101500;"[screeches]"
+11;112916,6667;114250;"[sighs]"
+12;125000;126500;"Today isn't your day, is it?"
+13;130958,3334;132458,3334;"[sniffs]"
+14;134791,6667;136333,3334;"-[grunts]
+-[sword slashes]"
+15;160666,6667;162666,6667;"[lively buzz of conversation]"
+16;167583,3334;169041,6667;"[fiddle playing]"
+17;172583,3334;174083,3334;"-[shushing]
+-[music stops]"
+18;174166,6667;176166,6667;"[scattered whispers]"
+19;180583,3334;181625;"What will it be?"
+20;182666,6667;184333,3334;"Point me to the alderman's house."
+21;184416,6667;186833,3334;"-It's down the alley to the left--
+-Isadora."
+22;193750;195666,6667;"We don't want your kind here, Witcher."
+23;196666,6667;197666,6667;"The alderman,"
+24;198375;200791,6667;"tell me where he is
+and I'll be on my way."
+25;201958,3334;203916,6667;"You don't give the orders around here..."
+26;204000;206333,3334;"[scoffs] you mutant son of a bitch."
+27;206833,3334;208166,6667;"[low thump]"
+28;209208,3334;211291,6667;"-[innkeeper] Hear that?
+-[low rumble]"
+29;211375;212375;"Go."
+30;212458,3334;215416,6667;"On your own or at the end of a rope,
+your choice."
+31;216833,3334;217875;"Not a hard choice."
+32;218250;220625;"Yeah, fuck that. Kill him
+with your bare hands if you have to."
+33;223083,3334;225458,3334;"C'mon, Witcher.
+You're not scared of us, are ya?"
+34;228500;231500;"-Show us what you've got.
+-Can you not leave it alone for a moment?"
+35;238291,6667;241083,3334;"-Witchers can't be trusted.
+-[woman] I'm not speaking to you."
+36;243083,3334;245833,3334;"I apologize
+for my man's interference in your day."
+37;248291,6667;251500;"Hopefully he can improve his behavior
+by tomorrow's market."
+38;253750;255041,6667;"Sorry, Renfri."
+39;258291,6667;259500;"Come on, lads."
+40;261666,6667;263666,6667;"Beer for my friend here and one for me."
+41;263750;264958,3334;"[fiddle resumes playing]"
+42;265041,6667;265916,6667;"[snorts]"
+43;267875;270125;"I am speaking to you now, good sir."
+44;271333,3334;273333,3334;"[lively conversation resumes]"
+45;283541,6667;284666,6667;"Want some breakfast?"
+46;286833,3334;287833,3334;"I'm full."
+47;289750;290625;"Venison."
+48;309208,3334;310333,3334;"[sighs]"
+49;313833,3334;316208,3334;"My mother, God rest her,
+would be mortified."
+50;317833,3334;319041,6667;"Our secret, then."
+51;328208,3334;330375;"So, what brings you to Blaviken,
+White Hair?"
+52;330833,3334;332166,6667;"You came for a monster?"
+53;333125;334666,6667;"I was traveling by the swamp."
+54;334750;338041,6667;"That would be your mistake, then.
+Why wouldn't you travel by main roads?"
+55;339625;341333,3334;"It's hard to make a living on main roads."
+56;342208,3334;344541,6667;"And you desperately need money
+for new clothes."
+57;350250;351250;"Two more beers."
+58;366750;368083,3334;"[sighs]"
+59;368166,6667;370708,3334;"More and more,
+I find monsters wherever I go."
+60;383833,3334;385750;"How much coin for your kikimora, then?"
+61;400083,3334;402250;"I killed a rat this morning
+with my breakfast fork."
+62;402958,3334;404958,3334;"Stabbed it in its fat little gut."
+63;405541,6667;407750;"My mother nearly fainted,
+but what was I supposed to do?"
+64;407833,3334;410000;"It had been shitting in our pantry
+for days."
+65;414791,6667;417000;"-[Witcher] You mentioned coin.
+-[girl] Yes."
+66;417500;419666,6667;"Isadora said you were looking
+for my father."
+67;420166,6667;421750;"She's a gossip, you see."
+68;421833,3334;423791,6667;"Probably went two steps
+into the Lord's Inn"
+69;423875;427083,3334;"before she was running off telling
+everyone an evil witcher had arrived."
+70;427166,6667;428000;"[horse snorts]"
+71;430041,6667;431083,3334;"You don't scare me."
+72;431791,6667;432958,3334;"That's too bad."
+73;433041,6667;435125;"And I can also tell you"
+74;435791,6667;437958,3334;"that my father will have no use
+for this beast."
+75;438041,6667;439000;"Your father,"
+76;439708,3334;440708,3334;"the alderman?"
+77;441916,6667;443250;"He posted a flyer."
+78;444333,3334;445375;"For a graveir."
+79;446000;447291,6667;"kikimoras are useful."
+80;448458,3334;449708,3334;"Population control."
+81;451625;452833,3334;"Hm."
+82;453666,6667;455500;"You should speak to Master Irion,
+our wizard."
+83;456958,3334;459875;"He's willing to pay for odds and ends
+he needs for elixirs."
+84;461000;462625;"I sold him our dog when it died."
+85;463458,3334;464375;"Mysteriously."
+86;467500;468333,3334;"Fine."
+87;468958,3334;470083,3334;"Take me to him."
+88;471625;474000;"I got 15 crowns for the yappy mutt."
+89;475833,3334;479208,3334;"That's enough to buy some new clothes.
+Just saying."
+90;481041,6667;482125;"Hm."
+91;482208,3334;483333,3334;"Come on, Roach."
+92;483875;485208,3334;"[whinnies]"
+93;488125;490041,6667;"[girl] Have you ever killed a succubus?"
+94;490375;491666,6667;"A striga?"
+95;492583,3334;493625;"Werewolf?"
+96;494291,6667;495708,3334;"She-wolf?"
+97;495791,6667;496958,3334;"That's not a thing."
+98;497625;499041,6667;"So you've killed the rest?"
+99;499583,3334;501083,3334;"I think that makes you a hero."
+100;502250;505166,6667;"My mother says
+you're the offspring of foul sorcery,"
+101;505250;508666,6667;"a diabolic creation,
+a filthy degenerate born of Hell."
+102;509791,6667;511250;"Have you ever been to Hell?"
+103;512333,3334;513875;"I've never even left Blaviken."
+104;513958,3334;515541,6667;"Because my mother's never left Blaviken,"
+105;515625;519000;"and if it's good enough for Libushe,
+then it's good enough for Marilka."
+106;519083,3334;520666,6667;"-That's my name.
+-[goat bleats]"
+107;520750;521625;"Marilka."
+108;522666,6667;523666,6667;"Like milk."
+109;525208,3334;526208,3334;"What's your name?"
+110;527208,3334;528208,3334;"Geralt."
+111;529250;530333,3334;"Like garroter?"
+112;531333,3334;532333,3334;"Nice."
+113;533000;534375;"Where are you from, Geralt?"
+114;535208,3334;536250;"Rivia."
+115;538125;541708,3334;"I don't know where that is,
+but I could learn, if you'd let me."
+116;542291,6667;543250;"No."
+117;544625;547375;"Because I'm a girl
+and girls can't be witchers."
+118;547833,3334;550250;"Which I think is probably
+the stupidest thing I've ever heard."
+119;550333,3334;551250;"Hm."
+120;552083,3334;553041,6667;"I want more."
+121;554083,3334;555083,3334;"I have to be more,"
+122;555166,6667;557791,6667;"because I don't know what to do
+in Blaviken for the rest of my life,"
+123;557875;559625;"except go to the boring old market."
+124;560500;561541,6667;"And kill rats."
+125;562041,6667;563083,3334;"And dogs."
+126;568583,3334;569708,3334;"Here we are."
+127;576708,3334;577791,6667;"Hold Roach."
+128;578500;580083,3334;"-[whinnies]
+-Be nice."
+129;581666,6667;582750;"[Marilka] Hey, Roach."
+130;590958,3334;592541,6667;"[chiming sound]"
+131;592625;594291,6667;"[low, resonating hum]"
+132;610375;612208,3334;"[bird calling]"
+133;621416,6667;622375;"Greetings."
+134;623666,6667;624791,6667;"I am Stregobor."
+135;627458,3334;629291,6667;"Master Stregobor."
+136;630166,6667;631041,6667;"Sorcerer."
+137;631125;633250;"I have a kikimora for Master Irion."
+138;633333,3334;635708,3334;"Yes, well, forgive the confusion."
+139;635791,6667;639458,3334;"Irion created this tower,
+but he's been dead 200 years."
+140;640416,6667;643625;"So, in order to honor him,
+I've taken his name as my..."
+141;644333,3334;646416,6667;"personal sobriquet."
+142;646916,6667;648083,3334;"Hm."
+143;648166,6667;649791,6667;"He create this illusion, too?"
+144;649875;651541,6667;"No, this is, uh... this is..."
+145;652541,6667;654041,6667;"my own creation."
+146;655458,3334;657250;"Helps pass time more delightfully."
+147;658000;660666,6667;"Because you're in hiding, Stregobor."
+148;660750;662208,3334;"How very clever of you..."
+149;663458,3334;664458,3334;"Witcher."
+150;672500;675000;"Not often do we see your likeness
+here in Blaviken."
+151;675083,3334;676791,6667;"Not many of my likeness left."
+152;677333,3334;678291,6667;"Hm."
+153;679000;681791,6667;"I'd offer you my condolences, but..."
+154;682625;684958,3334;"I seem to remember
+that witchers don't feel..."
+155;685875;686875;"anything."
+156;688625;690708,3334;"I'm grateful destiny brought you to me."
+157;690791,6667;692000;"Marilka brought me to you."
+158;692083,3334;694416,6667;"Oh, Marilka. Marilka works for me."
+159;695958,3334;696958,3334;"Now and then."
+160;698208,3334;699958,3334;"On matters of great import."
+161;700833,3334;703291,6667;"A reclusive sorcerer who uses an alias"
+162;703375;706083,3334;"and hires a young girl
+to procure him a witcher."
+163;707000;708333,3334;"You don't want my monster."
+164;709791,6667;711333,3334;"You want me to kill yours."
+165;711416,6667;712416,6667;"Very clever."
+166;713333,3334;714166,6667;"Indeed."
+167;714250;716083,3334;"-What kind?
+-The worst kind."
+168;718083,3334;719166,6667;"The human kind."
+169;720583,3334;721958,3334;"Its name is Renfri."
+170;725291,6667;726500;"Hm."
+171;736208,3334;737208,3334;"-[laughter]
+-Damn it."
+172;738083,3334;739416,6667;"-[sighs]
+-Go on, Martin."
+173;740166,6667;741458,3334;"-Ah! Five.
+-Yeah!"
+174;742250;744541,6667;"-Not yet.
+-There's no way you can get five."
+175;744625;746791,6667;"You're not taking a bite of that bread
+before I try."
+176;746875;748458,3334;"[distant clatter of hooves]"
+177;755958,3334;758166,6667;"-Better throw those knuckles.
+-Go on, then."
+178;758250;759750;"[hoofbeats approaching]"
+179;759833,3334;761208,3334;"-[laughter]
+-Told ya."
+180;764125;765833,3334;"I didn't steal the bread. Korin did!"
+181;765916,6667;767916,6667;"-Quick! Quick!
+-Hey, shut up, you twat!"
+182;770000;771541,6667;"You need to come with us."
+183;776833,3334;780041,6667;"[woman] As your Queen,
+I grant you this commendation,"
+184;780625;784125;"which will symbolize your duty
+and bond as liegemen"
+185;784208,3334;786708,3334;"in fealty to the crown of Cintra."
+186;793000;796291,6667;"Could use with a bit of feel-ty myself
+right now."
+187;800208,3334;801041,6667;"Gross."
+188;801125;804666,6667;"[Queen] Do you promise to defend
+to your utmost the weak, the orphaned..."
+189;804750;808416,6667;"-Late wee pups don't get to bark.
+-I was playing in the square."
+190;808500;809625;"...speak only the truth..."
+191;809708,3334;811916,6667;"-Knucklebones?
+-...loyal and brave..."
+192;812000;813958,3334;"Did you win this time?
+Like I showed you."
+193;814041,6667;815708,3334;"-...at any cost...
+-I would have,"
+194;815791,6667;818291,6667;"if the horsemen of doom hadn't
+ridden up like that."
+195;818375;820833,3334;"-I grant you this...
+-If you can't win a game of knucklebones"
+196;820916,6667;822791,6667;"-for fear of a few horses...
+-...duty and bond..."
+197;822875;824541,6667;"...what'll you do when you go into battle?"
+198;824625;827125;"-...in fealty to the crown of Cintra.
+-[sighs]"
+199;827208,3334;829458,3334;"[sighs] 
+At least you didn't shit your kecks."
+200;831500;832791,6667;"As members of the Royal Family,"
+201;832875;837166,6667;"is it too much to ask
+that you exercise a modicum of respect?"
+202;838458,3334;839541,6667;"Especially you."
+203;840833,3334;843958,3334;"This is your duty
+as king and grandfather."
+204;845500;846333,3334;"[King sighs]"
+205;846416,6667;849416,6667;"Grant me leave, my Queen.
+I am worn from my trip to the Isles."
+206;851708,3334;853916,6667;"And my bedchamber duties before that."
+207;854708,3334;855583,3334;"Gross."
+208;856625;857750;"-[chuckles]
+-As your Queen,"
+209;857833,3334;860291,6667;"I grant you this commendation,"
+210;860375;862750;"which will symbolize
+your duty and bond..."
+211;862833,3334;866125;"[Stregobor]
+Destiny has many faces, Witcher."
+212;866916,6667;869416,6667;"Mine, for example,
+is beautiful on the outside, but..."
+213;870000;871250;"hideous on the inside."
+214;871916,6667;874833,3334;"She has stretched her bloody talons
+towards me."
+215;874916,6667;876250;"Wizards are all the same."
+216;876875;880041,6667;"You talk nonsense
+while making wise and meaningful faces."
+217;882041,6667;884166,6667;"Speak normally."
+218;888250;889708,3334;"Have you ever heard of the..."
+219;890541,6667;891916,6667;"Curse of the Black Sun?"
+220;893125;896041,6667;"First full eclipse in 1,200 years."
+221;896125;898125;"It marked the imminent return
+of Lilit,"
+222;899125;902958,3334;"demon goddess of the night
+sent to exterminate the human race."
+223;904041,6667;906000;"According to the wise mage Eltibald,"
+224;907000;911125;"Lilit's path was to be prepared
+by 60 women wearing gold crowns"
+225;911208,3334;913666,6667;"who'd fill the river valleys with blood."
+226;913750;914583,3334;"Hm."
+227;915416,6667;916416,6667;"Doesn't rhyme."
+228;917416,6667;918791,6667;"All good predictions rhyme."
+229;919375;922750;"I studied the girls born
+around the Black Sun,"
+230;922833,3334;926541,6667;"and I found horrendous
+internal mutations among them."
+231;927750;929000;"I tried to cure them,"
+232;929625;931541,6667;"locked them in towers for safekeeping,"
+233;931625;934041,6667;"but the girls always died."
+234;934125;936583,3334;"Internal mutations?"
+235;937125;940583,3334;"They were autopsied, of course,
+to confirm my suspicions."
+236;941541,6667;944708,3334;"But eliminating these women was
+the lesser evil."
+237;946000;948333,3334;"They could've drowned entire kingdoms
+in blood."
+238;949000;952250;"If you'd been alive during
+Falka's Rebellion, seen what I saw--"
+239;952333,3334;954041,6667;"Innocent women are dead."
+240;958833,3334;959916,6667;"Hm."
+241;960375;962833,3334;"But not Renfri, the beautiful one."
+242;964791,6667;966541,6667;"She's after you."
+243;966625;968708,3334;"Daughter of King Fredefalk of Creyden."
+244;969791,6667;972875;"I delivered the princess myself
+in the middle of the afternoon"
+245;972958,3334;973958,3334;"in pitch black."
+246;974041,6667;977083,3334;"Under the Black Sun, so... she's cursed."
+247;977166,6667;978916,6667;"Do you consider me a fool, Witcher?"
+248;979541,6667;983333,3334;"Do you think I did not conduct research?
+Renfri was acutely affected."
+249;983416,6667;987250;"Her stepmother, Aridea,
+told me she tortured a canary,"
+250;987333,3334;988583,3334;"strangled two puppies,"
+251;988666,6667;991458,3334;"even gouged out her maid's eye
+with a comb."
+252;992625;995291,6667;"I admit what happened next was not ideal,
+but..."
+253;996208,3334;999583,3334;"with the lives of Aridea's own children
+on the line, we had to act."
+254;1000416,6667;1004333,3334;"So I dispatched someone
+to follow Renfri into the woods."
+255;1004416,6667;1005916,6667;"We found him in the brush,"
+256;1006000;1008708,3334;"Renfri's antique brooch
+jammed into his ear."
+257;1011041,6667;1015166,6667;"After that, I organized a manhunt
+to find the princess, but... eh..."
+258;1015833,3334;1016791,6667;"she was gone."
+259;1018083,3334;1019083,3334;"Two years."
+260;1020000;1021541,6667;"Until she reappeared,"
+261;1021625;1024458,3334;"robbing and murdering merchants
+on the roads of Mahakam."
+262;1024541,6667;1026958,3334;"Impaled them on sticks at first,
+but soon,"
+263;1027958,3334;1029458,3334;"she picked up sword skills."
+264;1030750;1033250;"And now no man can defy her, it's said."
+265;1033333,3334;1035875;"You're not a man. You're a magician."
+266;1035958,3334;1038916,6667;"-She's resistant to magic.
+-That's impossible in humans."
+267;1039750;1040625;"Not..."
+268;1041875;1043000;"mutated ones."
+269;1044125;1046375;"She's chased me for years,
+bent on revenge."
+270;1046458,3334;1049916,6667;"And now she's tracked me here,
+just as you arrived."
+271;1051791,6667;1052625;"Destiny."
+272;1055708,3334;1056791,6667;"Kill her."
+273;1058791,6667;1060083,3334;"I'll pay you anything."
+274;1060166,6667;1061625;"I kill monsters."
+275;1061708,3334;1065125;"The kikimora kills because it's hungry,
+Renfri kills for pleasure."
+276;1065208,3334;1068291,6667;"She is a monster.
+She is the last of Lilit's women."
+277;1069125;1071833,3334;"And she possesses the power
+to destroy us all."
+278;1072541,6667;1075208,3334;"I don't believe anyone has that power."
+279;1079708,3334;1083708,3334;"With the fate of the Continent at stake,
+is that a chance you're willing to take?"
+280;1085000;1086000;"There's your rhyme."
+281;1089708,3334;1091416,6667;"Killing Renfri is..."
+282;1091916,6667;1093416,6667;"the lesser evil."
+283;1094875;1096416,6667;"Evil is evil, Stregobor."
+284;1097208,3334;1099291,6667;"Lesser, greater,"
+285;1100166,6667;1101166,6667;"middling..."
+286;1102166,6667;1103166,6667;"it's all the same."
+287;1104375;1105791,6667;"I'm not judging you."
+288;1105875;1108083,3334;"I haven't only done good
+in my life either."
+289;1110000;1111000;"But now,"
+290;1111958,3334;1115333,3334;"if I have to choose
+between one evil and another,"
+291;1117666,6667;1119416,6667;"then I prefer not to choose at all."
+292;1129208,3334;1131208,3334;"-[laughter]
+-[folk music playing]"
+293;1139416,6667;1143166,6667;"These shindigs need a touch
+of the old abracadabra."
+294;1144333,3334;1146000;"At your service, Your Majesty."
+295;1146083,3334;1148083,3334;"Tricks and illusions to delight."
+296;1148583,3334;1151750;"He means to pull a disappearing act.
+don't you?"
+297;1152458,3334;1153875;"-No.
+-Hm."
+298;1163625;1166541,6667;"I saw the Wraiths of Mörhogg
+over the channel this morning."
+299;1166625;1168291,6667;"Yes, you mentioned."
+300;1168375;1169875;"-Who?
+-No good will come of it."
+301;1169958,3334;1171583,3334;"They're an omen of war."
+302;1171666,6667;1174125;"The North has been at war
+since Nilfgaard took Ebbing."
+303;1174583,3334;1178375;"If legend is true,
+the Wild Hunt's years behind the curve."
+304;1178791,6667;1181583,3334;"The Nilfgaardian force
+crossed the Amell Pass."
+305;1181666,6667;1183500;"Headed to Sodden, if they're smart."
+306;1183583,3334;1187291,6667;"And if not, 50 of your Skelligen ships
+are on the way."
+307;1187375;1190000;"We have more knights.
+We are prepared in case--"
+308;1190083,3334;1191166,6667;"Prepared for what?"
+309;1194333,3334;1196291,6667;"Nothing for you to be concerned about."
+310;1197041,6667;1198916,6667;"Your dismissive tone says it is."
+311;1199000;1200833,3334;"We're talking of war, girl."
+312;1201833,3334;1202875;"With Nilfgaard?"
+313;1204416,6667;1205416,6667;"-Why?
+-Eist!"
+314;1205500;1208583,3334;"Should we fall to Nilfgaard,
+your granddaughter will rule."
+315;1209333,3334;1211041,6667;"She needs to understand the way of things."
+316;1211125;1214125;"We will not fall,
+because we are not under attack!"
+317;1215458,3334;1216791,6667;"She's a child."
+318;1217666,6667;1220625;"You won your first battle in Hochebuz
+when you were my age."
+319;1221375;1222583,3334;"I've heard the ballad."
+320;1222666,6667;1224708,3334;"Pretty ballads hide bastard truths."
+321;1226500;1227583,3334;"It's a catchy song."
+322;1227666,6667;1229416,6667;"Three thousand of my men died."
+323;1233375;1234750;"If we must do this now,"
+324;1235375;1236708,3334;"here is your first lesson."
+325;1238833,3334;1243125;"As in life, it is impossible always
+to be fully prepared for battle."
+326;1244458,3334;1246208,3334;"Keep your sword close..."
+327;1247041,6667;1248291,6667;"and keep moving."
+328;1249166,6667;1250791,6667;"-[song ends]
+-[cheering]"
+329;1250875;1253000;"Your Majesty... Your Majesty."
+330;1253625;1256541,6667;"Thank you for allowing our company
+at this splendid affair."
+331;1257166,6667;1259375;"Your Majesties. Your Highness."
+332;1262416,6667;1263916,6667;"Would you honor me with a dance?"
+333;1265458,3334;1267291,6667;"Uh... Martin--"
+334;1267375;1268541,6667;"She'd love to."
+335;1296541,6667;1299791,6667;"Reminds me
+of your daughter's betrothal feast."
+336;1301625;1305166,6667;"The night you finally saw sense, said yes."
+337;1306125;1308375;"Made me the happiest man
+on the Continent."
+338;1309708,3334;1311625;"I did it to save my kingdom."
+339;1312791,6667;1313625;"And, no,"
+340;1314458,3334;1316666,6667;"you may not leave this shindig."
+341;1325583,3334;1327625;"[whispers]
+Your Majesty, my scouts have returned."
+342;1329416,6667;1331416,6667;"Nilfgaard is on its way to Cintra."
+343;1338500;1339875;"[Queen] I stand corrected."
+344;1344291,6667;1345291,6667;"They're here."
+345;1349166,6667;1350583,3334;"They're already here."
+346;1356625;1358291,6667;"So much for being smart."
+347;1360541,6667;1361916,6667;"You should tell the girl."
+348;1364833,3334;1367000;"[Queen] Let her enjoy this night in peace."
+349;1368916,6667;1370708,3334;"It may be her last for a while."
+350;1378000;1380000;"[cheering]"
+351;1384416,6667;1386083,3334;"[Roach neighing]"
+352;1388875;1390958,3334;"[birdsong]"
+353;1397208,3334;1398875;"[twigs cracking]"
+354;1416333,3334;1417583,3334;"The girl this morning,"
+355;1418958,3334;1420708,3334;"she took you to see Stregobor,
+didn't she?"
+356;1426333,3334;1429291,6667;"I know who you are, Renfri."
+357;1431333,3334;1433541,6667;"You know that I want
+to kill Stregobor, then."
+358;1435875;1438916,6667;"I used to be a princess.
+Did he tell you that?"
+359;1441541,6667;1444166,6667;"Until he sent a thug into the woods
+to kill me."
+360;1444250;1445375;"You killed him."
+361;1446000;1447291,6667;"With my mother's brooch."
+362;1459791,6667;1460916,6667;"[sighs]"
+363;1472583,3334;1474500;"Stregobor's man raped me..."
+364;1477208,3334;1478750;"robbed me and let me go."
+365;1481958,3334;1483250;"No more princess."
+366;1487250;1488416,6667;"I had to survive."
+367;1490291,6667;1492666,6667;"I stole rather than starve."
+368;1493708,3334;1495416,6667;"I killed rather than be killed."
+369;1499083,3334;1500833,3334;"Nohorn and the others saved me."
+370;1502833,3334;1506125;"And they'll be by my side at the market
+as I get my revenge."
+371;1506208,3334;1509416,6667;"Lilit help me,
+I will take down anyone in my way."
+372;1514083,3334;1515125;"Unless..."
+373;1516416,6667;1517916,6667;"destiny intervenes."
+374;1525791,6667;1527791,6667;"You want me to kill Stregobor for you."
+375;1529458,3334;1530791,6667;"It's the lesser evil."
+376;1531458,3334;1533083,3334;"So I keep getting told."
+377;1541416,6667;1543166,6667;"Stregobor asked you to kill me too."
+378;1544958,3334;1547375;"'Cause I was a girl born
+during an eclipse?"
+379;1549125;1551291,6667;"I could've become so many things."
+380;1552583,3334;1554041,6667;"Queen Calanthe of Cintra,"
+381;1554583,3334;1556708,3334;"she just won her first battle at Hochebuz."
+382;1558000;1560708,3334;"But here I am trying
+to convince you I'm not--"
+383;1560791,6667;1561791,6667;"A monster."
+384;1565000;1565875;"Are you?"
+385;1568208,3334;1569250;"How am I to know?"
+386;1569958,3334;1572583,3334;"When I cut my finger, I bleed.
+That's human, right?"
+387;1573375;1575041,6667;"When I overeat, my stomach aches."
+388;1575125;1576875;"When I'm happy, I laugh."
+389;1576958,3334;1579541,6667;"When I'm upset, I swear.
+And when I hate someone..."
+390;1579625;1581875;"for stealing my whole life from me,
+I kill him."
+391;1583000;1584041,6667;"Hm."
+392;1585333,3334;1587041,6667;"People call you a monster too."
+393;1587708,3334;1588875;"A mutant."
+394;1588958,3334;1590375;"What if they come after you?"
+395;1591250;1592125;"Attack you?"
+396;1592541,6667;1593541,6667;"They have."
+397;1595500;1597791,6667;"Why not kill them?"
+398;1597875;1598708,3334;"Because then..."
+399;1602375;1604291,6667;"I am what they say I am."
+400;1609500;1611125;"If I tell you, Witcher,"
+401;1612125;1615708,3334;"that I can neither forgive Stregobor
+nor renounce my revenge,"
+402;1616916,6667;1617916,6667;"is that it?"
+403;1619500;1620875;"I admit I'm a monster?"
+404;1621958,3334;1622833,3334;"Yes."
+405;1624208,3334;1625041,6667;"Or..."
+406;1625708,3334;1627250;"you can leave Blaviken..."
+407;1628583,3334;1629958,3334;"and finally live."
+408;1635458,3334;1636791,6667;"You choose, Princess."
+409;1644208,3334;1645375;"[Roach snorts]"
+410;1656291,6667;1658000;"[wind whistling]"
+411;1661125;1662666,6667;"[neighing]"
+412;1664250;1666250;"[man yells] Keep it steady!"
+413;1674583,3334;1675541,6667;"[man yells] Steady!"
+414;1676125;1677291,6667;"[snorts]"
+415;1677416,6667;1679541,6667;"[man yells] Stand by!"
+416;1692541,6667;1694208,3334;"[neighing uneasily]"
+417;1696625;1698625;"[thunder of hooves]"
+418;1707750;1709750;"[all yelling]"
+419;1715041,6667;1716750;"[man yells] Hold..."
+420;1716833,3334;1720958,3334;"[Calanthe] Charge!"
+421;1737041,6667;1739083,3334;"Not fair that I'm trapped here."
+422;1739166,6667;1741500;"I could magically put you to sleep,
+Princess."
+423;1743666,6667;1744750;"Just an idea."
+424;1744833,3334;1747666,6667;"-It's been two days.
+-For you and everyone else in the castle."
+425;1747750;1750083,3334;"The King and Queen ordered us
+to remain here,"
+426;1751916,6667;1753375;"and that's what we shall do."
+427;1756625;1757958,3334;"And why are you not there?"
+428;1759125;1760333,3334;"Wherever they are."
+429;1761333,3334;1762666,6667;"My duty is to protect you."
+430;1762750;1764416,6667;"You're resentful of that burden."
+431;1764500;1765916,6667;"It's the greatest honor of my life."
+432;1768000;1770416,6667;"[scoffs] You are both incredibly boring."
+433;1774875;1775833,3334;"[sighs]"
+434;1780083,3334;1781541,6667;"Many, many years ago,"
+435;1781625;1784791,6667;"sorcerers were known
+to lock little girls in towers."
+436;1785541,6667;1787250;"I'm beginning to understand why."
+437;1787333,3334;1789541,6667;"You know cautionary tales don't work
+on me."
+438;1790458,3334;1792125;"The girls were said to be cursed."
+439;1792208,3334;1794750;"They were said to announce
+the end of the human race."
+440;1794833,3334;1795791,6667;"Ooh."
+441;1797041,6667;1800000;"So they were systematically killed."
+442;1800083,3334;1801083,3334;"The end."
+443;1803666,6667;1804791,6667;"[sighs]"
+444;1813666,6667;1814875;"[man sighs]"
+445;1821291,6667;1822750;"Will my grandmother be all right?"
+446;1825041,6667;1825916,6667;"[sighs]"
+447;1833333,3334;1835333,3334;"You will be all right, Princess."
+448;1836333,3334;1837833,3334;"You are her blood."
+449;1840875;1843333,3334;"And the apple never falls far
+from the tree."
+450;1855250;1856750;"[yelling]"
+451;1861875;1862875;"[yells]"
+452;1866125;1867208,3334;"[groans]"
+453;1870750;1871833,3334;"We're losing!"
+454;1879208,3334;1881666,6667;"[screams] The ships from Skellige?"
+455;1881750;1883625;"There's been a storm, Your Majesty."
+456;1885125;1886041,6667;"No one's coming!"
+457;1886125;1887000;"[yells]"
+458;1887083,3334;1890166,6667;"Then we fight alone.
+We cannot surrender Cintra!"
+459;1890250;1891250;"Nor will we!"
+460;1899375;1900500;"[gasps]"
+461;1903958,3334;1905500;"[gasping]"
+462;1906291,6667;1907250;"Eist!"
+463;1914416,6667;1916416,6667;"[wails]"
+464;1919041,6667;1921041,6667;"[screams]"
+465;1922541,6667;1923375;"[gasps]"
+466;1926375;1927541,6667;"Move!"
+467;1927625;1928500;"[gasps]"
+468;1930916,6667;1932458,3334;"No!"
+469;1935708,3334;1940166,6667;"[woman] Guide us to the safety
+of your arms, hold us in your light,"
+470;1940666,6667;1944708,3334;"protect us from the imperial darkness
+that threatens our souls."
+471;1947458,3334;1948666,6667;"[gasps]"
+472;1950583,3334;1951750;"Princess Cirilla..."
+473;1952416,6667;1953458,3334;"Hm."
+474;1957625;1959250;"-[sighs]
+-[Martin] Are we going to be okay?"
+475;1959333,3334;1962708,3334;"[woman] Don't worry, Martin.
+The Queen will defeat Nilfgaard."
+476;1963625;1964875;"We will go home soon."
+477;1971875;1973041,6667;"Your Highness."
+478;1975375;1976583,3334;"[door opens]"
+479;1976666,6667;1978750;"[man] ...won't stop
+until they get what they want!"
+480;1978833,3334;1981250;"[Calanthe] ...a hundred arrows
+on my body first! [sobbing]"
+481;1981333,3334;1983125;"Your Majesty, what must..."
+482;1983208,3334;1984125;"[door slams]"
+483;1988333,3334;1989583,3334;"[gasping]"
+484;2002041,6667;2003458,3334;"My sweet child."
+485;2008083,3334;2009083,3334;"Careful."
+486;2011083,3334;2012041,6667;"Careful."
+487;2017333,3334;2019416,6667;"-[sobs]
+-Cintra is under attack."
+488;2024041,6667;2025250;"Eist is dead."
+489;2032750;2035125;"Nilfgaard have made their way
+into the city."
+490;2035791,6667;2036875;"Why?"
+491;2040000;2041166,6667;"The citizens..."
+492;2041916,6667;2044375;"how many of them are safe
+within our walls?"
+493;2044750;2047958,3334;"A hundred or so, Your Majesty.
+The guests from the banquet."
+494;2050250;2051375;"The supplies..."
+495;2052500;2053791,6667;"check we have enough."
+496;2056750;2057583,3334;"Aye."
+497;2066041,6667;2067750;"You've been brave, my child,"
+498;2069375;2070500;"while I've been gone?"
+499;2070583,3334;2072708,3334;"I haven't. Ask Mousesack.
+I've been impatient."
+500;2072791,6667;2075333,3334;"You will rule this land someday."
+501;2076625;2078750;"You know that, don't you?"
+502;2079500;2081041,6667;"[breathing heavily]"
+503;2081833,3334;2083375;"Why are you saying all this?"
+504;2087458,3334;2088708,3334;"Are you dying?"
+505;2091458,3334;2092625;"My sweet child,"
+506;2095125;2098458,3334;"when I go,
+it will be far more dramatic than this."
+507;2099375;2100416,6667;"[chuckles]"
+508;2112916,6667;2114125;"Now, child..."
+509;2118125;2119333,3334;"let me rest."
+510;2119958,3334;2121041,6667;"Hm?"
+511;2123333,3334;2124500;"[sighs]"
+512;2144083,3334;2146083,3334;"[rumble of battle]"
+513;2148333,3334;2150333,3334;"[crowd clamoring]"
+514;2153750;2155333,3334;"[Mousesack] They've reached the gate."
+515;2161958,3334;2163500;"[whirring]"
+516;2163583,3334;2165625;"[whooshing]"
+517;2168958,3334;2170000;"[Ciri] What are you doing?"
+518;2173333,3334;2174500;"[yelling]"
+519;2180250;2181500;"How long will it hold?"
+520;2183250;2184916,6667;"As long as I hold."
+521;2186375;2187791,6667;"[gasping]"
+522;2195250;2196125;"[sighs]"
+523;2196208,3334;2197250;"[birdsong]"
+524;2197333,3334;2199458,3334;"[Geralt] You know what Vesemir would say."
+525;2199916,6667;2202833,3334;""Witchers shouldn't play
+at being white knights."
+526;2202916,6667;2205125;"We shouldn't try and uphold the law."
+527;2206750;2208166,6667;"We don't show off."
+528;2208666,6667;2210416,6667;"We get paid in coin.""
+529;2212833,3334;2213708,3334;"And he's right."
+530;2215333,3334;2217166,6667;"[blows]"
+531;2217708,3334;2218666,6667;"Hm."
+532;2219458,3334;2221291,6667;"Want to hear about my first monster?"
+533;2221875;2223125;"[snorts]"
+534;2223208,3334;2225333,3334;"Wasn't 50 miles outside of Kaer Morhen."
+535;2227291,6667;2228500;"He was huge."
+536;2229375;2231250;"-Stinking.
+-[nickers]"
+537;2231333,3334;2232833,3334;"-Bald head.
+-[snorts]"
+538;2232916,6667;2234083,3334;"-Rotten teeth.
+-[blows]"
+539;2236791,6667;2238625;"He pulled that girl from the cart,"
+540;2239458,3334;2242083,3334;"tore her dress off
+in front of her father and said,"
+541;2242875;2244458,3334;""It's time you met a real man.""
+542;2246666,6667;2248500;"I told him it was time he met one too."
+543;2251625;2253291,6667;"It took two strikes to kill him."
+544;2254833,3334;2255875;"They weren't clean."
+545;2256916,6667;2258375;"But they were spectacular."
+546;2260625;2262583,3334;"I turned to that girl afterwards."
+547;2262666,6667;2264500;"She was drenched in the man's blood."
+548;2266333,3334;2267583,3334;"She took one look at me,"
+549;2268458,3334;2270583,3334;"screamed, vomited,"
+550;2271333,3334;2272416,6667;"and passed out."
+551;2273458,3334;2274875;"[snorts]"
+552;2274958,3334;2275791,6667;"Yeah."
+553;2277375;2279500;"-I thought the world needed me too.
+-[nickering]"
+554;2283833,3334;2285541,6667;"[Renfri] Who were you talking to?"
+555;2286458,3334;2287541,6667;"[sighs]"
+556;2291333,3334;2292458,3334;"I talk to my horse."
+557;2294208,3334;2295916,6667;"-That's sad.
+-Is it?"
+558;2300333,3334;2301416,6667;"Tell me, Witcher."
+559;2302916,6667;2304500;"You don't believe in destiny"
+560;2305041,6667;2306250;"or the lesser evil."
+561;2308208,3334;2309416,6667;"What do you believe in?"
+562;2309500;2310500;"You mean..."
+563;2311125;2312541,6667;"who do I believe."
+564;2313083,3334;2314250;"I don't pick sides."
+565;2314666,6667;2315958,3334;"You just kill monsters."
+566;2342166,6667;2343416,6667;"I've made my decision."
+567;2345791,6667;2349166,6667;"You gave me an ultimatum
+and I find they work."
+568;2352125;2353458,3334;"Tomorrow, I'll leave Blaviken."
+569;2354875;2355875;"For good."
+570;2364041,6667;2365625;"My men, they love me
+and I love them."
+571;2367000;2370041,6667;"But it's been a long time
+since someone saw me."
+572;2375625;2376750;"When I was a girl,"
+573;2378041,6667;2380458,3334;"my mother used to run her fingers..."
+574;2381041,6667;2382500;"over my forehead."
+575;2384541,6667;2385916,6667;"She'd say..."
+576;2386625;2388833,3334;"she'd give a lovely lintar..."
+577;2390125;2392958,3334;"to know the thoughts
+going around in there."
+578;2443416,6667;2445625;"[soldier] Fire at will! Fire!"
+579;2445708,3334;2447375;"Bring more fire!"
+580;2462875;2464166,6667;"[cheering]"
+581;2471458,3334;2474916,6667;"Your Majesty, the Nilfgaardians
+will breach the castle gates."
+582;2475000;2476000;"[Mousesack] Have breached."
+583;2477416,6667;2479958,3334;"My powers could not hold them any longer,
+Your Majesty."
+584;2480041,6667;2481750;"Now what? What do we do?"
+585;2482333,3334;2483166,6667;"[Calanthe] Mousesack."
+586;2484916,6667;2486791,6667;"[breathing heavily]"
+587;2487916,6667;2489791,6667;"[whispers] He's in the gatekeep."
+588;2491875;2494958,3334;"Destiny may yet side with us."
+589;2501750;2502583,3334;"Danek."
+590;2506541,6667;2507541,6667;"It's time."
+591;2507625;2509666,6667;"[army outside howling]"
+592;2510125;2511250;"What?"
+593;2513625;2515000;"Wait, where are you going?"
+594;2519916,6667;2521125;"[Calanthe] Come here, child."
+595;2534625;2536250;"The gates are down!"
+596;2537875;2539125;"Lesson number two."
+597;2541500;2544208,3334;"Know when it's time to stop moving."
+598;2545500;2546500;"You're conceding."
+599;2548083,3334;2550000;"Nilfgaard takes no prisoners."
+600;2551625;2555250;"Which means that right now,
+my citizens are being tortured."
+601;2556625;2557833,3334;"[screams]"
+602;2558958,3334;2563416,6667;"Their insides are being pulled
+to their outsides while they watch."
+603;2566500;2568416,6667;"Their legs lit on fire."
+604;2569041,6667;2571500;"Their tongues fed to the dogs."
+605;2575958,3334;2576958,3334;"Your Majesty."
+606;2577416,6667;2578666,6667;"-He's gone.
+-What?"
+607;2582958,3334;2584833,3334;"In the face of the inevitable, Cirilla,"
+608;2586333,3334;2589583,3334;"good leaders should always choose mercy."
+609;2591000;2593583,3334;"In the future,
+you will be wise to do the same."
+610;2596083,3334;2597000;"Lazlo,"
+611;2598000;2598916,6667;"bring her cloak."
+612;2600416,6667;2601708,3334;"What? No."
+613;2602416,6667;2604458,3334;"Continue to be brave. Promise me."
+614;2605208,3334;2607041,6667;"You are the Lion Cub of Cintra."
+615;2607791,6667;2610791,6667;"-You are destined for great things.
+-I can't do this without you."
+616;2610875;2611958,3334;"We must go, Your Highness."
+617;2612041,6667;2614500;"-[screams] No!
+-[roaring]"
+618;2617500;2618583,3334;"[sighs]"
+619;2621791,6667;2622708,3334;"Go."
+620;2624375;2625666,6667;"The world depends on it."
+621;2627125;2628833,3334;"[battle raging outside]"
+622;2638166,6667;2639291,6667;"I love you."
+623;2645208,3334;2647500;"Find Geralt of Rivia."
+624;2649333,3334;2650833,3334;"He is your destiny."
+625;2668416,6667;2669541,6667;"[sobs]"
+626;2677833,3334;2678708,3334;"Your Majesty."
+627;2678791,6667;2679791,6667;"I saw it too."
+628;2682750;2684125;"It is why they came."
+629;2685250;2686416,6667;"I will deliver her."
+630;2689000;2690500;"I give you my word."
+631;2690583,3334;2691750;"[gasping]"
+632;2697958,3334;2698833,3334;"Mousesack."
+633;2702166,6667;2703375;"Your service..."
+634;2704375;2706583,3334;"has been an honor to us all."
+635;2708666,6667;2709833,3334;"As has yours."
+636;2713125;2714500;"Your Majesty."
+637;2733125;2735500;"I'm sorry to disturb, my lady.
+It is time."
+638;2736208,3334;2737250;"Nilfgaard is nigh."
+639;2751708,3334;2752708,3334;"It is time."
+640;2765291,6667;2766791,6667;"[locks door]"
+641;2779041,6667;2780125;"We can leave."
+642;2781500;2783041,6667;"We can find a way out."
+643;2784625;2785583,3334;"This..."
+644;2787500;2788833,3334;"This is our way out."
+645;2829791,6667;2831250;"-What are you doing?
+-It's me, my son."
+646;2831333,3334;2833333,3334;"-What is this?
+-It's okay."
+647;2834000;2834833,3334;"[whispers]"
+648;2909333,3334;2910416,6667;"Horses."
+649;2911916,6667;2912916,6667;"Princess, come."
+650;2914083,3334;2914916,6667;"Hey!"
+651;2916875;2918500;"-Keep going.
+-No!"
+652;2919500;2922125;"Princess, I gave your grandmother my word."
+653;2922833,3334;2924041,6667;"Allow me to keep it."
+654;2925208,3334;2926041,6667;"Go."
+655;2927916,6667;2929708,3334;"My grandmother said I had to leave."
+656;2929791,6667;2931958,3334;"Why? Why is Nilfgaard here?"
+657;2932041,6667;2934541,6667;"-Why does the world depend on it?
+-Hold on, Your Highness."
+658;2940500;2941833,3334;"-[neighs]
+-Hyah!"
+659;2947500;2948875;"[snorting]"
+660;2949708,3334;2951416,6667;"[Lazlo] We're getting close to the gate."
+661;2953041,6667;2955083,3334;"I've been protected my whole life,
+Lazlo."
+662;2955166,6667;2956083,3334;"Why?"
+663;2962541,6667;2964416,6667;"-[Ciri screams]
+-[neighs]"
+664;2999666,6667;3002416,6667;"[Renfri] You were in the market.
+Covered in blood."
+665;3005583,3334;3007833,3334;"[echoing] You say you can't choose,
+but you had to."
+666;3008291,6667;3010250;"And you'll never know
+if you were right."
+667;3015375;3017000;"Your reward will be a stoning."
+668;3018333,3334;3019625;"And you will run."
+669;3020375;3023333,3334;"You will try to outrun the girl
+in the woods, but you cannot."
+670;3024083,3334;3025583,3334;"-She is your destiny.
+-Renfri!"
+671;3035916,6667;3037000;"The market."
+672;3038125;3039375;"[bleating]"
+673;3049791,6667;3050958,3334;"She knew you'd come."
+674;3053750;3055083,3334;"Where's Renfri?"
+675;3055166,6667;3057416,6667;"She's at the tower
+with your little friend,"
+676;3058208,3334;3059166,6667;"Marilka."
+677;3059750;3061958,3334;"She gave us a message
+to pass on to you."
+678;3062416,6667;3064166,6667;"You have to choose the lesser evil."
+679;3064250;3065666,6667;"It's an ultimatum."
+680;3065791,6667;3066666,6667;"[draws sword]"
+681;3066750;3067666,6667;"Get it?"
+682;3071000;3071875;"Fuck."
+683;3071958,3334;3073083,3334;"Hm."
+684;3085208,3334;3087208,3334;"[yelling]"
+685;3090916,6667;3091833,3334;"Witcher!"
+686;3128250;3129083,3334;"[Marilka] Geralt!"
+687;3129708,3334;3131041,6667;"[screams] Geralt!"
+688;3133666,6667;3134500;"[sobs] No!"
+689;3136875;3137750;"[sighs]"
+690;3144458,3334;3146500;"-You chose.
+-Let the girl go."
+691;3150416,6667;3151541,6667;"I will kill her."
+692;3153666,6667;3156708,3334;"I will kill everyone here
+until Stregobor comes down."
+693;3157916,6667;3158958,3334;"Leave Blaviken."
+694;3160708,3334;3161833,3334;"It's not too late."
+695;3162666,6667;3164000;"Magic doesn't work on me."
+696;3165625;3166916,6667;"Silver does, though."
+697;3167000;3168333,3334;"Silver is for monsters."
+698;3168416,6667;3169333,3334;"-[grunts]
+-[screams]"
+699;3172375;3175000;"-If we cross swords...
+-I won't be able to stop."
+700;3187250;3189583,3334;"They created me just as they created you."
+701;3190000;3191458,3334;"We're not so different."
+702;3193500;3195041,6667;"[groans]"
+703;3268041,6667;3270958,3334;"The girl in the woods will be
+with you always."
+704;3272750;3274000;"She is your destiny."
+705;3310875;3312875;"[screams]"
+706;3316500;3318500;"Get-- get back here, you little--"
+707;3319083,3334;3320291,6667;"-[screams]
+-[yells in pain]"
+708;3321500;3323375;"[rumbling]"
+709;3323833,3334;3325791,6667;"-[screams]
+-[yells in pain]"
+710;3326416,6667;3328666,6667;"[rumbling]"
+711;3328750;3331041,6667;"[screaming]"
+712;3340500;3341833,3334;"[gasping]"
+713;3348250;3350083,3334;"[gasping] No. No!"
+714;3386833,3334;3388041,6667;"Incredible."
+715;3390375;3391250;"[sighs]"
+716;3393541,6667;3394375;"Marilka."
+717;3395708,3334;3398083,3334;"Marilka? Marilka!"
+718;3398916,6667;3400166,6667;"Get me a cart."
+719;3400250;3402458,3334;"We'll take her to the tower
+for an autopsy."
+720;3404500;3406708,3334;"If you touch a single hair on her head..."
+721;3407583,3334;3409250;"yours will be on the ground next."
+722;3409333,3334;3410541,6667;"Have you gone mad?"
+723;3411458,3334;3412541,6667;"Her mutation,"
+724;3413458,3334;3414708,3334;"it influences people."
+725;3414791,6667;3416916,6667;"That's how she got these men
+to follow her."
+726;3417333,3334;3418583,3334;"We need to take it."
+727;3422666,6667;3425333,3334;"She got to you too, didn't she?"
+728;3427333,3334;3428333,3334;"Do not..."
+729;3428916,6667;3430041,6667;"touch her."
+730;3433500;3434541,6667;"Witcher."
+731;3436125;3439666,6667;"You butchered bodies
+in the streets of Blaviken."
+732;3439750;3441958,3334;"-You're a beast!
+-You endangered the girl."
+733;3442041,6667;3443958,3334;"-[woman] Beast!
+-[man] He's killed every single..."
+734;3444041,6667;3447416,6667;"-You took the law into your own hands.
+-[woman] Bastard!"
+735;3447500;3449416,6667;"-[crowd clamoring]
+-[woman] He's a bad one!"
+736;3449500;3451500;"-[man] Get out of here!
+-[man 2] Get out and don't..."
+737;3451583,3334;3453625;"[woman] Go on! Butcher!"
+738;3453708,3334;3455291,6667;"You made a choice."
+739;3456958,3334;3459583,3334;"And you'll never know
+if it was the right one."
+740;3459666,6667;3461333,3334;"-Die, Witcher!
+-[clamoring]"
+741;3464583,3334;3465958,3334;"Die, Witcher!"
+742;3477000;3478666,6667;"-Go, Witcher!
+-Die!"
+743;3481375;3483041,6667;"Get out of Blaviken, Geralt."
+744;3485541,6667;3486750;"Don't ever come back."
+745;3488416,6667;3489625;"Bastard!"
+746;3495583,3334;3497750;"[yelling continues]"
+747;3516625;3519333,3334;"[Renfri] The girl in the woods will be
+with you always."
+748;3521125;3522458,3334;"She is your destiny."

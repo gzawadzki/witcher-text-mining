@@ -12,66 +12,35 @@ Number;Start time in milliseconds;End time in milliseconds;"Text"
 10;99833,3334;101500;"[screeches]"
 11;112916,6667;114250;"[sighs]"
 12;125000;126500;"Today isn't your day, is it?"
-13;130958,3334;132458,3334;"[sniffs]"
-14;134791,6667;136333,3334;"-[grunts]
--[sword slashes]"
-15;160666,6667;162666,6667;"[lively buzz of conversation]"
-16;167583,3334;169041,6667;"[fiddle playing]"
-17;172583,3334;174083,3334;"-[shushing]
--[music stops]"
-18;174166,6667;176166,6667;"[scattered whispers]"
 19;180583,3334;181625;"What will it be?"
 20;182666,6667;184333,3334;"Point me to the alderman's house."
-21;184416,6667;186833,3334;"-It's down the alley to the left--
--Isadora."
+21;184416,6667;186833,3334;"-It's down the alley to the left."
 22;193750;195666,6667;"We don't want your kind here, Witcher."
-23;196666,6667;197666,6667;"The alderman,"
-24;198375;200791,6667;"tell me where he is
-and I'll be on my way."
+23;196666,6667;197666,6667;"The alderman, tell me where he is and I'll be on my way."
 25;201958,3334;203916,6667;"You don't give the orders around here..."
 26;204000;206333,3334;"[scoffs] you mutant son of a bitch."
-27;206833,3334;208166,6667;"[low thump]"
 28;209208,3334;211291,6667;"-[innkeeper] Hear that?
 -[low rumble]"
-29;211375;212375;"Go."
-30;212458,3334;215416,6667;"On your own or at the end of a rope,
-your choice."
+29;211375;212375;"Go on your own or at the end of a rope, your choice."
 31;216833,3334;217875;"Not a hard choice."
-32;218250;220625;"Yeah, fuck that. Kill him
-with your bare hands if you have to."
-33;223083,3334;225458,3334;"C'mon, Witcher.
-You're not scared of us, are ya?"
-34;228500;231500;"-Show us what you've got.
+32;218250;220625;"Yeah, fuck that. Kill him with your bare hands if you have to."
+33;223083,3334;225458,3334;"C'mon, Witcher. You're not scared of us, are ya? Show us what you've got.
 -Can you not leave it alone for a moment?"
 35;238291,6667;241083,3334;"-Witchers can't be trusted.
 -[woman] I'm not speaking to you."
-36;243083,3334;245833,3334;"I apologize
-for my man's interference in your day."
-37;248291,6667;251500;"Hopefully he can improve his behavior
-by tomorrow's market."
-38;253750;255041,6667;"Sorry, Renfri."
-39;258291,6667;259500;"Come on, lads."
-40;261666,6667;263666,6667;"Beer for my friend here and one for me."
-41;263750;264958,3334;"[fiddle resumes playing]"
-42;265041,6667;265916,6667;"[snorts]"
-43;267875;270125;"I am speaking to you now, good sir."
-44;271333,3334;273333,3334;"[lively conversation resumes]"
+36;243083,3334;245833,3334;"I apologize for my man's interference in your day. Hopefully he can improve his behavior by tomorrow's market."
+38;253750;255041,6667;"Sorry, Renfri. Come on, lads."
+40;261666,6667;263666,6667;"Beer for my friend here and one for me. I am speaking to you now, good sir."
 45;283541,6667;284666,6667;"Want some breakfast?"
-46;286833,3334;287833,3334;"I'm full."
-47;289750;290625;"Venison."
-48;309208,3334;310333,3334;"[sighs]"
+46;286833,3334;287833,3334;"I'm full. Venison."
 49;313833,3334;316208,3334;"My mother, God rest her,
 would be mortified."
 50;317833,3334;319041,6667;"Our secret, then."
-51;328208,3334;330375;"So, what brings you to Blaviken,
-White Hair?"
-52;330833,3334;332166,6667;"You came for a monster?"
+51;328208,3334;330375;"So, what brings you to Blaviken, White Hair? You came for a monster?"
 53;333125;334666,6667;"I was traveling by the swamp."
-54;334750;338041,6667;"That would be your mistake, then.
-Why wouldn't you travel by main roads?"
+54;334750;338041,6667;"That would be your mistake, then. Why wouldn't you travel by main roads?"
 55;339625;341333,3334;"It's hard to make a living on main roads."
-56;342208,3334;344541,6667;"And you desperately need money
-for new clothes."
+56;342208,3334;344541,6667;"And you desperately need money for new clothes."
 57;350250;351250;"Two more beers."
 58;366750;368083,3334;"[sighs]"
 59;368166,6667;370708,3334;"More and more,
@@ -96,40 +65,27 @@ everyone an evil witcher had arrived."
 70;427166,6667;428000;"[horse snorts]"
 71;430041,6667;431083,3334;"You don't scare me."
 72;431791,6667;432958,3334;"That's too bad."
-73;433041,6667;435125;"And I can also tell you"
-74;435791,6667;437958,3334;"that my father will have no use
-for this beast."
-75;438041,6667;439000;"Your father,"
-76;439708,3334;440708,3334;"the alderman?"
+73;433041,6667;435125;"And I can also tell you that my father will have no usefor this beast."
+75;438041,6667;439000;"Your father, the alderman?"
 77;441916,6667;443250;"He posted a flyer."
 78;444333,3334;445375;"For a graveir."
-79;446000;447291,6667;"kikimoras are useful."
-80;448458,3334;449708,3334;"Population control."
+79;446000;447291,6667;"kikimoras are useful. Population control."
 81;451625;452833,3334;"Hm."
 82;453666,6667;455500;"You should speak to Master Irion,
 our wizard."
 83;456958,3334;459875;"He's willing to pay for odds and ends
 he needs for elixirs."
-84;461000;462625;"I sold him our dog when it died."
-85;463458,3334;464375;"Mysteriously."
+84;461000;462625;"I sold him our dog when it died. Mysteriously."
 86;467500;468333,3334;"Fine."
 87;468958,3334;470083,3334;"Take me to him."
 88;471625;474000;"I got 15 crowns for the yappy mutt."
-89;475833,3334;479208,3334;"That's enough to buy some new clothes.
-Just saying."
+89;475833,3334;479208,3334;"That's enough to buy some new clothes. Just saying."
 90;481041,6667;482125;"Hm."
 91;482208,3334;483333,3334;"Come on, Roach."
-92;483875;485208,3334;"[whinnies]"
-93;488125;490041,6667;"[girl] Have you ever killed a succubus?"
-94;490375;491666,6667;"A striga?"
-95;492583,3334;493625;"Werewolf?"
-96;494291,6667;495708,3334;"She-wolf?"
+93;488125;490041,6667;"[girl] Have you ever killed a succubus? A striga? Werewolf? She-wolf?"
 97;495791,6667;496958,3334;"That's not a thing."
 98;497625;499041,6667;"So you've killed the rest?"
-99;499583,3334;501083,3334;"I think that makes you a hero."
-100;502250;505166,6667;"My mother says
-you're the offspring of foul sorcery,"
-101;505250;508666,6667;"a diabolic creation,
+99;499583,3334;501083,3334;"I think that makes you a hero. My mother says ou're the offspring of foul sorcery, a diabolic creation,
 a filthy degenerate born of Hell."
 102;509791,6667;511250;"Have you ever been to Hell?"
 103;512333,3334;513875;"I've never even left Blaviken."

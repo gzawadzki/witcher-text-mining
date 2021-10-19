@@ -1,0 +1,777 @@
+index,season_no,episode_no,episode_name,Character,Text
+0,1,1,A Grain of Truth,,[water rushing]
+1,1,1,A Grain of Truth,,[woodpecker drilling]
+2,1,1,A Grain of Truth,,[snarling]
+3,1,1,A Grain of Truth,,[screeching]
+4,1,1,A Grain of Truth,,[yells]
+5,1,1,A Grain of Truth,,[screeches]
+6,1,1,A Grain of Truth,,[grunting]
+7,1,1,A Grain of Truth,,[growls]
+8,1,1,A Grain of Truth,,[hisses]
+9,1,1,A Grain of Truth,,[neighs]
+10,1,1,A Grain of Truth,,[screeches]
+11,1,1,A Grain of Truth,,[sighs]
+12,1,1,A Grain of Truth,,"Today isn't your day, is it?"
+13,1,1,A Grain of Truth,,What will it be?
+14,1,1,A Grain of Truth,,Point me to the alderman's house.
+15,1,1,A Grain of Truth,,It's down the alley to the left.
+16,1,1,A Grain of Truth,,"We don't want your kind here, Witcher."
+17,1,1,A Grain of Truth,,"The alderman, tell me where he is and I'll be on my way."
+18,1,1,A Grain of Truth,,You don't give the orders around here...
+19,1,1,A Grain of Truth,,[scoffs] you mutant son of a bitch.
+20,1,1,A Grain of Truth,,[innkeeper] Hear that?
+21,1,1,A Grain of Truth,,[low rumble]
+22,1,1,A Grain of Truth,,"Go on your own or at the end of a rope, your choice."
+23,1,1,A Grain of Truth,,Not a hard choice.
+24,1,1,A Grain of Truth,,"Yeah, fuck that. Kill him with your bare hands if you have to."
+25,1,1,A Grain of Truth,,"C'mon, Witcher. You're not scared of us, are ya? Show us what you've got."
+26,1,1,A Grain of Truth,,Can you not leave it alone for a moment?
+27,1,1,A Grain of Truth,,Witchers can't be trusted.
+28,1,1,A Grain of Truth,,[woman] I'm not speaking to you.
+29,1,1,A Grain of Truth,,I apologize for my man's interference in your day. Hopefully he can improve his behavior by tomorrow's market.
+30,1,1,A Grain of Truth,,"Sorry, Renfri. Come on, lads."
+31,1,1,A Grain of Truth,,"Beer for my friend here and one for me. I am speaking to you now, good sir."
+32,1,1,A Grain of Truth,,Want some breakfast?
+33,1,1,A Grain of Truth,,I'm full. Venison.
+34,1,1,A Grain of Truth,,"My mother, God rest her, would be mortified."
+35,1,1,A Grain of Truth,,"Our secret, then."
+36,1,1,A Grain of Truth,,"So, what brings you to Blaviken, White Hair? You came for a monster?"
+37,1,1,A Grain of Truth,,I was traveling by the swamp.
+38,1,1,A Grain of Truth,,"That would be your mistake, then. Why wouldn't you travel by main roads?"
+39,1,1,A Grain of Truth,,It's hard to make a living on main roads.
+40,1,1,A Grain of Truth,,And you desperately need money for new clothes.
+41,1,1,A Grain of Truth,,Two more beers.
+42,1,1,A Grain of Truth,,[sighs]
+43,1,1,A Grain of Truth,,"More and more, I find monsters wherever I go."
+44,1,1,A Grain of Truth,,"How much coin for your kikimora, then?"
+45,1,1,A Grain of Truth,,I killed a rat this morning with my breakfast fork.
+46,1,1,A Grain of Truth,,Stabbed it in its fat little gut.
+47,1,1,A Grain of Truth,,"My mother nearly fainted, but what was I supposed to do?"
+48,1,1,A Grain of Truth,,It had been shitting in our pantry for days.
+49,1,1,A Grain of Truth,,[Witcher] You mentioned coin.
+50,1,1,A Grain of Truth,,[girl] Yes.
+51,1,1,A Grain of Truth,,Isadora said you were looking for my father.
+52,1,1,A Grain of Truth,,"She's a gossip, you see."
+53,1,1,A Grain of Truth,,Probably went two steps into the Lord's Inn
+54,1,1,A Grain of Truth,,before she was running off telling everyone an evil witcher had arrived.
+55,1,1,A Grain of Truth,,[horse snorts]
+56,1,1,A Grain of Truth,,You don't scare me.
+57,1,1,A Grain of Truth,,That's too bad.
+58,1,1,A Grain of Truth,,And I can also tell you that my father will have no usefor this beast.
+59,1,1,A Grain of Truth,,"Your father, the alderman?"
+60,1,1,A Grain of Truth,,He posted a flyer.
+61,1,1,A Grain of Truth,,For a graveir.
+62,1,1,A Grain of Truth,,kikimoras are useful. Population control.
+63,1,1,A Grain of Truth,,Hm.
+64,1,1,A Grain of Truth,,"You should speak to Master Irion, our wizard."
+65,1,1,A Grain of Truth,,He's willing to pay for odds and ends he needs for elixirs.
+66,1,1,A Grain of Truth,,I sold him our dog when it died. Mysteriously.
+67,1,1,A Grain of Truth,,Fine.
+68,1,1,A Grain of Truth,,Take me to him.
+69,1,1,A Grain of Truth,,I got 15 crowns for the yappy mutt.
+70,1,1,A Grain of Truth,,That's enough to buy some new clothes. Just saying.
+71,1,1,A Grain of Truth,,Hm.
+72,1,1,A Grain of Truth,,"Come on, Roach."
+73,1,1,A Grain of Truth,,[girl] Have you ever killed a succubus? A striga? Werewolf? She-wolf?
+74,1,1,A Grain of Truth,,That's not a thing.
+75,1,1,A Grain of Truth,,So you've killed the rest?
+76,1,1,A Grain of Truth,,"I think that makes you a hero. My mother says ou're the offspring of foul sorcery, a diabolic creation, a filthy degenerate born of Hell."
+77,1,1,A Grain of Truth,,Have you ever been to Hell?
+78,1,1,A Grain of Truth,,I've never even left Blaviken.
+79,1,1,A Grain of Truth,,"Because my mother's never left Blaviken,"
+80,1,1,A Grain of Truth,,"and if it's good enough for Libushe, then it's good enough for Marilka."
+81,1,1,A Grain of Truth,,That's my name.
+82,1,1,A Grain of Truth,,[goat bleats]
+83,1,1,A Grain of Truth,,Marilka.
+84,1,1,A Grain of Truth,,Like milk.
+85,1,1,A Grain of Truth,,What's your name?
+86,1,1,A Grain of Truth,,Geralt.
+87,1,1,A Grain of Truth,,Like garroter?
+88,1,1,A Grain of Truth,,Nice.
+89,1,1,A Grain of Truth,,"Where are you from, Geralt?"
+90,1,1,A Grain of Truth,,Rivia.
+91,1,1,A Grain of Truth,,"I don't know where that is, but I could learn, if you'd let me."
+92,1,1,A Grain of Truth,,No.
+93,1,1,A Grain of Truth,,Because I'm a girl and girls can't be witchers.
+94,1,1,A Grain of Truth,,Which I think is probably the stupidest thing I've ever heard.
+95,1,1,A Grain of Truth,,Hm.
+96,1,1,A Grain of Truth,,I want more.
+97,1,1,A Grain of Truth,,"I have to be more,"
+98,1,1,A Grain of Truth,,"because I don't know what to do in Blaviken for the rest of my life,"
+99,1,1,A Grain of Truth,,except go to the boring old market.
+100,1,1,A Grain of Truth,,And kill rats.
+101,1,1,A Grain of Truth,,And dogs.
+102,1,1,A Grain of Truth,,Here we are.
+103,1,1,A Grain of Truth,,Hold Roach.
+104,1,1,A Grain of Truth,,[whinnies]
+105,1,1,A Grain of Truth,,Be nice.
+106,1,1,A Grain of Truth,,"[Marilka] Hey, Roach."
+107,1,1,A Grain of Truth,,[chiming sound]
+108,1,1,A Grain of Truth,,"[low, resonating hum]"
+109,1,1,A Grain of Truth,,[bird calling]
+110,1,1,A Grain of Truth,,Greetings.
+111,1,1,A Grain of Truth,,I am Stregobor.
+112,1,1,A Grain of Truth,,Master Stregobor.
+113,1,1,A Grain of Truth,,Sorcerer.
+114,1,1,A Grain of Truth,,I have a kikimora for Master Irion.
+115,1,1,A Grain of Truth,,"Yes, well, forgive the confusion."
+116,1,1,A Grain of Truth,,"Irion created this tower, but he's been dead 200 years."
+117,1,1,A Grain of Truth,,"So, in order to honor him, I've taken his name as my..."
+118,1,1,A Grain of Truth,,personal sobriquet.
+119,1,1,A Grain of Truth,,Hm.
+120,1,1,A Grain of Truth,,"He create this illusion, too?"
+121,1,1,A Grain of Truth,,"No, this is, uh... this is..."
+122,1,1,A Grain of Truth,,my own creation.
+123,1,1,A Grain of Truth,,Helps pass time more delightfully.
+124,1,1,A Grain of Truth,,"Because you're in hiding, Stregobor."
+125,1,1,A Grain of Truth,,How very clever of you...
+126,1,1,A Grain of Truth,,Witcher.
+127,1,1,A Grain of Truth,,Not often do we see your likeness here in Blaviken.
+128,1,1,A Grain of Truth,,Not many of my likeness left.
+129,1,1,A Grain of Truth,,Hm.
+130,1,1,A Grain of Truth,,"I'd offer you my condolences, but..."
+131,1,1,A Grain of Truth,,I seem to remember that witchers don't feel...
+132,1,1,A Grain of Truth,,anything.
+133,1,1,A Grain of Truth,,I'm grateful destiny brought you to me.
+134,1,1,A Grain of Truth,,Marilka brought me to you.
+135,1,1,A Grain of Truth,,"Oh, Marilka. Marilka works for me."
+136,1,1,A Grain of Truth,,Now and then.
+137,1,1,A Grain of Truth,,On matters of great import.
+138,1,1,A Grain of Truth,,A reclusive sorcerer who uses an alias
+139,1,1,A Grain of Truth,,and hires a young girl to procure him a witcher.
+140,1,1,A Grain of Truth,,You don't want my monster.
+141,1,1,A Grain of Truth,,You want me to kill yours.
+142,1,1,A Grain of Truth,,Very clever.
+143,1,1,A Grain of Truth,,Indeed.
+144,1,1,A Grain of Truth,,What kind?
+145,1,1,A Grain of Truth,,The worst kind.
+146,1,1,A Grain of Truth,,The human kind.
+147,1,1,A Grain of Truth,,Its name is Renfri.
+148,1,1,A Grain of Truth,,Hm.
+149,1,1,A Grain of Truth,,[laughter]
+150,1,1,A Grain of Truth,,Damn it.
+151,1,1,A Grain of Truth,,[sighs]
+152,1,1,A Grain of Truth,,"Go on, Martin."
+153,1,1,A Grain of Truth,,Ah! Five.
+154,1,1,A Grain of Truth,,Yeah!
+155,1,1,A Grain of Truth,,Not yet.
+156,1,1,A Grain of Truth,,There's no way you can get five.
+157,1,1,A Grain of Truth,,You're not taking a bite of that bread before I try.
+158,1,1,A Grain of Truth,,[distant clatter of hooves]
+159,1,1,A Grain of Truth,,Better throw those knuckles.
+160,1,1,A Grain of Truth,,"Go on, then."
+161,1,1,A Grain of Truth,,[hoofbeats approaching]
+162,1,1,A Grain of Truth,,[laughter]
+163,1,1,A Grain of Truth,,Told ya.
+164,1,1,A Grain of Truth,,I didn't steal the bread. Korin did!
+165,1,1,A Grain of Truth,,Quick! Quick!
+166,1,1,A Grain of Truth,,"Hey, shut up, you twat!"
+167,1,1,A Grain of Truth,,You need to come with us.
+168,1,1,A Grain of Truth,,"[woman] As your Queen, I grant you this commendation,"
+169,1,1,A Grain of Truth,,which will symbolize your duty and bond as liegemen
+170,1,1,A Grain of Truth,,in fealty to the crown of Cintra.
+171,1,1,A Grain of Truth,,Could use with a bit of feel-ty myself right now.
+172,1,1,A Grain of Truth,,Gross.
+173,1,1,A Grain of Truth,,"[Queen] Do you promise to defend to your utmost the weak, the orphaned..."
+174,1,1,A Grain of Truth,,Late wee pups don't get to bark.
+175,1,1,A Grain of Truth,,I was playing in the square.
+176,1,1,A Grain of Truth,,...speak only the truth...
+177,1,1,A Grain of Truth,,Knucklebones?
+178,1,1,A Grain of Truth,,...loyal and brave...
+179,1,1,A Grain of Truth,,Did you win this time? Like I showed you.
+180,1,1,A Grain of Truth,,...at any cost...
+181,1,1,A Grain of Truth,,"I would have,"
+182,1,1,A Grain of Truth,,if the horsemen of doom hadn't ridden up like that.
+183,1,1,A Grain of Truth,,I grant you this...
+184,1,1,A Grain of Truth,,If you can't win a game of knucklebones
+185,1,1,A Grain of Truth,,for fear of a few horses...
+186,1,1,A Grain of Truth,,...duty and bond...
+187,1,1,A Grain of Truth,,...what'll you do when you go into battle?
+188,1,1,A Grain of Truth,,...in fealty to the crown of Cintra.
+189,1,1,A Grain of Truth,,[sighs]
+190,1,1,A Grain of Truth,,[sighs]  At least you didn't shit your kecks.
+191,1,1,A Grain of Truth,,"As members of the Royal Family,"
+192,1,1,A Grain of Truth,,is it too much to ask that you exercise a modicum of respect?
+193,1,1,A Grain of Truth,,Especially you.
+194,1,1,A Grain of Truth,,This is your duty as king and grandfather.
+195,1,1,A Grain of Truth,,[King sighs]
+196,1,1,A Grain of Truth,,"Grant me leave, my Queen. I am worn from my trip to the Isles."
+197,1,1,A Grain of Truth,,And my bedchamber duties before that.
+198,1,1,A Grain of Truth,,Gross.
+199,1,1,A Grain of Truth,,[chuckles]
+200,1,1,A Grain of Truth,,"As your Queen,"
+201,1,1,A Grain of Truth,,"I grant you this commendation,"
+202,1,1,A Grain of Truth,,which will symbolize your duty and bond...
+203,1,1,A Grain of Truth,,"[Stregobor] Destiny has many faces, Witcher."
+204,1,1,A Grain of Truth,,"Mine, for example, is beautiful on the outside, but..."
+205,1,1,A Grain of Truth,,hideous on the inside.
+206,1,1,A Grain of Truth,,She has stretched her bloody talons towards me.
+207,1,1,A Grain of Truth,,Wizards are all the same.
+208,1,1,A Grain of Truth,,You talk nonsense while making wise and meaningful faces.
+209,1,1,A Grain of Truth,,Speak normally.
+210,1,1,A Grain of Truth,,Have you ever heard of the...
+211,1,1,A Grain of Truth,,Curse of the Black Sun?
+212,1,1,A Grain of Truth,,"First full eclipse in 1,200 years."
+213,1,1,A Grain of Truth,,"It marked the imminent return of Lilit,"
+214,1,1,A Grain of Truth,,demon goddess of the night sent to exterminate the human race.
+215,1,1,A Grain of Truth,,"According to the wise mage Eltibald,"
+216,1,1,A Grain of Truth,,Lilit's path was to be prepared by 60 women wearing gold crowns
+217,1,1,A Grain of Truth,,who'd fill the river valleys with blood.
+218,1,1,A Grain of Truth,,Hm.
+219,1,1,A Grain of Truth,,Doesn't rhyme.
+220,1,1,A Grain of Truth,,All good predictions rhyme.
+221,1,1,A Grain of Truth,,"I studied the girls born around the Black Sun,"
+222,1,1,A Grain of Truth,,and I found horrendous internal mutations among them.
+223,1,1,A Grain of Truth,,"I tried to cure them,"
+224,1,1,A Grain of Truth,,"locked them in towers for safekeeping,"
+225,1,1,A Grain of Truth,,but the girls always died.
+226,1,1,A Grain of Truth,,Internal mutations?
+227,1,1,A Grain of Truth,,"They were autopsied, of course, to confirm my suspicions."
+228,1,1,A Grain of Truth,,But eliminating these women was the lesser evil.
+229,1,1,A Grain of Truth,,They could've drowned entire kingdoms in blood.
+230,1,1,A Grain of Truth,,"If you'd been alive during Falka's Rebellion, seen what I saw--"
+231,1,1,A Grain of Truth,,Innocent women are dead.
+232,1,1,A Grain of Truth,,Hm.
+233,1,1,A Grain of Truth,,"But not Renfri, the beautiful one."
+234,1,1,A Grain of Truth,,She's after you.
+235,1,1,A Grain of Truth,,Daughter of King Fredefalk of Creyden.
+236,1,1,A Grain of Truth,,I delivered the princess myself in the middle of the afternoon
+237,1,1,A Grain of Truth,,in pitch black.
+238,1,1,A Grain of Truth,,"Under the Black Sun, so... she's cursed."
+239,1,1,A Grain of Truth,,"Do you consider me a fool, Witcher?"
+240,1,1,A Grain of Truth,,Do you think I did not conduct research? Renfri was acutely affected.
+241,1,1,A Grain of Truth,,"Her stepmother, Aridea, told me she tortured a canary,"
+242,1,1,A Grain of Truth,,"strangled two puppies,"
+243,1,1,A Grain of Truth,,even gouged out her maid's eye with a comb.
+244,1,1,A Grain of Truth,,"I admit what happened next was not ideal, but..."
+245,1,1,A Grain of Truth,,"with the lives of Aridea's own children on the line, we had to act."
+246,1,1,A Grain of Truth,,So I dispatched someone to follow Renfri into the woods.
+247,1,1,A Grain of Truth,,"We found him in the brush,"
+248,1,1,A Grain of Truth,,Renfri's antique brooch jammed into his ear.
+249,1,1,A Grain of Truth,,"After that, I organized a manhunt to find the princess, but... eh..."
+250,1,1,A Grain of Truth,,she was gone.
+251,1,1,A Grain of Truth,,Two years.
+252,1,1,A Grain of Truth,,"Until she reappeared,"
+253,1,1,A Grain of Truth,,robbing and murdering merchants on the roads of Mahakam.
+254,1,1,A Grain of Truth,,"Impaled them on sticks at first, but soon,"
+255,1,1,A Grain of Truth,,she picked up sword skills.
+256,1,1,A Grain of Truth,,"And now no man can defy her, it's said."
+257,1,1,A Grain of Truth,,You're not a man. You're a magician.
+258,1,1,A Grain of Truth,,She's resistant to magic.
+259,1,1,A Grain of Truth,,That's impossible in humans.
+260,1,1,A Grain of Truth,,Not...
+261,1,1,A Grain of Truth,,mutated ones.
+262,1,1,A Grain of Truth,,"She's chased me for years, bent on revenge."
+263,1,1,A Grain of Truth,,"And now she's tracked me here, just as you arrived."
+264,1,1,A Grain of Truth,,Destiny.
+265,1,1,A Grain of Truth,,Kill her.
+266,1,1,A Grain of Truth,,I'll pay you anything.
+267,1,1,A Grain of Truth,,I kill monsters.
+268,1,1,A Grain of Truth,,"The kikimora kills because it's hungry, Renfri kills for pleasure."
+269,1,1,A Grain of Truth,,She is a monster. She is the last of Lilit's women.
+270,1,1,A Grain of Truth,,And she possesses the power to destroy us all.
+271,1,1,A Grain of Truth,,I don't believe anyone has that power.
+272,1,1,A Grain of Truth,,"With the fate of the Continent at stake, is that a chance you're willing to take?"
+273,1,1,A Grain of Truth,,There's your rhyme.
+274,1,1,A Grain of Truth,,Killing Renfri is...
+275,1,1,A Grain of Truth,,the lesser evil.
+276,1,1,A Grain of Truth,,"Evil is evil, Stregobor."
+277,1,1,A Grain of Truth,,"Lesser, greater,"
+278,1,1,A Grain of Truth,,middling...
+279,1,1,A Grain of Truth,,it's all the same.
+280,1,1,A Grain of Truth,,I'm not judging you.
+281,1,1,A Grain of Truth,,I haven't only done good in my life either.
+282,1,1,A Grain of Truth,,"But now,"
+283,1,1,A Grain of Truth,,"if I have to choose between one evil and another,"
+284,1,1,A Grain of Truth,,then I prefer not to choose at all.
+285,1,1,A Grain of Truth,,[laughter]
+286,1,1,A Grain of Truth,,[folk music playing]
+287,1,1,A Grain of Truth,,These shindigs need a touch of the old abracadabra.
+288,1,1,A Grain of Truth,,"At your service, Your Majesty."
+289,1,1,A Grain of Truth,,Tricks and illusions to delight.
+290,1,1,A Grain of Truth,,He means to pull a disappearing act. don't you?
+291,1,1,A Grain of Truth,,No.
+292,1,1,A Grain of Truth,,Hm.
+293,1,1,A Grain of Truth,,I saw the Wraiths of Mörhogg over the channel this morning.
+294,1,1,A Grain of Truth,,"Yes, you mentioned."
+295,1,1,A Grain of Truth,,Who?
+296,1,1,A Grain of Truth,,No good will come of it.
+297,1,1,A Grain of Truth,,They're an omen of war.
+298,1,1,A Grain of Truth,,The North has been at war since Nilfgaard took Ebbing.
+299,1,1,A Grain of Truth,,"If legend is true, the Wild Hunt's years behind the curve."
+300,1,1,A Grain of Truth,,The Nilfgaardian force crossed the Amell Pass.
+301,1,1,A Grain of Truth,,"Headed to Sodden, if they're smart."
+302,1,1,A Grain of Truth,,"And if not, 50 of your Skelligen ships are on the way."
+303,1,1,A Grain of Truth,,We have more knights. We are prepared in case--
+304,1,1,A Grain of Truth,,Prepared for what?
+305,1,1,A Grain of Truth,,Nothing for you to be concerned about.
+306,1,1,A Grain of Truth,,Your dismissive tone says it is.
+307,1,1,A Grain of Truth,,"We're talking of war, girl."
+308,1,1,A Grain of Truth,,With Nilfgaard?
+309,1,1,A Grain of Truth,,Why?
+310,1,1,A Grain of Truth,,Eist!
+311,1,1,A Grain of Truth,,"Should we fall to Nilfgaard, your granddaughter will rule."
+312,1,1,A Grain of Truth,,She needs to understand the way of things.
+313,1,1,A Grain of Truth,,"We will not fall, because we are not under attack!"
+314,1,1,A Grain of Truth,,She's a child.
+315,1,1,A Grain of Truth,,You won your first battle in Hochebuz when you were my age.
+316,1,1,A Grain of Truth,,I've heard the ballad.
+317,1,1,A Grain of Truth,,Pretty ballads hide bastard truths.
+318,1,1,A Grain of Truth,,It's a catchy song.
+319,1,1,A Grain of Truth,,Three thousand of my men died.
+320,1,1,A Grain of Truth,,"If we must do this now,"
+321,1,1,A Grain of Truth,,here is your first lesson.
+322,1,1,A Grain of Truth,,"As in life, it is impossible always to be fully prepared for battle."
+323,1,1,A Grain of Truth,,Keep your sword close...
+324,1,1,A Grain of Truth,,and keep moving.
+325,1,1,A Grain of Truth,,[song ends]
+326,1,1,A Grain of Truth,,[cheering]
+327,1,1,A Grain of Truth,,Your Majesty... Your Majesty.
+328,1,1,A Grain of Truth,,Thank you for allowing our company at this splendid affair.
+329,1,1,A Grain of Truth,,Your Majesties. Your Highness.
+330,1,1,A Grain of Truth,,Would you honor me with a dance?
+331,1,1,A Grain of Truth,,Uh... Martin--
+332,1,1,A Grain of Truth,,She'd love to.
+333,1,1,A Grain of Truth,,Reminds me of your daughter's betrothal feast.
+334,1,1,A Grain of Truth,,"The night you finally saw sense, said yes."
+335,1,1,A Grain of Truth,,Made me the happiest man on the Continent.
+336,1,1,A Grain of Truth,,I did it to save my kingdom.
+337,1,1,A Grain of Truth,,"And, no,"
+338,1,1,A Grain of Truth,,you may not leave this shindig.
+339,1,1,A Grain of Truth,,"[whispers] Your Majesty, my scouts have returned."
+340,1,1,A Grain of Truth,,Nilfgaard is on its way to Cintra.
+341,1,1,A Grain of Truth,,[Queen] I stand corrected.
+342,1,1,A Grain of Truth,,They're here.
+343,1,1,A Grain of Truth,,They're already here.
+344,1,1,A Grain of Truth,,So much for being smart.
+345,1,1,A Grain of Truth,,You should tell the girl.
+346,1,1,A Grain of Truth,,[Queen] Let her enjoy this night in peace.
+347,1,1,A Grain of Truth,,It may be her last for a while.
+348,1,1,A Grain of Truth,,[cheering]
+349,1,1,A Grain of Truth,,[Roach neighing]
+350,1,1,A Grain of Truth,,[birdsong]
+351,1,1,A Grain of Truth,,[twigs cracking]
+352,1,1,A Grain of Truth,,"The girl this morning,"
+353,1,1,A Grain of Truth,,"she took you to see Stregobor, didn't she?"
+354,1,1,A Grain of Truth,,"I know who you are, Renfri."
+355,1,1,A Grain of Truth,,"You know that I want to kill Stregobor, then."
+356,1,1,A Grain of Truth,,I used to be a princess. Did he tell you that?
+357,1,1,A Grain of Truth,,Until he sent a thug into the woods to kill me.
+358,1,1,A Grain of Truth,,You killed him.
+359,1,1,A Grain of Truth,,With my mother's brooch.
+360,1,1,A Grain of Truth,,[sighs]
+361,1,1,A Grain of Truth,,Stregobor's man raped me...
+362,1,1,A Grain of Truth,,robbed me and let me go.
+363,1,1,A Grain of Truth,,No more princess.
+364,1,1,A Grain of Truth,,I had to survive.
+365,1,1,A Grain of Truth,,I stole rather than starve.
+366,1,1,A Grain of Truth,,I killed rather than be killed.
+367,1,1,A Grain of Truth,,Nohorn and the others saved me.
+368,1,1,A Grain of Truth,,And they'll be by my side at the market as I get my revenge.
+369,1,1,A Grain of Truth,,"Lilit help me, I will take down anyone in my way."
+370,1,1,A Grain of Truth,,Unless...
+371,1,1,A Grain of Truth,,destiny intervenes.
+372,1,1,A Grain of Truth,,You want me to kill Stregobor for you.
+373,1,1,A Grain of Truth,,It's the lesser evil.
+374,1,1,A Grain of Truth,,So I keep getting told.
+375,1,1,A Grain of Truth,,Stregobor asked you to kill me too.
+376,1,1,A Grain of Truth,,'Cause I was a girl born during an eclipse?
+377,1,1,A Grain of Truth,,I could've become so many things.
+378,1,1,A Grain of Truth,,"Queen Calanthe of Cintra,"
+379,1,1,A Grain of Truth,,she just won her first battle at Hochebuz.
+380,1,1,A Grain of Truth,,But here I am trying to convince you I'm not--
+381,1,1,A Grain of Truth,,A monster.
+382,1,1,A Grain of Truth,,Are you?
+383,1,1,A Grain of Truth,,How am I to know?
+384,1,1,A Grain of Truth,,"When I cut my finger, I bleed. That's human, right?"
+385,1,1,A Grain of Truth,,"When I overeat, my stomach aches."
+386,1,1,A Grain of Truth,,"When I'm happy, I laugh."
+387,1,1,A Grain of Truth,,"When I'm upset, I swear. And when I hate someone..."
+388,1,1,A Grain of Truth,,"for stealing my whole life from me, I kill him."
+389,1,1,A Grain of Truth,,Hm.
+390,1,1,A Grain of Truth,,People call you a monster too.
+391,1,1,A Grain of Truth,,A mutant.
+392,1,1,A Grain of Truth,,What if they come after you?
+393,1,1,A Grain of Truth,,Attack you?
+394,1,1,A Grain of Truth,,They have.
+395,1,1,A Grain of Truth,,Why not kill them?
+396,1,1,A Grain of Truth,,Because then...
+397,1,1,A Grain of Truth,,I am what they say I am.
+398,1,1,A Grain of Truth,,"If I tell you, Witcher,"
+399,1,1,A Grain of Truth,,"that I can neither forgive Stregobor nor renounce my revenge,"
+400,1,1,A Grain of Truth,,is that it?
+401,1,1,A Grain of Truth,,I admit I'm a monster?
+402,1,1,A Grain of Truth,,Yes.
+403,1,1,A Grain of Truth,,Or...
+404,1,1,A Grain of Truth,,you can leave Blaviken...
+405,1,1,A Grain of Truth,,and finally live.
+406,1,1,A Grain of Truth,,"You choose, Princess."
+407,1,1,A Grain of Truth,,[Roach snorts]
+408,1,1,A Grain of Truth,,[wind whistling]
+409,1,1,A Grain of Truth,,[neighing]
+410,1,1,A Grain of Truth,,[man yells] Keep it steady!
+411,1,1,A Grain of Truth,,[man yells] Steady!
+412,1,1,A Grain of Truth,,[snorts]
+413,1,1,A Grain of Truth,,[man yells] Stand by!
+414,1,1,A Grain of Truth,,[neighing uneasily]
+415,1,1,A Grain of Truth,,[thunder of hooves]
+416,1,1,A Grain of Truth,,[all yelling]
+417,1,1,A Grain of Truth,,[man yells] Hold...
+418,1,1,A Grain of Truth,,[Calanthe] Charge!
+419,1,1,A Grain of Truth,,Not fair that I'm trapped here.
+420,1,1,A Grain of Truth,,"I could magically put you to sleep, Princess."
+421,1,1,A Grain of Truth,,Just an idea.
+422,1,1,A Grain of Truth,,It's been two days.
+423,1,1,A Grain of Truth,,For you and everyone else in the castle.
+424,1,1,A Grain of Truth,,"The King and Queen ordered us to remain here,"
+425,1,1,A Grain of Truth,,and that's what we shall do.
+426,1,1,A Grain of Truth,,And why are you not there?
+427,1,1,A Grain of Truth,,Wherever they are.
+428,1,1,A Grain of Truth,,My duty is to protect you.
+429,1,1,A Grain of Truth,,You're resentful of that burden.
+430,1,1,A Grain of Truth,,It's the greatest honor of my life.
+431,1,1,A Grain of Truth,,[scoffs] You are both incredibly boring.
+432,1,1,A Grain of Truth,,[sighs]
+433,1,1,A Grain of Truth,,"Many, many years ago,"
+434,1,1,A Grain of Truth,,sorcerers were known to lock little girls in towers.
+435,1,1,A Grain of Truth,,I'm beginning to understand why.
+436,1,1,A Grain of Truth,,You know cautionary tales don't work on me.
+437,1,1,A Grain of Truth,,The girls were said to be cursed.
+438,1,1,A Grain of Truth,,They were said to announce the end of the human race.
+439,1,1,A Grain of Truth,,Ooh.
+440,1,1,A Grain of Truth,,So they were systematically killed.
+441,1,1,A Grain of Truth,,The end.
+442,1,1,A Grain of Truth,,[sighs]
+443,1,1,A Grain of Truth,,[man sighs]
+444,1,1,A Grain of Truth,,Will my grandmother be all right?
+445,1,1,A Grain of Truth,,[sighs]
+446,1,1,A Grain of Truth,,"You will be all right, Princess."
+447,1,1,A Grain of Truth,,You are her blood.
+448,1,1,A Grain of Truth,,And the apple never falls far from the tree.
+449,1,1,A Grain of Truth,,[yelling]
+450,1,1,A Grain of Truth,,[yells]
+451,1,1,A Grain of Truth,,[groans]
+452,1,1,A Grain of Truth,,We're losing!
+453,1,1,A Grain of Truth,,[screams] The ships from Skellige?
+454,1,1,A Grain of Truth,,"There's been a storm, Your Majesty."
+455,1,1,A Grain of Truth,,No one's coming!
+456,1,1,A Grain of Truth,,[yells]
+457,1,1,A Grain of Truth,,Then we fight alone. We cannot surrender Cintra!
+458,1,1,A Grain of Truth,,Nor will we!
+459,1,1,A Grain of Truth,,[gasps]
+460,1,1,A Grain of Truth,,[gasping]
+461,1,1,A Grain of Truth,,Eist!
+462,1,1,A Grain of Truth,,[wails]
+463,1,1,A Grain of Truth,,[screams]
+464,1,1,A Grain of Truth,,[gasps]
+465,1,1,A Grain of Truth,,Move!
+466,1,1,A Grain of Truth,,[gasps]
+467,1,1,A Grain of Truth,,No!
+468,1,1,A Grain of Truth,,"[woman] Guide us to the safety of your arms, hold us in your light,"
+469,1,1,A Grain of Truth,,protect us from the imperial darkness that threatens our souls.
+470,1,1,A Grain of Truth,,[gasps]
+471,1,1,A Grain of Truth,,Princess Cirilla...
+472,1,1,A Grain of Truth,,Hm.
+473,1,1,A Grain of Truth,,[sighs]
+474,1,1,A Grain of Truth,,[Martin] Are we going to be okay?
+475,1,1,A Grain of Truth,,"[woman] Don't worry, Martin. The Queen will defeat Nilfgaard."
+476,1,1,A Grain of Truth,,We will go home soon.
+477,1,1,A Grain of Truth,,Your Highness.
+478,1,1,A Grain of Truth,,[door opens]
+479,1,1,A Grain of Truth,,[man] ...won't stop until they get what they want!
+480,1,1,A Grain of Truth,,[Calanthe] ...a hundred arrows on my body first! [sobbing]
+481,1,1,A Grain of Truth,,"Your Majesty, what must..."
+482,1,1,A Grain of Truth,,[door slams]
+483,1,1,A Grain of Truth,,[gasping]
+484,1,1,A Grain of Truth,,My sweet child.
+485,1,1,A Grain of Truth,,Careful.
+486,1,1,A Grain of Truth,,Careful.
+487,1,1,A Grain of Truth,,[sobs]
+488,1,1,A Grain of Truth,,Cintra is under attack.
+489,1,1,A Grain of Truth,,Eist is dead.
+490,1,1,A Grain of Truth,,Nilfgaard have made their way into the city.
+491,1,1,A Grain of Truth,,Why?
+492,1,1,A Grain of Truth,,The citizens...
+493,1,1,A Grain of Truth,,how many of them are safe within our walls?
+494,1,1,A Grain of Truth,,"A hundred or so, Your Majesty. The guests from the banquet."
+495,1,1,A Grain of Truth,,The supplies...
+496,1,1,A Grain of Truth,,check we have enough.
+497,1,1,A Grain of Truth,,Aye.
+498,1,1,A Grain of Truth,,"You've been brave, my child,"
+499,1,1,A Grain of Truth,,while I've been gone?
+500,1,1,A Grain of Truth,,I haven't. Ask Mousesack. I've been impatient.
+501,1,1,A Grain of Truth,,You will rule this land someday.
+502,1,1,A Grain of Truth,,"You know that, don't you?"
+503,1,1,A Grain of Truth,,[breathing heavily]
+504,1,1,A Grain of Truth,,Why are you saying all this?
+505,1,1,A Grain of Truth,,Are you dying?
+506,1,1,A Grain of Truth,,"My sweet child,"
+507,1,1,A Grain of Truth,,"when I go, it will be far more dramatic than this."
+508,1,1,A Grain of Truth,,[chuckles]
+509,1,1,A Grain of Truth,,"Now, child..."
+510,1,1,A Grain of Truth,,let me rest.
+511,1,1,A Grain of Truth,,Hm?
+512,1,1,A Grain of Truth,,[sighs]
+513,1,1,A Grain of Truth,,[rumble of battle]
+514,1,1,A Grain of Truth,,[crowd clamoring]
+515,1,1,A Grain of Truth,,[Mousesack] They've reached the gate.
+516,1,1,A Grain of Truth,,[whirring]
+517,1,1,A Grain of Truth,,[whooshing]
+518,1,1,A Grain of Truth,,[Ciri] What are you doing?
+519,1,1,A Grain of Truth,,[yelling]
+520,1,1,A Grain of Truth,,How long will it hold?
+521,1,1,A Grain of Truth,,As long as I hold.
+522,1,1,A Grain of Truth,,[gasping]
+523,1,1,A Grain of Truth,,[sighs]
+524,1,1,A Grain of Truth,,[birdsong]
+525,1,1,A Grain of Truth,,[Geralt] You know what Vesemir would say.
+526,1,1,A Grain of Truth,,Witchers shouldn't play
+528,1,1,A Grain of Truth,,We shouldn't try and uphold the law.
+529,1,1,A Grain of Truth,,We don't show off.
+530,1,1,A Grain of Truth,,"We get paid in coin."" 529;2212833,3334;2213708,3334;And he's right."""
+531,1,1,A Grain of Truth,,[blows]
+532,1,1,A Grain of Truth,,Hm.
+533,1,1,A Grain of Truth,,Want to hear about my first monster?
+534,1,1,A Grain of Truth,,[snorts]
+535,1,1,A Grain of Truth,,Wasn't 50 miles outside of Kaer Morhen.
+536,1,1,A Grain of Truth,,He was huge.
+537,1,1,A Grain of Truth,,Stinking.
+538,1,1,A Grain of Truth,,[nickers]
+539,1,1,A Grain of Truth,,Bald head.
+540,1,1,A Grain of Truth,,[snorts]
+541,1,1,A Grain of Truth,,Rotten teeth.
+542,1,1,A Grain of Truth,,[blows]
+543,1,1,A Grain of Truth,,"He pulled that girl from the cart,"
+544,1,1,A Grain of Truth,,"tore her dress off in front of her father and said,"
+545,1,1,A Grain of Truth,,"It's time you met a real man."""""
+546,1,1,A Grain of Truth,,I told him it was time he met one too.
+547,1,1,A Grain of Truth,,It took two strikes to kill him.
+548,1,1,A Grain of Truth,,They weren't clean.
+549,1,1,A Grain of Truth,,But they were spectacular.
+550,1,1,A Grain of Truth,,I turned to that girl afterwards.
+551,1,1,A Grain of Truth,,She was drenched in the man's blood.
+552,1,1,A Grain of Truth,,"She took one look at me,"
+553,1,1,A Grain of Truth,,"screamed, vomited,"
+554,1,1,A Grain of Truth,,and passed out.
+555,1,1,A Grain of Truth,,[snorts]
+556,1,1,A Grain of Truth,,Yeah.
+557,1,1,A Grain of Truth,,I thought the world needed me too.
+558,1,1,A Grain of Truth,,[nickering]
+559,1,1,A Grain of Truth,,[Renfri] Who were you talking to?
+560,1,1,A Grain of Truth,,[sighs]
+561,1,1,A Grain of Truth,,I talk to my horse.
+562,1,1,A Grain of Truth,,That's sad.
+563,1,1,A Grain of Truth,,Is it?
+564,1,1,A Grain of Truth,,"Tell me, Witcher."
+565,1,1,A Grain of Truth,,You don't believe in destiny
+566,1,1,A Grain of Truth,,or the lesser evil.
+567,1,1,A Grain of Truth,,What do you believe in?
+568,1,1,A Grain of Truth,,You mean...
+569,1,1,A Grain of Truth,,who do I believe.
+570,1,1,A Grain of Truth,,I don't pick sides.
+571,1,1,A Grain of Truth,,You just kill monsters.
+572,1,1,A Grain of Truth,,I've made my decision.
+573,1,1,A Grain of Truth,,You gave me an ultimatum and I find they work.
+574,1,1,A Grain of Truth,,"Tomorrow, I'll leave Blaviken."
+575,1,1,A Grain of Truth,,For good.
+576,1,1,A Grain of Truth,,"My men, they love me and I love them."
+577,1,1,A Grain of Truth,,But it's been a long time since someone saw me.
+578,1,1,A Grain of Truth,,"When I was a girl,"
+579,1,1,A Grain of Truth,,my mother used to run her fingers...
+580,1,1,A Grain of Truth,,over my forehead.
+581,1,1,A Grain of Truth,,She'd say...
+582,1,1,A Grain of Truth,,she'd give a lovely lintar...
+583,1,1,A Grain of Truth,,to know the thoughts going around in there.
+584,1,1,A Grain of Truth,,[soldier] Fire at will! Fire!
+585,1,1,A Grain of Truth,,Bring more fire!
+586,1,1,A Grain of Truth,,[cheering]
+587,1,1,A Grain of Truth,,"Your Majesty, the Nilfgaardians will breach the castle gates."
+588,1,1,A Grain of Truth,,[Mousesack] Have breached.
+589,1,1,A Grain of Truth,,"My powers could not hold them any longer, Your Majesty."
+590,1,1,A Grain of Truth,,Now what? What do we do?
+591,1,1,A Grain of Truth,,[Calanthe] Mousesack.
+592,1,1,A Grain of Truth,,[breathing heavily]
+593,1,1,A Grain of Truth,,[whispers] He's in the gatekeep.
+594,1,1,A Grain of Truth,,Destiny may yet side with us.
+595,1,1,A Grain of Truth,,Danek.
+596,1,1,A Grain of Truth,,It's time.
+597,1,1,A Grain of Truth,,[army outside howling]
+598,1,1,A Grain of Truth,,What?
+599,1,1,A Grain of Truth,,"Wait, where are you going?"
+600,1,1,A Grain of Truth,,"[Calanthe] Come here, child."
+601,1,1,A Grain of Truth,,The gates are down!
+602,1,1,A Grain of Truth,,Lesson number two.
+603,1,1,A Grain of Truth,,Know when it's time to stop moving.
+604,1,1,A Grain of Truth,,You're conceding.
+605,1,1,A Grain of Truth,,Nilfgaard takes no prisoners.
+606,1,1,A Grain of Truth,,"Which means that right now, my citizens are being tortured."
+607,1,1,A Grain of Truth,,[screams]
+608,1,1,A Grain of Truth,,Their insides are being pulled to their outsides while they watch.
+609,1,1,A Grain of Truth,,Their legs lit on fire.
+610,1,1,A Grain of Truth,,Their tongues fed to the dogs.
+611,1,1,A Grain of Truth,,Your Majesty.
+612,1,1,A Grain of Truth,,He's gone.
+613,1,1,A Grain of Truth,,What?
+614,1,1,A Grain of Truth,,"In the face of the inevitable, Cirilla,"
+615,1,1,A Grain of Truth,,good leaders should always choose mercy.
+616,1,1,A Grain of Truth,,"In the future, you will be wise to do the same."
+617,1,1,A Grain of Truth,,"Lazlo,"
+618,1,1,A Grain of Truth,,bring her cloak.
+619,1,1,A Grain of Truth,,What? No.
+620,1,1,A Grain of Truth,,Continue to be brave. Promise me.
+621,1,1,A Grain of Truth,,You are the Lion Cub of Cintra.
+622,1,1,A Grain of Truth,,You are destined for great things.
+623,1,1,A Grain of Truth,,I can't do this without you.
+624,1,1,A Grain of Truth,,"We must go, Your Highness."
+625,1,1,A Grain of Truth,,[screams] No!
+626,1,1,A Grain of Truth,,[roaring]
+627,1,1,A Grain of Truth,,[sighs]
+628,1,1,A Grain of Truth,,Go.
+629,1,1,A Grain of Truth,,The world depends on it.
+630,1,1,A Grain of Truth,,[battle raging outside]
+631,1,1,A Grain of Truth,,I love you.
+632,1,1,A Grain of Truth,,Find Geralt of Rivia.
+633,1,1,A Grain of Truth,,He is your destiny.
+634,1,1,A Grain of Truth,,[sobs]
+635,1,1,A Grain of Truth,,Your Majesty.
+636,1,1,A Grain of Truth,,I saw it too.
+637,1,1,A Grain of Truth,,It is why they came.
+638,1,1,A Grain of Truth,,I will deliver her.
+639,1,1,A Grain of Truth,,I give you my word.
+640,1,1,A Grain of Truth,,[gasping]
+641,1,1,A Grain of Truth,,Mousesack.
+642,1,1,A Grain of Truth,,Your service...
+643,1,1,A Grain of Truth,,has been an honor to us all.
+644,1,1,A Grain of Truth,,As has yours.
+645,1,1,A Grain of Truth,,Your Majesty.
+646,1,1,A Grain of Truth,,"I'm sorry to disturb, my lady. It is time."
+647,1,1,A Grain of Truth,,Nilfgaard is nigh.
+648,1,1,A Grain of Truth,,It is time.
+649,1,1,A Grain of Truth,,[locks door]
+650,1,1,A Grain of Truth,,We can leave.
+651,1,1,A Grain of Truth,,We can find a way out.
+652,1,1,A Grain of Truth,,This...
+653,1,1,A Grain of Truth,,This is our way out.
+654,1,1,A Grain of Truth,,What are you doing?
+655,1,1,A Grain of Truth,,"It's me, my son."
+656,1,1,A Grain of Truth,,What is this?
+657,1,1,A Grain of Truth,,It's okay.
+658,1,1,A Grain of Truth,,[whispers]
+659,1,1,A Grain of Truth,,Horses.
+660,1,1,A Grain of Truth,,"Princess, come."
+661,1,1,A Grain of Truth,,Hey!
+662,1,1,A Grain of Truth,,Keep going.
+663,1,1,A Grain of Truth,,No!
+664,1,1,A Grain of Truth,,"Princess, I gave your grandmother my word."
+665,1,1,A Grain of Truth,,Allow me to keep it.
+666,1,1,A Grain of Truth,,Go.
+667,1,1,A Grain of Truth,,My grandmother said I had to leave.
+668,1,1,A Grain of Truth,,Why? Why is Nilfgaard here?
+669,1,1,A Grain of Truth,,Why does the world depend on it?
+670,1,1,A Grain of Truth,,"Hold on, Your Highness."
+671,1,1,A Grain of Truth,,[neighs]
+672,1,1,A Grain of Truth,,Hyah!
+673,1,1,A Grain of Truth,,[snorting]
+674,1,1,A Grain of Truth,,[Lazlo] We're getting close to the gate.
+675,1,1,A Grain of Truth,,"I've been protected my whole life, Lazlo."
+676,1,1,A Grain of Truth,,Why?
+677,1,1,A Grain of Truth,,[Ciri screams]
+678,1,1,A Grain of Truth,,[neighs]
+679,1,1,A Grain of Truth,,[Renfri] You were in the market. Covered in blood.
+680,1,1,A Grain of Truth,,"[echoing] You say you can't choose, but you had to."
+681,1,1,A Grain of Truth,,And you'll never know if you were right.
+682,1,1,A Grain of Truth,,Your reward will be a stoning.
+683,1,1,A Grain of Truth,,And you will run.
+684,1,1,A Grain of Truth,,"You will try to outrun the girl in the woods, but you cannot."
+685,1,1,A Grain of Truth,,She is your destiny.
+686,1,1,A Grain of Truth,,Renfri!
+687,1,1,A Grain of Truth,,The market.
+688,1,1,A Grain of Truth,,[bleating]
+689,1,1,A Grain of Truth,,She knew you'd come.
+690,1,1,A Grain of Truth,,Where's Renfri?
+691,1,1,A Grain of Truth,,"She's at the tower with your little friend,"
+692,1,1,A Grain of Truth,,Marilka.
+693,1,1,A Grain of Truth,,She gave us a message to pass on to you.
+694,1,1,A Grain of Truth,,You have to choose the lesser evil.
+695,1,1,A Grain of Truth,,It's an ultimatum.
+696,1,1,A Grain of Truth,,[draws sword]
+697,1,1,A Grain of Truth,,Get it?
+698,1,1,A Grain of Truth,,Fuck.
+699,1,1,A Grain of Truth,,Hm.
+700,1,1,A Grain of Truth,,[yelling]
+701,1,1,A Grain of Truth,,Witcher!
+702,1,1,A Grain of Truth,,[Marilka] Geralt!
+703,1,1,A Grain of Truth,,[screams] Geralt!
+704,1,1,A Grain of Truth,,[sobs] No!
+705,1,1,A Grain of Truth,,[sighs]
+706,1,1,A Grain of Truth,,You chose.
+707,1,1,A Grain of Truth,,Let the girl go.
+708,1,1,A Grain of Truth,,I will kill her.
+709,1,1,A Grain of Truth,,I will kill everyone here until Stregobor comes down.
+710,1,1,A Grain of Truth,,Leave Blaviken.
+711,1,1,A Grain of Truth,,It's not too late.
+712,1,1,A Grain of Truth,,Magic doesn't work on me.
+713,1,1,A Grain of Truth,,"Silver does, though."
+714,1,1,A Grain of Truth,,Silver is for monsters.
+715,1,1,A Grain of Truth,,[grunts]
+716,1,1,A Grain of Truth,,[screams]
+717,1,1,A Grain of Truth,,If we cross swords...
+718,1,1,A Grain of Truth,,I won't be able to stop.
+719,1,1,A Grain of Truth,,They created me just as they created you.
+720,1,1,A Grain of Truth,,We're not so different.
+721,1,1,A Grain of Truth,,[groans]
+722,1,1,A Grain of Truth,,The girl in the woods will be with you always.
+723,1,1,A Grain of Truth,,She is your destiny.
+724,1,1,A Grain of Truth,,[screams]
+725,1,1,A Grain of Truth,,"Get-- get back here, you little--"
+726,1,1,A Grain of Truth,,[screams]
+727,1,1,A Grain of Truth,,[yells in pain]
+728,1,1,A Grain of Truth,,[rumbling]
+729,1,1,A Grain of Truth,,[screams]
+730,1,1,A Grain of Truth,,[yells in pain]
+731,1,1,A Grain of Truth,,[rumbling]
+732,1,1,A Grain of Truth,,[screaming]
+733,1,1,A Grain of Truth,,[gasping]
+734,1,1,A Grain of Truth,,[gasping] No. No!
+735,1,1,A Grain of Truth,,Incredible.
+736,1,1,A Grain of Truth,,[sighs]
+737,1,1,A Grain of Truth,,Marilka.
+738,1,1,A Grain of Truth,,Marilka? Marilka!
+739,1,1,A Grain of Truth,,Get me a cart.
+740,1,1,A Grain of Truth,,We'll take her to the tower for an autopsy.
+741,1,1,A Grain of Truth,,If you touch a single hair on her head...
+742,1,1,A Grain of Truth,,yours will be on the ground next.
+743,1,1,A Grain of Truth,,Have you gone mad?
+744,1,1,A Grain of Truth,,"Her mutation,"
+745,1,1,A Grain of Truth,,it influences people.
+746,1,1,A Grain of Truth,,That's how she got these men to follow her.
+747,1,1,A Grain of Truth,,We need to take it.
+748,1,1,A Grain of Truth,,"She got to you too, didn't she?"
+749,1,1,A Grain of Truth,,Do not...
+750,1,1,A Grain of Truth,,touch her.
+751,1,1,A Grain of Truth,,Witcher.
+752,1,1,A Grain of Truth,,You butchered bodies in the streets of Blaviken.
+753,1,1,A Grain of Truth,,You're a beast!
+754,1,1,A Grain of Truth,,You endangered the girl.
+755,1,1,A Grain of Truth,,[woman] Beast!
+756,1,1,A Grain of Truth,,[man] He's killed every single...
+757,1,1,A Grain of Truth,,You took the law into your own hands.
+758,1,1,A Grain of Truth,,[woman] Bastard!
+759,1,1,A Grain of Truth,,[crowd clamoring]
+760,1,1,A Grain of Truth,,[woman] He's a bad one!
+761,1,1,A Grain of Truth,,[man] Get out of here!
+762,1,1,A Grain of Truth,,[man 2] Get out and don't...
+763,1,1,A Grain of Truth,,[woman] Go on! Butcher!
+764,1,1,A Grain of Truth,,You made a choice.
+765,1,1,A Grain of Truth,,And you'll never know if it was the right one.
+766,1,1,A Grain of Truth,,"Die, Witcher!"
+767,1,1,A Grain of Truth,,[clamoring]
+768,1,1,A Grain of Truth,,"Die, Witcher!"
+769,1,1,A Grain of Truth,,"Go, Witcher!"
+770,1,1,A Grain of Truth,,Die!
+771,1,1,A Grain of Truth,,"Get out of Blaviken, Geralt."
+772,1,1,A Grain of Truth,,Don't ever come back.
+773,1,1,A Grain of Truth,,Bastard!
+774,1,1,A Grain of Truth,,[yelling continues]
+775,1,1,A Grain of Truth,,[Renfri] The girl in the woods will be with you always.
+776,1,1,A Grain of Truth,,She is your destiny.

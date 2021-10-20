@@ -1,0 +1,784 @@
+index;season_no;episode_no;episode_name;Character;Text
+0;1;3;Betrayer Moon;boy;[boy] It comes on a full moon...
+1;1;3;Betrayer Moon;boy;to feed.
+2;1;3;Betrayer Moon;boy;That's what Ma used to say.
+3;1;3;Betrayer Moon;boy;When a wolf...
+4;1;3;Betrayer Moon;boy;crosses a maiden's grave.
+5;1;3;Betrayer Moon;boy;A pregnant girl who died before her time.
+6;1;3;Betrayer Moon;boy;That babe...
+7;1;3;Betrayer Moon;boy;starts growing...
+8;1;3;Betrayer Moon;boy;right in her belly.
+9;1;3;Betrayer Moon;boy;[dust scatters]
+10;1;3;Betrayer Moon;boy;[blows]
+11;1;3;Betrayer Moon;boy;[coughing]
+12;1;3;Betrayer Moon;boy;When it's big enough...
+13;1;3;Betrayer Moon;boy;that babe rips out.
+14;1;3;Betrayer Moon;boy;Only it ain't a babe no more.
+15;1;3;Betrayer Moon;boy;It's a monster.
+16;1;3;Betrayer Moon;boy;A vukodlak.
+17;1;3;Betrayer Moon;boy;I swear, Witcher, that's what got me.
+18;1;3;Betrayer Moon;boy;I swear I saw it.
+19;1;3;Betrayer Moon;boy;I swear on my ma's grave, I saw it--
+20;1;3;Betrayer Moon;boy;Shh. Shh, shh.
+21;1;3;Betrayer Moon;witcher;Three thousand orens. Up front.
+22;1;3;Betrayer Moon;;[coughing]
+23;1;3;Betrayer Moon;;[screams]
+24;1;3;Betrayer Moon;;[echoing scream]
+25;1;3;Betrayer Moon;;[metal clinking]
+26;1;3;Betrayer Moon;;[hook creaks]
+27;1;3;Betrayer Moon;;[loud screech]
+28;1;3;Betrayer Moon;;[woman] No!
+29;1;3;Betrayer Moon;;[woman screaming]
+30;1;3;Betrayer Moon;;[metal clinking]
+31;1;3;Betrayer Moon;;[loud screech]
+32;1;3;Betrayer Moon;;[grunts]
+33;1;3;Betrayer Moon;prostitute;This... [chuckles] I definitely know.
+34;1;3;Betrayer Moon;prostitute;<song> The vampiress bled <song>
+35;1;3;Betrayer Moon;;[sighs]
+36;1;3;Betrayer Moon;prostitute;<song> As white as a sheet <song>
+37;1;3;Betrayer Moon;;[sighs]
+38;1;3;Betrayer Moon;prostitute;<song> And yet her dead heart did beat <song>
+39;1;3;Betrayer Moon;prostitute;<song> Did beat <song>
+40;1;3;Betrayer Moon;prostitute;The kikimora?
+41;1;3;Betrayer Moon;geralt;Mm.
+42;1;3;Betrayer Moon;prostitute;Hmm.
+43;1;3;Betrayer Moon;prostitute;I don't recall the bard  singing of this one.
+44;1;3;Betrayer Moon;prostitute;Who would dare  try and rob you of your treasure?
+45;1;3;Betrayer Moon;prostitute;A woman?
+46;1;3;Betrayer Moon;geralt;Princess.
+47;1;3;Betrayer Moon;prostitute;Were you in love?
+48;1;3;Betrayer Moon;prostitute;What's her name?
+49;1;3;Betrayer Moon;geralt;When you live as long as I do, all the names start to sound the same.
+50;1;3;Betrayer Moon;prostitute;[sighs] Were destiny a kinder bitch,  a whore like me
+51;1;3;Betrayer Moon;prostitute;wouldn't have to settle for  her client's telltales.
+52;1;3;Betrayer Moon;prostitute;A friend of yours came through here last month headed for Temeria.
+53;1;3;Betrayer Moon;geralt;Friend?
+54;1;3;Betrayer Moon;prostitute;Another witcher.
+55;1;3;Betrayer Moon;prostitute;Mm. Blessed that prick with my fullest efforts, too,
+56;1;3;Betrayer Moon;prostitute;and he--
+57;1;3;Betrayer Moon;geralt;What's in Temeria?
+58;1;3;Betrayer Moon;prostitute;Do you not just hear me talking?
+59;1;3;Betrayer Moon;geralt;Shouldn't you know
+60;1;3;Betrayer Moon;geralt;when someone's pretending?
+61;1;3;Betrayer Moon;;[pounding on door]
+62;1;3;Betrayer Moon;;[scoffs]
+63;1;3;Betrayer Moon;alfons;[man] It's been three nights.
+64;1;3;Betrayer Moon;alfons;Pay up or get out!
+65;1;3;Betrayer Moon;geralt;Temeria?
+66;1;3;Betrayer Moon;prostitute;[sighs] It's got a pest problem.
+67;1;3;Betrayer Moon;prostitute;A few miners rounded up 3,000 orens to have it killed.
+68;1;3;Betrayer Moon;prostitute;Your boy took the coin and ran.
+69;1;3;Betrayer Moon;;[banging on door]
+70;1;3;Betrayer Moon;alfons;[man] You hear me?
+71;1;3;Betrayer Moon;;[banging continues]
+72;1;3;Betrayer Moon;geralt;Thank you... for...
+73;1;3;Betrayer Moon;geralt;everything.
+74;1;3;Betrayer Moon;alfons;[man] Witcher!
+75;1;3;Betrayer Moon;;[banging persists]
+76;1;3;Betrayer Moon;prostitute;Hmm.
+77;1;3;Betrayer Moon;prostitute;What about the room?
+78;1;3;Betrayer Moon;;[door crashes open]
+79;1;3;Betrayer Moon;;[snorts]
+80;1;3;Betrayer Moon;;[nickers]
+81;1;3;Betrayer Moon;geralt;Don't judge me.
+82;1;3;Betrayer Moon;geralt;I'll be back with payment in a few days.
+83;1;3;Betrayer Moon;geralt;Anything happens to my horse...
+84;1;3;Betrayer Moon;alfons;[chuckles] You don't scare me.
+85;1;3;Betrayer Moon;geralt;Point me to Temeria.
+86;1;3;Betrayer Moon;labours;Years of attacks by this creature, and the king does nothing.
+87;1;3;Betrayer Moon;labours;We must force his hand. Lay down our picks...
+88;1;3;Betrayer Moon;labours;and refuse to work.
+89;1;3;Betrayer Moon;labours;[all] Yeah.
+90;1;3;Betrayer Moon;labours;And a half-measure ain't gonna do! We've got to move on.
+91;1;3;Betrayer Moon;labours;Plenty of work south of Sodden.
+92;1;3;Betrayer Moon;;[others mutter]
+93;1;3;Betrayer Moon;;[metal clanks]
+94;1;3;Betrayer Moon;labours;My son...
+95;1;3;Betrayer Moon;labours;rest his soul...
+96;1;3;Betrayer Moon;labours;told me...
+97;1;3;Betrayer Moon;labours;in Nilfgaard...
+98;1;3;Betrayer Moon;labours;the king diddled whores while his subjects starved.
+99;1;3;Betrayer Moon;labours;Then someone came.
+100;1;3;Betrayer Moon;labours;The Usurper.
+101;1;3;Betrayer Moon;labours;And he rallied the people, and they took back what was theirs!
+102;1;3;Betrayer Moon;labours;[all] Yeah!
+103;1;3;Betrayer Moon;labours;I say we follow their lead!
+104;1;3;Betrayer Moon;;[cheering]
+105;1;3;Betrayer Moon;geralt;[Geralt] You can't kill the vukodlak...
+106;1;3;Betrayer Moon;geralt;so you decide to kill your king?
+107;1;3;Betrayer Moon;geralt;Great plan.
+108;1;3;Betrayer Moon;labours;Another fuckin' witcher.
+109;1;3;Betrayer Moon;labours;Your kind already swindled us once.
+110;1;3;Betrayer Moon;geralt;I take payment after the job is done and for a third of the price.
+111;1;3;Betrayer Moon;geralt;An apology...
+112;1;3;Betrayer Moon;geralt;from my guild...
+113;1;3;Betrayer Moon;geralt;to yours.
+114;1;3;Betrayer Moon;labours;And if you can't kill it?
+115;1;3;Betrayer Moon;geralt;Then I die.
+116;1;3;Betrayer Moon;;[horse neighs]
+117;1;3;Betrayer Moon;ostrit;[man] Please.
+118;1;3;Betrayer Moon;ostrit;Everyone remain calm.
+119;1;3;Betrayer Moon;ostrit;Lower your weapons and return to your homes.
+120;1;3;Betrayer Moon;ostrit;Do so quickly and without further theatrics...
+121;1;3;Betrayer Moon;ostrit;and you have my word that our king  will not hear of this treason.
+122;1;3;Betrayer Moon;labours;Foltest commits treason.
+123;1;3;Betrayer Moon;labours;He hides in his winter castle as we are eaten.
+124;1;3;Betrayer Moon;labours;[all] Yeah!
+125;1;3;Betrayer Moon;ostrit;Mikal was a good boy.
+126;1;3;Betrayer Moon;ostrit;Revenge will not ease your pain.
+127;1;3;Betrayer Moon;;[spits]
+128;1;3;Betrayer Moon;;[all yell]
+129;1;3;Betrayer Moon;labours;You know nothing...
+130;1;3;Betrayer Moon;labours;of my pain.
+131;1;3;Betrayer Moon;;[sighs]
+132;1;3;Betrayer Moon;geralt;Does Foltest have a plan?
+133;1;3;Betrayer Moon;ostrit;See this one to our borders.
+134;1;3;Betrayer Moon;ostrit;Temeria's had their fill... of witchers.
+135;1;3;Betrayer Moon;;[neighing]
+136;1;3;Betrayer Moon;triss;Witcher.
+137;1;3;Betrayer Moon;triss;You can put down your sword. I'm not here to hurt you.
+138;1;3;Betrayer Moon;geralt;Says the witch hiding in the woods.
+139;1;3;Betrayer Moon;triss;Sorceress.
+140;1;3;Betrayer Moon;geralt;Witch.
+141;1;3;Betrayer Moon;triss;Triss Merigold.  I serve King Foltest.
+142;1;3;Betrayer Moon;geralt;So he makes a show of kicking me out...
+143;1;3;Betrayer Moon;geralt;then sends his errand girl to slip me some coin
+144;1;3;Betrayer Moon;geralt;so I kill his monster.
+145;1;3;Betrayer Moon;geralt;Not a very original plan for a king.
+146;1;3;Betrayer Moon;triss;It's my plan.
+147;1;3;Betrayer Moon;triss;My coin.
+148;1;3;Betrayer Moon;triss;And I don't want you to kill the beast.
+149;1;3;Betrayer Moon;triss;I want you to help me save it.
+150;1;3;Betrayer Moon;triss;Six years ago,
+151;1;3;Betrayer Moon;triss;stable hands started vanishing at the castle above the city.
+152;1;3;Betrayer Moon;triss;Before long, citizens were disappearing throughout all Temeria.
+153;1;3;Betrayer Moon;triss;Foltest's royal guards soon realized the creature was coming from the crypt
+154;1;3;Betrayer Moon;triss;where the king's sister Adda is buried.
+155;1;3;Betrayer Moon;triss;Rumor has it she was having an affair  with a young man in town when she died.
+156;1;3;Betrayer Moon;geralt;Was she pregnant?
+157;1;3;Betrayer Moon;triss;If she were, that would make her child the sole heir to the throne
+158;1;3;Betrayer Moon;triss;as Foltest never married.
+159;1;3;Betrayer Moon;triss;The king fled the castle, ignoring the rising death toll.
+160;1;3;Betrayer Moon;triss;After Nilfgaard overthrew their king,
+161;1;3;Betrayer Moon;triss;the Brotherhood  couldn't risk it happening again,
+162;1;3;Betrayer Moon;triss;so they sent me here three months ago to cure the creature.
+163;1;3;Betrayer Moon;geralt;Vukodlaks are freak mutations.
+164;1;3;Betrayer Moon;geralt;They can't be cured.
+165;1;3;Betrayer Moon;triss;Good thing it's not a vukodlak.
+166;1;3;Betrayer Moon;triss;Two thousand orens if you can tell me what exactly killed these people.
+167;1;3;Betrayer Moon;geralt;You didn't want the people to know that it bested a witcher.
+168;1;3;Betrayer Moon;geralt;And you let them believe that he fled with their coin.
+169;1;3;Betrayer Moon;triss;You two clearly weren't acquainted.
+170;1;3;Betrayer Moon;geralt;His heart's missing along with his liver.
+171;1;3;Betrayer Moon;geralt;Only one creature I know is that picky an eater.
+172;1;3;Betrayer Moon;geralt;A striga.
+173;1;3;Betrayer Moon;triss;Strigas are old wives' tales.
+174;1;3;Betrayer Moon;geralt;They're very rare.
+175;1;3;Betrayer Moon;geralt;The only way to make one is through a curse.
+176;1;3;Betrayer Moon;triss;Someone wanted Adda dead.
+177;1;3;Betrayer Moon;geralt;Mm-hmm.
+178;1;3;Betrayer Moon;geralt;But the curse didn't stop with Adda. It turned her daughter into a monster.
+179;1;3;Betrayer Moon;triss;Her daughter?
+180;1;3;Betrayer Moon;geralt;Strigas are female.
+181;1;3;Betrayer Moon;;[sighs]
+182;1;3;Betrayer Moon;geralt;This striga's a princess.
+183;1;3;Betrayer Moon;;[sighing]
+184;1;3;Betrayer Moon;istredd;Uh... can... can...
+185;1;3;Betrayer Moon;istredd;Uh, can they do something?
+186;1;3;Betrayer Moon;istredd;Uh, they-- they're just watching.
+187;1;3;Betrayer Moon;;[groans]
+188;1;3;Betrayer Moon;istredd;It was a nice touch with the applause.
+189;1;3;Betrayer Moon;;[laughs]
+190;1;3;Betrayer Moon;istredd;So how many more times do you think we get to do this?
+191;1;3;Betrayer Moon;yennifer;I don't know.
+192;1;3;Betrayer Moon;yennifer;Soon you'll be off to your ruins, dashing explorer.
+193;1;3;Betrayer Moon;istredd;Part-time dashing explorer.
+194;1;3;Betrayer Moon;istredd;Stregebor says Temeria leans heavily on its mages.
+195;1;3;Betrayer Moon;yennifer;So maybe you'll be too busy for me.
+196;1;3;Betrayer Moon;istredd;Or maybe you'll be too busy for me once you get a taste of Aedirn revelry.
+197;1;3;Betrayer Moon;istredd;King Virfuril is handsome. Allegedly.
+198;1;3;Betrayer Moon;yennifer;If I do a good job...
+199;1;3;Betrayer Moon;yennifer;I can persuade him to give you access to our ruins.
+200;1;3;Betrayer Moon;yennifer;Maybe we'll do this forever.
+201;1;3;Betrayer Moon;istredd;Yeah.
+202;1;3;Betrayer Moon;istredd;Well, after the initiation today, we're in charge.
+203;1;3;Betrayer Moon;istredd;We get to make the decisions, be who we want to be.
+204;1;3;Betrayer Moon;istredd;What's wrong?
+205;1;3;Betrayer Moon;yennifer;Fringilla and the others  see their ideal selves so clearly.
+206;1;3;Betrayer Moon;yennifer;They know exactly what they want for their enchantments.
+207;1;3;Betrayer Moon;istredd;Stop worrying so much.
+208;1;3;Betrayer Moon;yennifer;Easy for a Ban Ard boy.
+209;1;3;Betrayer Moon;yennifer;You dolts needn't change a single wrinkle before heading to court.
+210;1;3;Betrayer Moon;istredd;What do you want?
+211;1;3;Betrayer Moon;yennifer;Remember that scared girl  who tumbled at your feet in this cave...
+212;1;3;Betrayer Moon;yennifer;totally unaware of her power?
+213;1;3;Betrayer Moon;yennifer;I want to go back home to Aedirn and never be her again.
+214;1;3;Betrayer Moon;artist;You're bound for Aedirn?
+215;1;3;Betrayer Moon;yennifer;Yes.
+216;1;3;Betrayer Moon;artist;Let me be candid. You are a... first draft of what nature intended, yes?
+217;1;3;Betrayer Moon;artist;Lucky for you, I'm the final artist.
+218;1;3;Betrayer Moon;artist;Every girl I enchant  leaves Aretuza a living work of art.
+219;1;3;Betrayer Moon;yennifer;Hmm?
+220;1;3;Betrayer Moon;artist;No matter how challenging the clay.
+221;1;3;Betrayer Moon;;[snap]
+222;1;3;Betrayer Moon;artist;Perfect for Aedirn.
+223;1;3;Betrayer Moon;artist;A gray dress assumes importance without bald ambition.
+224;1;3;Betrayer Moon;artist;Ah. Not the final look. More a preview.
+225;1;3;Betrayer Moon;tissaia;There is not a person alive
+226;1;3;Betrayer Moon;tissaia;that does not look into the mirror and see some deformity.
+227;1;3;Betrayer Moon;tissaia;Except for us.
+228;1;3;Betrayer Moon;tissaia;We remake ourselves on our terms. The world has no say in it.
+229;1;3;Betrayer Moon;tissaia;Look.
+230;1;3;Betrayer Moon;tissaia;You can free the victim in the mirror forever.
+231;1;3;Betrayer Moon;yennifer;I don't know where to begin.
+232;1;3;Betrayer Moon;tissaia;Close your eyes.
+233;1;3;Betrayer Moon;tissaia;I said close them.
+234;1;3;Betrayer Moon;tissaia;Imagine the most powerful woman in the world.
+235;1;3;Betrayer Moon;tissaia;Her hair, the color of her eyes, yes...
+236;1;3;Betrayer Moon;tissaia;but also the strength of her posture.
+237;1;3;Betrayer Moon;tissaia;The poise of her entire being.
+238;1;3;Betrayer Moon;tissaia;Do you see her?
+239;1;3;Betrayer Moon;yennifer;Yes.
+240;1;3;Betrayer Moon;tissaia;Open your eyes.
+241;1;3;Betrayer Moon;tissaia;She is stunning.
+242;1;3;Betrayer Moon;Segelin;Miss Merigold, you were dispatched  to settle a family affair,
+243;1;3;Betrayer Moon;Segelin;not to enlist a mutant mercenary for a game of sleuthing.
+244;1;3;Betrayer Moon;triss;This is no game, Captain. Tonight is a full moon,
+245;1;3;Betrayer Moon;triss;and Geralt has already proved himself  to be invaluable.
+246;1;3;Betrayer Moon;triss;We believe we can cure the creature.
+247;1;3;Betrayer Moon;Segelin;You say she's a girl.
+248;1;3;Betrayer Moon;Segelin;Then you will refer to her as Her Royal Highness.
+249;1;3;Betrayer Moon;ostrit;Segelin, I believe urgency
+250;1;3;Betrayer Moon;ostrit;warrants flexibility in court decorum.
+251;1;3;Betrayer Moon;Segelin;The witcher's theory is nonsense. Princess Adda was the people's angel.
+252;1;3;Betrayer Moon;Segelin;Who'd wish to murder her?
+253;1;3;Betrayer Moon;ostrit;What about her lover?
+254;1;3;Betrayer Moon;Segelin;Seditious rumors. Idle courtesans  trading out boredom for jealousy.
+255;1;3;Betrayer Moon;triss;Perhaps if you called off your guards,
+256;1;3;Betrayer Moon;triss;if we were able to search the abandoned castle,
+257;1;3;Betrayer Moon;triss;we could find clues as to who cursed her.
+258;1;3;Betrayer Moon;Segelin;[Segelin] Except this witcher  would kill the princess as she sleeps,
+259;1;3;Betrayer Moon;Segelin;and collect the miners' coin.
+260;1;3;Betrayer Moon;geralt;Call her a princess.
+261;1;3;Betrayer Moon;geralt;Call her a unicorn if you'd like to.
+262;1;3;Betrayer Moon;geralt;She grew inside Adda, feeding on her petrified womb.
+263;1;3;Betrayer Moon;Segelin;Have you no respect?
+264;1;3;Betrayer Moon;geralt;Mutating.
+265;1;3;Betrayer Moon;geralt;Growing for years  till she got so hungry...
+266;1;3;Betrayer Moon;geralt;she was forced to slither out.
+267;1;3;Betrayer Moon;geralt;Rotten muscle, bent bones, two spidery legs,
+268;1;3;Betrayer Moon;geralt;claws dragging in the dirt. An overgrown abortion.
+269;1;3;Betrayer Moon;Foltest;Enough.
+270;1;3;Betrayer Moon;Segelin;[soldier] Your Highness?
+271;1;3;Betrayer Moon;Foltest;Leave.
+272;1;3;Betrayer Moon;Segelin;[guard] Hey!
+273;1;3;Betrayer Moon;Segelin;Open the door!
+274;1;3;Betrayer Moon;;[banging]
+275;1;3;Betrayer Moon;;[yelling]
+276;1;3;Betrayer Moon;Segelin;Open this door! Protect the king!
+277;1;3;Betrayer Moon;;[yelling and banging continues]
+278;1;3;Betrayer Moon;Segelin;[guard] Witcher!
+279;1;3;Betrayer Moon;geralt;Who's the princess' father?
+280;1;3;Betrayer Moon;Segelin;My men will kill you, Witcher.
+281;1;3;Betrayer Moon;geralt;Hmm. It's funny.
+282;1;3;Betrayer Moon;geralt;You learn that your sister was murdered, and you didn't even flinch.
+283;1;3;Betrayer Moon;geralt;But the moment I mention the girl's father...
+284;1;3;Betrayer Moon;geralt;Why were you never married?
+285;1;3;Betrayer Moon;Foltest;You are speaking to a king.
+286;1;3;Betrayer Moon;geralt;That is exactly my point.
+287;1;3;Betrayer Moon;geralt;Why not produce your own heir?
+288;1;3;Betrayer Moon;geralt;Why not kill the striga  and avoid this revolt?
+289;1;3;Betrayer Moon;geralt;Why drag this all out?
+290;1;3;Betrayer Moon;geralt;Between you and me...
+291;1;3;Betrayer Moon;geralt;who is the striga's father?
+292;1;3;Betrayer Moon;Foltest;I remember hearing stories about witchers when I was a child.
+293;1;3;Betrayer Moon;Foltest;Is it true what they say?
+294;1;3;Betrayer Moon;;[thump on door]
+295;1;3;Betrayer Moon;Foltest;That the mutations that grant you your... abilities
+296;1;3;Betrayer Moon;Foltest;also erase your emotions?
+297;1;3;Betrayer Moon;;[guards yell]
+298;1;3;Betrayer Moon;Foltest;Must be.
+299;1;3;Betrayer Moon;Foltest;'Cause only a man devoid of all heart
+300;1;3;Betrayer Moon;Foltest;could accuse a brother of bedding his murdered sister
+301;1;3;Betrayer Moon;Foltest;while urging him to kill her.
+302;1;3;Betrayer Moon;Foltest;Leave Temeria.
+303;1;3;Betrayer Moon;Foltest;Never return.
+304;1;3;Betrayer Moon;tissaia;[Tissaia] Cintra continues their animosity towards our organization.
+305;1;3;Betrayer Moon;artorius;[Artorius] Don't tell me  they're employing druids
+306;1;3;Betrayer Moon;artorius;or worse--fortune tellers.
+307;1;3;Betrayer Moon;;[laughter]
+308;1;3;Betrayer Moon;tissaia;King Dagorad has banned mages from Cintra, God knows why.
+309;1;3;Betrayer Moon;strageborn;I've heard rumors he's taken ill.
+310;1;3;Betrayer Moon;strageborn;Now, if the king dies, perhaps his heiress will be more pliable. Princess...
+311;1;3;Betrayer Moon;tissaia;Calanthe? Good luck with that.
+312;1;3;Betrayer Moon;tissaia;Word is she's even more stubborn than her father is.
+313;1;3;Betrayer Moon;artorius;How fares Nilfgaard?
+314;1;3;Betrayer Moon;;King Fergus is proving to be an effective and excitable young king.
+315;1;3;Betrayer Moon;strageborn;Horny, she means.
+316;1;3;Betrayer Moon;strageborn;Spending the kingdom's money on women as his people starve to death.
+317;1;3;Betrayer Moon;tissaia;Fringilla will be in Nilfgaard by week's end.
+318;1;3;Betrayer Moon;tissaia;She will bring sanity and bread to the people.
+319;1;3;Betrayer Moon;strageborn;Your girl is-- With all due respect,
+320;1;3;Betrayer Moon;strageborn;your niece is only capable of doing what she's told.
+321;1;3;Betrayer Moon;artorius;No ambitious mage wants to be assigned anywhere south of Sodden.
+322;1;3;Betrayer Moon;artorius;But Nilfgaard needs correcting.
+323;1;3;Betrayer Moon;artorius;Perhaps we consider sending someone there with a bit more... spine.
+324;1;3;Betrayer Moon;artorius;Stregobor, did you have anyone in mind?
+325;1;3;Betrayer Moon;strageborn;What about your hunchback protégé?
+326;1;3;Betrayer Moon;strageborn;How's her... spine?
+327;1;3;Betrayer Moon;tissaia;We agreed Yennefer would thrive in Aedirn.
+328;1;3;Betrayer Moon;tissaia;King Virfuril  prefers mages from his kingdom,
+329;1;3;Betrayer Moon;tissaia;and Yennefer was born in Vengerberg.
+330;1;3;Betrayer Moon;strageborn;Oh, we'd be spitting in Dagorad's face
+331;1;3;Betrayer Moon;strageborn;if we send Yennefer to their biggest trade partner.
+332;1;3;Betrayer Moon;strageborn;The only thing Cintra hates more than mages is... elves.
+333;1;3;Betrayer Moon;artorius;Yennefer's of elven blood?
+334;1;3;Betrayer Moon;tissaia;Quarter elf.
+335;1;3;Betrayer Moon;strageborn;Watch a Cintran do that math.
+336;1;3;Betrayer Moon;tissaia;Let's not model our wisdom on prejudice and paranoia.
+337;1;3;Betrayer Moon;artorius;Prejudiced or not, you can't deny
+338;1;3;Betrayer Moon;artorius;Cintra has operated outside our influence far too long.
+339;1;3;Betrayer Moon;strageborn;[Stregobor] Unchecked kings and queens lead to rebellions. Massacres.
+340;1;3;Betrayer Moon;strageborn;It's the reason this chapter was formed.
+341;1;3;Betrayer Moon;tissaia;Still afraid of Falka, are you?
+342;1;3;Betrayer Moon;tissaia;And you, you spare your niece her duties?
+343;1;3;Betrayer Moon;tissaia;Not enough fragrance in Toussaint to take the stench off that nepotism.
+344;1;3;Betrayer Moon;artorius;Let the Chapter vote, then. I'll even recuse myself.
+345;1;3;Betrayer Moon;artorius;All in favor of Yennefer to Nilfgaard instead of Fringilla?
+346;1;3;Betrayer Moon;yennifer;Your Excellence, it's an honor.
+347;1;3;Betrayer Moon;yennifer;The honor is mine.
+348;1;3;Betrayer Moon;;[door opens]
+349;1;3;Betrayer Moon;artist;King Fergus chose this.
+350;1;3;Betrayer Moon;artist;Not me.
+351;1;3;Betrayer Moon;yennifer;King Fergus of Nilfgaard?
+352;1;3;Betrayer Moon;;[sighs]
+353;1;3;Betrayer Moon;yennifer;What are you talking about?
+354;1;3;Betrayer Moon;tissaia;Uh...
+355;1;3;Betrayer Moon;;[sighs]
+356;1;3;Betrayer Moon;;[door opens]
+357;1;3;Betrayer Moon;yennifer;I demand an audience with the Chapter.
+358;1;3;Betrayer Moon;tissaia;I handle court assignments, Yennefer.
+359;1;3;Betrayer Moon;tissaia;Not the Chapter.
+360;1;3;Betrayer Moon;yennifer;You promised me Aedirn.
+361;1;3;Betrayer Moon;tissaia;New items came to light which led me to believe
+362;1;3;Betrayer Moon;tissaia;that you would be a better fit for Nilfgaard.
+363;1;3;Betrayer Moon;yennifer;There's no power in puppeting fools,
+364;1;3;Betrayer Moon;yennifer;especially one who'd sooner fondle his sorceress than listen to her!
+365;1;3;Betrayer Moon;yennifer;I don't think new items came to light.
+366;1;3;Betrayer Moon;yennifer;I think the Chapter overruled you.
+367;1;3;Betrayer Moon;yennifer;Is that it? Yeah?
+368;1;3;Betrayer Moon;yennifer;The all-powerful sorceress Tissaia de Vriess
+369;1;3;Betrayer Moon;yennifer;knocked down from her glass pedestal.
+370;1;3;Betrayer Moon;;[laughs]
+371;1;3;Betrayer Moon;tissaia;'Twas your blood.
+372;1;3;Betrayer Moon;tissaia;Efforts in Cintra prevent the Brotherhood
+373;1;3;Betrayer Moon;tissaia;from placing a mage with elven blood in Aedirn's court.
+374;1;3;Betrayer Moon;yennifer;How could you tell them?
+375;1;3;Betrayer Moon;tissaia;I did not.
+376;1;3;Betrayer Moon;tissaia;Stregobor did.
+377;1;3;Betrayer Moon;tissaia;Divine the rest.
+378;1;3;Betrayer Moon;;[door closes]
+379;1;3;Betrayer Moon;;[crows cawing]
+380;1;3;Betrayer Moon;;[wind whistling]
+381;1;3;Betrayer Moon;;[rattling]
+382;1;3;Betrayer Moon;;[crows cawing]
+383;1;3;Betrayer Moon;guard;How many more hours?
+384;1;3;Betrayer Moon;guard;Too many.
+385;1;3;Betrayer Moon;triss;[Triss] You were told to leave Temeria.
+386;1;3;Betrayer Moon;geralt;But come on.
+387;1;3;Betrayer Moon;geralt;These views.
+388;1;3;Betrayer Moon;triss;Are you going to kill her?
+389;1;3;Betrayer Moon;geralt;I don't want the miners' coin.
+390;1;3;Betrayer Moon;triss;Or mine, apparently.
+391;1;3;Betrayer Moon;triss;What is this girl to you?
+392;1;3;Betrayer Moon;triss;Why do you care?
+393;1;3;Betrayer Moon;geralt;You first.
+394;1;3;Betrayer Moon;geralt;I saw how Foltest and his boy  spoke to you.
+395;1;3;Betrayer Moon;geralt;Why help those who won't listen?
+396;1;3;Betrayer Moon;triss;I'm sure someone as legendary as you
+397;1;3;Betrayer Moon;triss;has already figured out several ways to get past Segelin's guards.
+398;1;3;Betrayer Moon;;[thud]
+399;1;3;Betrayer Moon;guard;Move away.
+400;1;3;Betrayer Moon;triss;Temeria reeks of secrets. I could sense them.
+401;1;3;Betrayer Moon;triss;Just like I could these bodies before we entered.
+402;1;3;Betrayer Moon;triss;I imagine you sense them, too.
+403;1;3;Betrayer Moon;triss;Foltest and Adda. What happened to them?
+404;1;3;Betrayer Moon;triss;Not answering questions is a pillar of your brooding charm.
+405;1;3;Betrayer Moon;geralt;Pretty sure Foltest is the father.
+406;1;3;Betrayer Moon;triss;[Triss] Adda's bedroom.
+407;1;3;Betrayer Moon;triss;Do you think he cursed her?
+408;1;3;Betrayer Moon;triss;Foltest?
+409;1;3;Betrayer Moon;geralt;Maybe.
+410;1;3;Betrayer Moon;;[inhales]
+411;1;3;Betrayer Moon;;[whimsical tune plays]
+412;1;3;Betrayer Moon;;[note plays]
+413;1;3;Betrayer Moon;;[notes play]
+414;1;3;Betrayer Moon;triss;Geralt.
+415;1;3;Betrayer Moon;triss;Letters.
+416;1;3;Betrayer Moon;triss;From Queen Sancia,  Foltest and Adda's mother.
+417;1;3;Betrayer Moon;ostrit;A Queen Mother cursing her own children for their affair.
+418;1;3;Betrayer Moon;ostrit;This could destroy the throne.
+419;1;3;Betrayer Moon;geralt;Sancia wanted Adda to get rid of the child.
+420;1;3;Betrayer Moon;triss;It seems she refused. Repeatedly.
+421;1;3;Betrayer Moon;ostrit;And now she's taken that curse with her to the grave.
+422;1;3;Betrayer Moon;triss;You've served the family for decades.
+423;1;3;Betrayer Moon;triss;Was Sancia involved in  dark sorcery of any kind?
+424;1;3;Betrayer Moon;ostrit;No. Of course not.
+425;1;3;Betrayer Moon;geralt;What was your relationship to Adda?
+426;1;3;Betrayer Moon;ostrit;Well, I like to think that she saw me as a confidant.
+427;1;3;Betrayer Moon;ostrit;And protector, even.
+428;1;3;Betrayer Moon;ostrit;We used to talk at great length about her troubles.
+429;1;3;Betrayer Moon;ostrit;She could be very naive.
+430;1;3;Betrayer Moon;geralt;She ever mention her brother?
+431;1;3;Betrayer Moon;ostrit;Certainly not like this.
+432;1;3;Betrayer Moon;triss;She was ashamed.
+433;1;3;Betrayer Moon;ostrit;Or she was frightened.
+434;1;3;Betrayer Moon;ostrit;What if the relationship was not...
+435;1;3;Betrayer Moon;ostrit;consensual?
+436;1;3;Betrayer Moon;geralt;Hmm.
+437;1;3;Betrayer Moon;geralt;You think he raped Adda, then cursed the child to cover it up?
+438;1;3;Betrayer Moon;ostrit;Well, kings have done more for less.
+439;1;3;Betrayer Moon;geralt;True.
+440;1;3;Betrayer Moon;geralt;[sighs] There's only one wrinkle, though.
+441;1;3;Betrayer Moon;ostrit;Your scent was on her sheets.
+442;1;3;Betrayer Moon;triss;Geralt.
+443;1;3;Betrayer Moon;geralt;Old ones...
+444;1;3;Betrayer Moon;geralt;and new ones.
+445;1;3;Betrayer Moon;ostrit;What would I be doing in a dead girl's bed?
+446;1;3;Betrayer Moon;geralt;I smelled what you were doing.
+447;1;3;Betrayer Moon;ostrit;Foltest had no right!
+448;1;3;Betrayer Moon;ostrit;He seduced Adda. Abused his position.
+449;1;3;Betrayer Moon;ostrit;He was always nagging her  for attention.
+450;1;3;Betrayer Moon;ostrit;Always nagging!
+451;1;3;Betrayer Moon;ostrit;But he didn't love her.
+452;1;3;Betrayer Moon;ostrit;I did.
+453;1;3;Betrayer Moon;triss;You cursed the woman you loved?
+454;1;3;Betrayer Moon;ostrit;I cursed Foltest, not her.
+455;1;3;Betrayer Moon;triss;Countless are dead because of your jealousy.
+456;1;3;Betrayer Moon;ostrit;Countless are dead because of Foltest!
+457;1;3;Betrayer Moon;ostrit;He spoiled Adda with his seed.
+458;1;3;Betrayer Moon;ostrit;He refuses to kill this striga.
+459;1;3;Betrayer Moon;ostrit;He lies to his people. And yet you wag your finger in my face.
+460;1;3;Betrayer Moon;triss;If you wanted him to suffer, you could have just exposed the affair.
+461;1;3;Betrayer Moon;ostrit;And hurt Adda?
+462;1;3;Betrayer Moon;ostrit;Never.
+463;1;3;Betrayer Moon;ostrit;Her memory will not be sullied, not while I'm alive to protect it.
+464;1;3;Betrayer Moon;geralt;Tell us how to lift the curse.
+465;1;3;Betrayer Moon;ostrit;No.
+466;1;3;Betrayer Moon;ostrit;Foltest will watch as Temeria turns against him.
+467;1;3;Betrayer Moon;ostrit;Just as he turned Adda against me.
+468;1;3;Betrayer Moon;geralt;Hmm.
+469;1;3;Betrayer Moon;geralt;Unh.
+470;1;3;Betrayer Moon;sabrina;I, Sabrina Glevissig, offer myself to the Brotherhood
+471;1;3;Betrayer Moon;sabrina;to make good on the promise  of the Spheres.
+472;1;3;Betrayer Moon;sabrina;To not place power before virtue.
+473;1;3;Betrayer Moon;;[murmuring]
+474;1;3;Betrayer Moon;sabrina;To respect...
+475;1;3;Betrayer Moon;istredd;[thinks] Where is she?
+476;1;3;Betrayer Moon;fringilla;[thinks] You didn't hear?
+477;1;3;Betrayer Moon;sabrina;[Sabrina] ...for as long  as my flesh endures.
+478;1;3;Betrayer Moon;artorius;Welcome to the Brotherhood of Sorcerers. You may perform your enchantment.
+479;1;3;Betrayer Moon;istredd;Yenna.
+480;1;3;Betrayer Moon;istredd;Yenna, what are you doing?
+481;1;3;Betrayer Moon;yennifer;Undoing what you've done.
+482;1;3;Betrayer Moon;yennifer;I'll have my father sign this deed declaring me his natural-born daughter
+483;1;3;Betrayer Moon;yennifer;and not an elven bastard.
+484;1;3;Betrayer Moon;istredd;Do you really think this slip of paper will fool the Chapter? Yenna--
+485;1;3;Betrayer Moon;yennifer;Get your hands away from me!
+486;1;3;Betrayer Moon;istredd;It was a test.
+487;1;3;Betrayer Moon;istredd;It was, uh, an idiotic manipulation. Forgive me.
+488;1;3;Betrayer Moon;yennifer;Can your apology save me from Nilfgaard?
+489;1;3;Betrayer Moon;yennifer;Take me to Aedirn?
+490;1;3;Betrayer Moon;yennifer;Do they make me more than my blood?
+491;1;3;Betrayer Moon;istredd;And you think this will?
+492;1;3;Betrayer Moon;yennifer;Fine.
+493;1;3;Betrayer Moon;yennifer;Tell them you lied.
+494;1;3;Betrayer Moon;yennifer;Say you concocted this slander  to gain the favor of your precious rector.
+495;1;3;Betrayer Moon;istredd;It's too late. You missed initiation.
+496;1;3;Betrayer Moon;istredd;The enchantments are done. Think clearly.
+497;1;3;Betrayer Moon;yennifer;You're so smart, aren't you? You know everything.
+498;1;3;Betrayer Moon;istredd;I'm sorry. I had no way of knowing how the information would be used.
+499;1;3;Betrayer Moon;istredd;But neither did you.
+500;1;3;Betrayer Moon;yennifer;Do not turn this on me.
+501;1;3;Betrayer Moon;istredd;We're pretending your precious rectoress  never ordered you to spy on me?
+502;1;3;Betrayer Moon;;[scoffs]
+503;1;3;Betrayer Moon;istredd;Look, I-I can fix this.
+504;1;3;Betrayer Moon;istredd;The Brotherhood--they've offered me a seat on the Research Chapter. Me.
+505;1;3;Betrayer Moon;istredd;Okay? Neither of us have to go to court.
+506;1;3;Betrayer Moon;yennifer;You can't be serious?
+507;1;3;Betrayer Moon;istredd;We can travel the continent together.
+508;1;3;Betrayer Moon;istredd;We can be together. We can forge a whole new destiny.
+509;1;3;Betrayer Moon;yennifer;Ah.
+510;1;3;Betrayer Moon;yennifer;A life holding dustpans while you brush off forgotten bones?
+511;1;3;Betrayer Moon;yennifer;That's not destiny.
+512;1;3;Betrayer Moon;yennifer;It's slow suicide.
+513;1;3;Betrayer Moon;istredd;You don't mean that.
+514;1;3;Betrayer Moon;yennifer;Would it frighten you to know you're  not privy to every one of my thoughts?
+515;1;3;Betrayer Moon;istredd;You are patronizing me.
+516;1;3;Betrayer Moon;istredd;I was going to Temeria for you.
+517;1;3;Betrayer Moon;yennifer;That was your decision.
+518;1;3;Betrayer Moon;istredd;You really think I wish to waste my days  gossiping at court?
+519;1;3;Betrayer Moon;istredd;That's your fetish, not mine.
+520;1;3;Betrayer Moon;yennifer;A true man would state his desires.
+521;1;3;Betrayer Moon;istredd;Well, how would I recognize them? Huh?
+522;1;3;Betrayer Moon;istredd;You get off on disguising yours  as my own. Oh.
+523;1;3;Betrayer Moon;istredd;Stregobor was right.
+524;1;3;Betrayer Moon;istredd;That's exactly why you're here, exactly what she taught you.
+525;1;3;Betrayer Moon;istredd;Everyone's a pawn.
+526;1;3;Betrayer Moon;yennifer;I will not be schooled by a man
+527;1;3;Betrayer Moon;yennifer;who pimps the world  as some romantic adventure.
+528;1;3;Betrayer Moon;yennifer;My world is cruel.
+529;1;3;Betrayer Moon;;[scoffs]
+530;1;3;Betrayer Moon;yennifer;Unpredictable.
+531;1;3;Betrayer Moon;yennifer;You enter, you survive, you die.
+532;1;3;Betrayer Moon;istredd;You know, victimhood is not your color.
+533;1;3;Betrayer Moon;yennifer;Nor heroism yours.
+534;1;3;Betrayer Moon;istredd;You're just angry because  you lost your chance to be beautiful!
+535;1;3;Betrayer Moon;yennifer;I want to be powerful.
+536;1;3;Betrayer Moon;istredd;Seen and adored with everyone watching.
+537;1;3;Betrayer Moon;yennifer;It is what I'm owed.
+538;1;3;Betrayer Moon;istredd;No amount of power or beauty  will ever make you feel worthy of either.
+539;1;3;Betrayer Moon;;[waltz plays]
+540;1;3;Betrayer Moon;Divethaf;Let's take a rest, dear.
+541;1;3;Betrayer Moon;Foltest's mother;Foltest, leave your sister be.
+542;1;3;Betrayer Moon;Foltest's mother;Show Madame de Vriess some respect.
+543;1;3;Betrayer Moon;tissaia;What wonderful children, Your Highness.
+544;1;3;Betrayer Moon;Foltest's mother;Thank you.
+545;1;3;Betrayer Moon;tissaia;Your Excellence.
+546;1;3;Betrayer Moon;Divethaf;An Aedirnian would surely have had better footing.
+547;1;3;Betrayer Moon;yennifer;[Yennefer] You claim to be  quite the artist. Prove it.
+548;1;3;Betrayer Moon;artist;The Chapter would have my head.
+549;1;3;Betrayer Moon;yennifer;Do they already have your cock?
+550;1;3;Betrayer Moon;;[chuckles]
+551;1;3;Betrayer Moon;artist;I'll need time to prepare the herbs.
+552;1;3;Betrayer Moon;yennifer;That won't be necessary.
+553;1;3;Betrayer Moon;artist;Don't be foolish. You can't be awake during the procedure.
+554;1;3;Betrayer Moon;yennifer;I can.
+555;1;3;Betrayer Moon;;[sighs]
+556;1;3;Betrayer Moon;foltest;[Foltest] Oh so quick to violence.
+557;1;3;Betrayer Moon;foltest;Strange, considering what Miss Merigold  told me about you.
+558;1;3;Betrayer Moon;geralt;And what's that?
+559;1;3;Betrayer Moon;foltest;She told me...
+560;1;3;Betrayer Moon;foltest;to trust you.
+561;1;3;Betrayer Moon;;[chuckles]
+562;1;3;Betrayer Moon;foltest;Will this work?
+563;1;3;Betrayer Moon;foltest;Answer honestly.
+564;1;3;Betrayer Moon;geralt;I don't know.
+565;1;3;Betrayer Moon;foltest;Will my...
+566;1;3;Betrayer Moon;foltest;will my daughter...
+567;1;3;Betrayer Moon;foltest;be normal?
+568;1;3;Betrayer Moon;geralt;She'll need special care.
+569;1;3;Betrayer Moon;geralt;She's lived as an animal.
+570;1;3;Betrayer Moon;geralt;All she's ever known is...
+571;1;3;Betrayer Moon;geralt;rage and hunger.
+572;1;3;Betrayer Moon;;[Geralt sighs]
+573;1;3;Betrayer Moon;;[sighs]
+574;1;3;Betrayer Moon;foltest;What is this?
+575;1;3;Betrayer Moon;geralt;For the princess.
+576;1;3;Betrayer Moon;geralt;If I can lift the curse.
+577;1;3;Betrayer Moon;geralt;A gift.
+578;1;3;Betrayer Moon;foltest;You're giving me this because you do not expect to see morning.
+579;1;3;Betrayer Moon;foltests;This isn't my first time trying to save a princess
+580;1;3;Betrayer Moon;geralt;who others see as a monster.
+581;1;3;Betrayer Moon;foltest;What happened to that princess?
+582;1;3;Betrayer Moon;geralt;I killed her.
+583;1;3;Betrayer Moon;foltest;I did try to resist, at first, with Adda. We both did.
+584;1;3;Betrayer Moon;foltest;For all it brightens, love casts long shadows.
+585;1;3;Betrayer Moon;foltest;I envy you.
+586;1;3;Betrayer Moon;foltest;To live...
+587;1;3;Betrayer Moon;foltest;and never have to fall in love.
+588;1;3;Betrayer Moon;;[horse neighs]
+589;1;3;Betrayer Moon;;[moans]
+590;1;3;Betrayer Moon;ostrit;Witcher.
+591;1;3;Betrayer Moon;ostrit;This is madness!
+592;1;3;Betrayer Moon;ostrit;What are we doing here? What's happening?
+593;1;3;Betrayer Moon;geralt;How can I lift the curse?
+594;1;3;Betrayer Moon;ostrit;No.
+595;1;3;Betrayer Moon;ostrit;This is not right.
+596;1;3;Betrayer Moon;ostrit;Foltest must pay for what he did.
+597;1;3;Betrayer Moon;geralt;Explain that to her.
+598;1;3;Betrayer Moon;ostrit;Carry me out. I order you.
+599;1;3;Betrayer Moon;geralt;Tell me how to lift the curse.
+600;1;3;Betrayer Moon;;[panting]
+601;1;3;Betrayer Moon;ostrit;Sh-She was hiding from the Brotherhood.
+602;1;3;Betrayer Moon;ostrit;She sold me a lamb.
+603;1;3;Betrayer Moon;ostrit;Sh-She told me  to wait until a full moon,
+604;1;3;Betrayer Moon;ostrit;to wait and then to kill it.
+605;1;3;Betrayer Moon;ostrit;And then I recited some silly chant.
+606;1;3;Betrayer Moon;ostrit;And then I bathed in the lamb's blood until sunrise.
+607;1;3;Betrayer Moon;ostrit;Until the rooster crowed three times. And that is all.
+608;1;3;Betrayer Moon;ostrit;I swear. I swear. Now please let us leave.
+609;1;3;Betrayer Moon;geralt;What was the chant?
+610;1;3;Betrayer Moon;ostrit;[gasping] It was years ago.
+611;1;3;Betrayer Moon;ostrit;It was Elven. Um...
+612;1;3;Betrayer Moon;;[speaking Elder]
+613;1;3;Betrayer Moon;;[sighs]
+614;1;3;Betrayer Moon;;[speaking Elder]
+615;1;3;Betrayer Moon;ostrit;Wh-- what is it? The-- I-- I've done what you've asked.
+616;1;3;Betrayer Moon;ostrit;What more can I do?
+617;1;3;Betrayer Moon;geralt;Nothing, unless you can  keep a striga out of her crypt
+618;1;3;Betrayer Moon;geralt;until a fucking rooster crows three times.
+619;1;3;Betrayer Moon;ostrit;You're gonna have to fight her till dawn.
+620;1;3;Betrayer Moon;yennifer;Leave my eyes. These as well.
+621;1;3;Betrayer Moon;;[sighs]
+622;1;3;Betrayer Moon;artist;There is a cost to all creation.
+623;1;3;Betrayer Moon;artist;A sacrifice that is always made.
+624;1;3;Betrayer Moon;artrst;To be reborn...
+625;1;3;Betrayer Moon;artist;you will bear no more.
+626;1;3;Betrayer Moon;artist;Do you understand?
+627;1;3;Betrayer Moon;artist;Good.
+628;1;3;Betrayer Moon;;[water dripping]
+629;1;3;Betrayer Moon;;[screeching]
+630;1;3;Betrayer Moon;;[screeching]
+631;1;3;Betrayer Moon;ostrit;No. No. Come back here.
+632;1;3;Betrayer Moon;ostrit;Please. Please!
+633;1;3;Betrayer Moon;ostrit;You'd leave a man  bound to die in such indignity?
+634;1;3;Betrayer Moon;geralt;You're not a man.
+635;1;3;Betrayer Moon;;[whimpering]
+636;1;3;Betrayer Moon;;[loud screech]
+637;1;3;Betrayer Moon;;[whimpering]
+638;1;3;Betrayer Moon;;[croaks]
+639;1;3;Betrayer Moon;;[creaking]
+640;1;3;Betrayer Moon;;[hissing]
+641;1;3;Betrayer Moon;;[high-pitched groan]
+642;1;3;Betrayer Moon;;[cooing]
+643;1;3;Betrayer Moon;;[clicking]
+644;1;3;Betrayer Moon;ostrit;Please forgive me.
+645;1;3;Betrayer Moon;ostrit;It was Foltest.
+646;1;3;Betrayer Moon;ostrit;It was his fault.
+647;1;3;Betrayer Moon;ostrit;I loved your mother.
+648;1;3;Betrayer Moon;;[croaks]
+649;1;3;Betrayer Moon;;[gasps]
+650;1;3;Betrayer Moon;;[screeches]
+651;1;3;Betrayer Moon;;[gasps]
+652;1;3;Betrayer Moon;;[screeching fades]
+653;1;3;Betrayer Moon;;[rasping moaning]
+654;1;3;Betrayer Moon;;[screams]
+655;1;3;Betrayer Moon;;[croaking]
+656;1;3;Betrayer Moon;;[screeching]
+657;1;3;Betrayer Moon;;[snarling]
+658;1;3;Betrayer Moon;;[screeching]
+659;1;3;Betrayer Moon;;[hissing and croaking]
+660;1;3;Betrayer Moon;;[screeches]
+661;1;3;Betrayer Moon;;[screams]
+662;1;3;Betrayer Moon;geralt;Fuck.
+663;1;3;Betrayer Moon;;[gasps and groans]
+664;1;3;Betrayer Moon;;[screams]
+665;1;3;Betrayer Moon;;[whines]
+666;1;3;Betrayer Moon;;[hissing]
+667;1;3;Betrayer Moon;;[panting]
+668;1;3;Betrayer Moon;;[sighs]
+669;1;3;Betrayer Moon;;[glass breaks]
+670;1;3;Betrayer Moon;;[sighs]
+671;1;3;Betrayer Moon;;[speaking Elder]
+672;1;3;Betrayer Moon;;[speaking Elder]
+673;1;3;Betrayer Moon;;[speaking Elder]
+674;1;3;Betrayer Moon;;[speaking Elder]
+675;1;3;Betrayer Moon;;[speaking Elder]
+676;1;3;Betrayer Moon;;[speaking Elder]
+677;1;3;Betrayer Moon;;[speaking Elder]
+678;1;3;Betrayer Moon;;[speaking Elder]
+679;1;3;Betrayer Moon;;[screeching]
+680;1;3;Betrayer Moon;;[speaking Elder]
+681;1;3;Betrayer Moon;;[speaking Elder]
+682;1;3;Betrayer Moon;;[groans]
+683;1;3;Betrayer Moon;;[screeching]
+684;1;3;Betrayer Moon;;[groans]
+685;1;3;Betrayer Moon;;[screams]
+686;1;3;Betrayer Moon;;[screaming]
+687;1;3;Betrayer Moon;;[screeching]
+688;1;3;Betrayer Moon;;[screeching]
+689;1;3;Betrayer Moon;;[squealing]
+690;1;3;Betrayer Moon;;[howling]
+691;1;3;Betrayer Moon;;[screeching]
+692;1;3;Betrayer Moon;;[wailing]
+693;1;3;Betrayer Moon;;[screaming]
+694;1;3;Betrayer Moon;;[scream fades]
+695;1;3;Betrayer Moon;;[birdsong]
+696;1;3;Betrayer Moon;;[rooster crows]
+697;1;3;Betrayer Moon;;[water dripping]
+698;1;3;Betrayer Moon;;[stone crunching]
+699;1;3;Betrayer Moon;;[stone grinding]
+700;1;3;Betrayer Moon;;[groans]
+701;1;3;Betrayer Moon;;[groans]
+702;1;3;Betrayer Moon;;[panting]
+703;1;3;Betrayer Moon;;[sighs]
+704;1;3;Betrayer Moon;;[sighs]
+705;1;3;Betrayer Moon;;[sighs]
+706;1;3;Betrayer Moon;;[screeches]
+707;1;3;Betrayer Moon;;[tearing]
+708;1;3;Betrayer Moon;;[screeches]
+709;1;3;Betrayer Moon;;[groans]
+710;1;3;Betrayer Moon;;[gasping and groaning]
+711;1;3;Betrayer Moon;;[yells]
+712;1;3;Betrayer Moon;;[Geralt growls]
+713;1;3;Betrayer Moon;;[sighs]
+714;1;3;Betrayer Moon;yennefer;Yennefer of Vengerberg.
+715;1;3;Betrayer Moon;tissaia;My apologies, Your Excellence.
+716;1;3;Betrayer Moon;tissaia;Please allow me to remove  this misguided girl.
+717;1;3;Betrayer Moon;Divethaf;Now, what sort of a king refuses a dance with one of his subjects?
+718;1;3;Betrayer Moon;Divethaf;Vengerberg?
+719;1;3;Betrayer Moon;Divethaf;Are you aware that I'm in the market for just such a mage?
+720;1;3;Betrayer Moon;yennefer;On your lead, Your Excellence.
+721;1;3;Betrayer Moon;triss;Geralt...
+722;1;3;Betrayer Moon;triss;Geralt.
+723;1;3;Betrayer Moon;geralt;Renfri.
+724;1;3;Betrayer Moon;renfri;The girl in the woods will be with you always.
+725;1;3;Betrayer Moon;renfri;People call you a monster too.
+726;1;3;Betrayer Moon;geralt;Renfri.
+727;1;3;Betrayer Moon;renfri;You choose...
+728;1;3;Betrayer Moon;renfri;[echoing] You choose...
+729;1;3;Betrayer Moon;;[sighs]
+730;1;3;Betrayer Moon;;[groans]
+731;1;3;Betrayer Moon;;[grunts]
+732;1;3;Betrayer Moon;triss;Your scars. You heal quite nicely.
+733;1;3;Betrayer Moon;triss;Your will to live is strong.
+734;1;3;Betrayer Moon;geralt;The princess?
+735;1;3;Betrayer Moon;triss;I've arranged for her to stay a while  with  the Sisters of Melitele.
+736;1;3;Betrayer Moon;geralt;But...
+737;1;3;Betrayer Moon;geralt;I...
+738;1;3;Betrayer Moon;triss;Her neck?
+739;1;3;Betrayer Moon;triss;She'll heal, too.
+740;1;3;Betrayer Moon;triss;You should know Foltest issued a statement.
+741;1;3;Betrayer Moon;triss;The honorable Lord Ostrit  gave his life to slay the vukodlak.
+742;1;3;Betrayer Moon;triss;Miners are gathering ore for a statue.
+743;1;3;Betrayer Moon;;[grunts]
+744;1;3;Betrayer Moon;triss;Anyone else would've killed the princess.
+745;1;3;Betrayer Moon;triss;You chose not to.
+746;1;3;Betrayer Moon;geralt;[grunts] I'll take my coin now.
+747;1;3;Betrayer Moon;geralt;I need to get back to my horse.
+748;1;3;Betrayer Moon;triss;Who's Renfri?
+749;1;3;Betrayer Moon;triss;Hers was the only name you uttered  over and over in your sleep.
+750;1;3;Betrayer Moon;geralt;My coin.
+751;1;3;Betrayer Moon;triss;So that's all life is to you?
+752;1;3;Betrayer Moon;triss;Monsters and money?
+753;1;3;Betrayer Moon;geralt;It's all it needs to be.
+754;1;3;Betrayer Moon;geralt;You say this is all life is to you,
+755;1;3;Betrayer Moon;geralt;but there is a vortex of fate around all of us, Geralt,
+756;1;3;Betrayer Moon;geralt;growing with each and every one of our choices...
+757;1;3;Betrayer Moon;geralt;drawing our destinies in closer.
+758;1;3;Betrayer Moon;triss;I feel something out there waits for you.
+759;1;3;Betrayer Moon;triss;Something more.
+760;1;3;Betrayer Moon;;[voices whispering]
+761;1;3;Betrayer Moon;;[crow caws]
+762;1;3;Betrayer Moon;;[cawing echoes]
+763;1;3;Betrayer Moon;;[voices whispering]
+764;1;3;Betrayer Moon;;[gasps]
+765;1;3;Betrayer Moon;Dara;Ciri.
+766;1;3;Betrayer Moon;;[whispering voice] Ciri.
+767;1;3;Betrayer Moon;Dara;Ciri!
+768;1;3;Betrayer Moon;Dara;Ciri! Ciri!
+769;1;3;Betrayer Moon;Dara;Ciri! Ciri!
+770;1;3;Betrayer Moon;;[whoosh]
+771;1;3;Betrayer Moon;;[gasps]
+772;1;3;Betrayer Moon;Dara;Wha--
+773;1;3;Betrayer Moon;;[panting] Ciri!
+774;1;3;Betrayer Moon;;[groans] Ciri! Ciri!
+775;1;3;Betrayer Moon;;[moaning]
+776;1;3;Betrayer Moon;;[sobs]
+777;1;3;Betrayer Moon;;[groaning]
+778;1;3;Betrayer Moon;;[whispering]
+779;1;3;Betrayer Moon;;[whispering voice] Ciri.
+780;1;3;Betrayer Moon;Dara;Ciri.
+781;1;3;Betrayer Moon;Dara;Ciri. Ciri.
+782;1;3;Betrayer Moon;;Ciri.

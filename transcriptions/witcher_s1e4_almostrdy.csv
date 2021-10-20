@@ -1,0 +1,896 @@
+index;season_no;episode_no;episode_name;Character;Text
+0;1;4;Of Banquets, Bastards and Burials;;[whispering voices overlapping]
+1;1;4;Of Banquets, Bastards and Burials;;Ciri. Ciri...
+2;1;4;Of Banquets, Bastards and Burials;;[thumping]
+3;1;4;Of Banquets, Bastards and Burials;;[voice whispering]
+4;1;4;Of Banquets, Bastards and Burials;;[voices continue whispering softly]
+5;1;4;Of Banquets, Bastards and Burials;;[whispering growing in intensity]
+6;1;4;Of Banquets, Bastards and Burials;;[gasps]
+7;1;4;Of Banquets, Bastards and Burials;;[wings fluttering]
+8;1;4;Of Banquets, Bastards and Burials;;[birdsong]
+9;1;4;Of Banquets, Bastards and Burials;;[twig cracks]
+10;1;4;Of Banquets, Bastards and Burials;;[rustling]
+11;1;4;Of Banquets, Bastards and Burials;Ciri;Dara?
+12;1;4;Of Banquets, Bastards and Burials;;[twig cracks]
+13;1;4;Of Banquets, Bastards and Burials;;[gasps]
+14;1;4;Of Banquets, Bastards and Burials;;[all grunt]
+15;1;4;Of Banquets, Bastards and Burials;Ciri;Please...
+16;1;4;Of Banquets, Bastards and Burials;Ciri;don't hurt me.
+17;1;4;Of Banquets, Bastards and Burials;triad;[in Elder] Keep your aim true.
+18;1;4;Of Banquets, Bastards and Burials;ciri;I'm lost.
+19;1;4;Of Banquets, Bastards and Burials;Ciri;I don't know... how I got here.
+20;1;4;Of Banquets, Bastards and Burials;Ciri;Please.
+21;1;4;Of Banquets, Bastards and Burials;dryad;[in Elder] If she runs, kill her.
+22;1;4;Of Banquets, Bastards and Burials;Ciri;Where are you taking me?
+23;1;4;Of Banquets, Bastards and Burials;Ciri;I need to find Dara. Please!
+24;1;4;Of Banquets, Bastards and Burials;dryad;What is your name?
+25;1;4;Of Banquets, Bastards and Burials;Ciri;Fiona.
+26;1;4;Of Banquets, Bastards and Burials;Ciri;Where am I? How did I get--
+27;1;4;Of Banquets, Bastards and Burials;dryad;You are in Brokilon Forest.
+28;1;4;Of Banquets, Bastards and Burials;dryad;Follow me.
+29;1;4;Of Banquets, Bastards and Burials;;I tell you no lie,
+30;1;4;Of Banquets, Bastards and Burials;;it swallowed the whole village, it did.
+31;1;4;Of Banquets, Bastards and Burials;;[people gasp and murmur]
+32;1;4;Of Banquets, Bastards and Burials;;Not a bone to be found!
+33;1;4;Of Banquets, Bastards and Burials;;Oh, don't give me that look, shitling.
+34;1;4;Of Banquets, Bastards and Burials;;That's why we had to call him...
+35;1;4;Of Banquets, Bastards and Burials;;The White Wolf!
+36;1;4;Of Banquets, Bastards and Burials;;And he stood in the middle of that frozen lake
+37;1;4;Of Banquets, Bastards and Burials;;like he knew it was coming for him.
+38;1;4;Of Banquets, Bastards and Burials;;The ice cracked open
+39;1;4;Of Banquets, Bastards and Burials;;and a selkiemore shot out!
+40;1;4;Of Banquets, Bastards and Burials;;Oh, you've never seen one,
+41;1;4;Of Banquets, Bastards and Burials;;but it'd take down a ship with its cavernous mouth
+42;1;4;Of Banquets, Bastards and Burials;;full of devil's teeth!
+43;1;4;Of Banquets, Bastards and Burials;;[gasping]
+44;1;4;Of Banquets, Bastards and Burials;;And it... swallowed...
+45;1;4;Of Banquets, Bastards and Burials;;that witcher...
+46;1;4;Of Banquets, Bastards and Burials;;whole!
+47;1;4;Of Banquets, Bastards and Burials;Jaskier;Oh, this is brilliant!
+48;1;4;Of Banquets, Bastards and Burials;Jaskier;Oh, sorry. It's just Geralt's usually so stingy with the details.
+49;1;4;Of Banquets, Bastards and Burials;Jaskier;Uh... and then what happened?
+50;1;4;Of Banquets, Bastards and Burials;;He died.
+51;1;4;Of Banquets, Bastards and Burials;;[all gasp]
+52;1;4;Of Banquets, Bastards and Burials;;Eh... He's fine.
+53;1;4;Of Banquets, Bastards and Burials;;Look, I was there.
+54;1;4;Of Banquets, Bastards and Burials;;I saw it with my own--
+55;1;4;Of Banquets, Bastards and Burials;;[crash]
+56;1;4;Of Banquets, Bastards and Burials;Jaskier;See?
+57;1;4;Of Banquets, Bastards and Burials;;[gasping]
+58;1;4;Of Banquets, Bastards and Burials;;[chuckling]
+59;1;4;Of Banquets, Bastards and Burials;;Oh...
+60;1;4;Of Banquets, Bastards and Burials;;What's that stench?
+61;1;4;Of Banquets, Bastards and Burials;Geralt;Selkiemore guts.
+62;1;4;Of Banquets, Bastards and Burials;;[man] Ugh!
+63;1;4;Of Banquets, Bastards and Burials;Geralt;Had to get it from the inside. I'll take what I'm owed.
+64;1;4;Of Banquets, Bastards and Burials;Jaskier;♪ Toss a coin to your witcher ♪
+65;1;4;Of Banquets, Bastards and Burials;Jaskier;♪ O, Valley of Plenty ♪
+66;1;4;Of Banquets, Bastards and Burials;Jaskier;♪ Whoa ♪
+67;1;4;Of Banquets, Bastards and Burials;Jaskier;[all] ♪ Toss a coin to your witcher ♪
+68;1;4;Of Banquets, Bastards and Burials;Jaskier;♪ A friend of humanity ♪
+69;1;4;Of Banquets, Bastards and Burials;Geralt;Yikes.
+70;1;4;Of Banquets, Bastards and Burials;;[cheering]
+71;1;4;Of Banquets, Bastards and Burials;Jaskier;Thank you!
+72;1;4;Of Banquets, Bastards and Burials;Jaskier;You're welcome.
+73;1;4;Of Banquets, Bastards and Burials;Jaskier;And now, Witcher, it's time to repay your debt.
+74;1;4;Of Banquets, Bastards and Burials;Jaskier;"What debt?"" you're probably asking "
+76;1;4;Of Banquets, Bastards and Burials;Jaskier;Well, I'll tell you.
+77;1;4;Of Banquets, Bastards and Burials;Jaskier;I've made you famous, Witcher.
+78;1;4;Of Banquets, Bastards and Burials;Jaskier;By rights, I should be claiming ten percent of all your coin,
+79;1;4;Of Banquets, Bastards and Burials;Jaskier;but instead,  what I'm asking for is a teeny,
+80;1;4;Of Banquets, Bastards and Burials;Jaskier;teeny-weeny little favor.
+81;1;4;Of Banquets, Bastards and Burials;Geralt;Fuck off, bard.
+82;1;4;Of Banquets, Bastards and Burials;Jaskier;For one measly night of service,
+83;1;4;Of Banquets, Bastards and Burials;Jaskier;you will gain a cornucopia of earthly delights.
+84;1;4;Of Banquets, Bastards and Burials;Jaskier;The greatest masters of the culinary arts
+85;1;4;Of Banquets, Bastards and Burials;Jaskier;crafting morsels worthy of the gods.
+86;1;4;Of Banquets, Bastards and Burials;Jaskier;Maidens that would make the sun itself blush
+87;1;4;Of Banquets, Bastards and Burials;Jaskier;with a single comely smile.
+88;1;4;Of Banquets, Bastards and Burials;Jaskier;And rivers of the sweetest of drinks from the rarest of--
+89;1;4;Of Banquets, Bastards and Burials;Jaskier;Fuck!
+90;1;4;Of Banquets, Bastards and Burials;Jaskier;Food, women and wine, Geralt!
+91;1;4;Of Banquets, Bastards and Burials;;[grunts]
+92;1;4;Of Banquets, Bastards and Burials;Jaskier;Now, now, stop your boorish grunts of protest.
+93;1;4;Of Banquets, Bastards and Burials;Jaskier;It is one night bodyguarding your very best friend in the whole wide world.
+94;1;4;Of Banquets, Bastards and Burials;Jaskier;How hard could it be?
+95;1;4;Of Banquets, Bastards and Burials;Geralt;I'm not your friend.
+96;1;4;Of Banquets, Bastards and Burials;Jaskier;Oh. Oh, really?
+97;1;4;Of Banquets, Bastards and Burials;Jaskier;Oh, you usually just let strangers rub chamomile onto your lovely bottom?
+98;1;4;Of Banquets, Bastards and Burials;Jaskier;Yeah, well, yeah, exactly. That's what I thought.
+99;1;4;Of Banquets, Bastards and Burials;Jaskier;Every lord, knight and twopenny king worth his salt
+100;1;4;Of Banquets, Bastards and Burials;Jaskier;will be at this betrothal.
+101;1;4;Of Banquets, Bastards and Burials;Jaskier;The Lioness of Cintra herself will sing the praises
+102;1;4;Of Banquets, Bastards and Burials;Jaskier;of Jaskier's triumphant performance!
+103;1;4;Of Banquets, Bastards and Burials;Geralt;How many of these lords want to kill you?
+104;1;4;Of Banquets, Bastards and Burials;Jaskier;Hard to say. One stops keeping count after a while.
+105;1;4;Of Banquets, Bastards and Burials;Jaskier;Wives, concubines, mothers sometimes.
+106;1;4;Of Banquets, Bastards and Burials;Jaskier;Ooh, yeah, that face!
+107;1;4;Of Banquets, Bastards and Burials;Jaskier;Ooh!
+108;1;4;Of Banquets, Bastards and Burials;Jaskier;Scary face!
+109;1;4;Of Banquets, Bastards and Burials;Jaskier;No lord in his right mind will come close
+110;1;4;Of Banquets, Bastards and Burials;Jaskier;if you're standing next to me with a puss like that.
+111;1;4;Of Banquets, Bastards and Burials;Jaskier;Ooh, on second thoughts...
+112;1;4;Of Banquets, Bastards and Burials;Jaskier;might want to lay off the Cintran ale.
+113;1;4;Of Banquets, Bastards and Burials;;[groans]
+114;1;4;Of Banquets, Bastards and Burials;Jaskier;A clear head would be best.
+115;1;4;Of Banquets, Bastards and Burials;Geralt;I will not suffer tonight sober
+116;1;4;Of Banquets, Bastards and Burials;Geralt;just because you hid your sausage in the wrong royal pantry.
+117;1;4;Of Banquets, Bastards and Burials;Geralt;I'm not killing anyone. Not over the petty squabbles of men.
+118;1;4;Of Banquets, Bastards and Burials;Jaskier;Yes, yes, yes.
+119;1;4;Of Banquets, Bastards and Burials;Jaskier;You never get involved. Except you actually do,
+120;1;4;Of Banquets, Bastards and Burials;Jaskier;all of the time.
+121;1;4;Of Banquets, Bastards and Burials;Jaskier;Ugh. Is this what happens when you get old?
+122;1;4;Of Banquets, Bastards and Burials;Jaskier;You get unbearably crochety and cantankerous?
+123;1;4;Of Banquets, Bastards and Burials;Jaskier;Actually, I've always wanted to know, do witchers ever retire?
+124;1;4;Of Banquets, Bastards and Burials;Geralt;Yeah. When they slow and get killed.
+125;1;4;Of Banquets, Bastards and Burials;Jaskier;Come on, you must want something for yourself
+126;1;4;Of Banquets, Bastards and Burials;Jaskier;once all this... monster hunting nonsense is over with.
+127;1;4;Of Banquets, Bastards and Burials;Geralt;I want nothing.
+128;1;4;Of Banquets, Bastards and Burials;Jaskier;Well, who knows?
+129;1;4;Of Banquets, Bastards and Burials;Jaskier;Maybe someone out there will want you.
+130;1;4;Of Banquets, Bastards and Burials;Geralt;I need no one.
+131;1;4;Of Banquets, Bastards and Burials;Geralt;And the last thing I want is someone needing me.
+132;1;4;Of Banquets, Bastards and Burials;Jaskier;And yet...
+133;1;4;Of Banquets, Bastards and Burials;Jaskier;here we are.
+134;1;4;Of Banquets, Bastards and Burials;Geralt;Hm.
+135;1;4;Of Banquets, Bastards and Burials;Geralt;Where the fuck are my clothes, Jaskier?
+136;1;4;Of Banquets, Bastards and Burials;Jaskier;Ah. Well, uh, they were sort of covered in selkiemore guts,
+137;1;4;Of Banquets, Bastards and Burials;Jaskier;so I sent them away to be washed.
+138;1;4;Of Banquets, Bastards and Burials;Jaskier;Anyway, you're not going tonight as a witcher.
+139;1;4;Of Banquets, Bastards and Burials;;[lively folk music playing]
+140;1;4;Of Banquets, Bastards and Burials;Jaskier;Right, so stick close to me, look mean and pretend you're a mute.
+141;1;4;Of Banquets, Bastards and Burials;Jaskier;Can't have anyone finding out who you are.
+142;1;4;Of Banquets, Bastards and Burials;Mousesack;Geralt of Rivia, the mighty Witcher!
+143;1;4;Of Banquets, Bastards and Burials;Jaskier;Oh, shit.
+144;1;4;Of Banquets, Bastards and Burials;Mousesack;I haven't seen you since the plague.
+145;1;4;Of Banquets, Bastards and Burials;Geralt;Good times, Mousesack.
+146;1;4;Of Banquets, Bastards and Burials;;[laughs]
+147;1;4;Of Banquets, Bastards and Burials;Mousesack;I've missed your sour complexion.
+148;1;4;Of Banquets, Bastards and Burials;Mousesack;I feared this would be a dull affair,
+149;1;4;Of Banquets, Bastards and Burials;Mousesack;but now the White Wolf is here, perhaps all is not lost.
+150;1;4;Of Banquets, Bastards and Burials;Mousesack;Why are you dressed like a sad silk trader?
+151;1;4;Of Banquets, Bastards and Burials;Jaskier;[Jaskier] What? 
+152;1;4;Of Banquets, Bastards and Burials;Mousesack;Walk with me.
+153;1;4;Of Banquets, Bastards and Burials;all;To Mousesack!
+154;1;4;Of Banquets, Bastards and Burials;all;[all cheering] Yeah!
+155;1;4;Of Banquets, Bastards and Burials;all;To Mousesack!
+156;1;4;Of Banquets, Bastards and Burials;;[laughing heartily]
+157;1;4;Of Banquets, Bastards and Burials;herald;[herald] Prince Windhalm of Attre!
+158;1;4;Of Banquets, Bastards and Burials;Mousesack;I've been advising the Skelligen crown for years.
+159;1;4;Of Banquets, Bastards and Burials;Mousesack;A tad rough around the edges, but they're of the earth. Like me.
+160;1;4;Of Banquets, Bastards and Burials;;Castellan Haxo.
+161;1;4;Of Banquets, Bastards and Burials;Geralt;Old and crusty.
+162;1;4;Of Banquets, Bastards and Burials;;[cheering]
+163;1;4;Of Banquets, Bastards and Burials;Geralt;How long before this horse trading is done?
+164;1;4;Of Banquets, Bastards and Burials;Geralt;I find royalty best taken in...
+165;1;4;Of Banquets, Bastards and Burials;Geralt;small doses.
+166;1;4;Of Banquets, Bastards and Burials;Mousesack;I wouldn't count on leaving before dawn.
+167;1;4;Of Banquets, Bastards and Burials;Mousesack;These suitors will vie all night for Princess Pavetta's hand.
+168;1;4;Of Banquets, Bastards and Burials;Mousesack;Marrying into this monarchy is a mighty prize.
+169;1;4;Of Banquets, Bastards and Burials;Mousesack;Who wouldn't want to be king of the most powerful force in the land?
+170;1;4;Of Banquets, Bastards and Burials;Geralt;Hm.
+171;1;4;Of Banquets, Bastards and Burials;;[cheering]
+172;1;4;Of Banquets, Bastards and Burials;;[band strikes up]
+173;1;4;Of Banquets, Bastards and Burials;Geralt;So, which one of these little shits is your coin on?
+174;1;4;Of Banquets, Bastards and Burials;Mousesack;Come with me, there's much for you to see.
+175;1;4;Of Banquets, Bastards and Burials;;[cheering]
+176;1;4;Of Banquets, Bastards and Burials;Mousesack;[Mousesack] It's not a fair bet.
+177;1;4;Of Banquets, Bastards and Burials;Mousesack;That red-headed scanderlout over there, Crach an Craite, will marry Pavetta.
+178;1;4;Of Banquets, Bastards and Burials;Mousesack;The Lioness has already arranged it with the boy's uncle,
+179;1;4;Of Banquets, Bastards and Burials;Mousesack;Eist Tuirseach.
+180;1;4;Of Banquets, Bastards and Burials;Mousesack;No one would dare make a move on an alliance that powerful.
+181;1;4;Of Banquets, Bastards and Burials;Geralt;Handy with a blade.
+182;1;4;Of Banquets, Bastards and Burials;Geralt;Handy with women, too.
+183;1;4;Of Banquets, Bastards and Burials;Mousesack;All an act.
+184;1;4;Of Banquets, Bastards and Burials;Mousesack;Queen Calanthe refused his proposal three times after King Roegner died,
+185;1;4;Of Banquets, Bastards and Burials;Mousesack;despite the two of them gliding around each other
+186;1;4;Of Banquets, Bastards and Burials;Mousesack;like courting swans.
+187;1;4;Of Banquets, Bastards and Burials;Mousesack;No, no, no.
+188;1;4;Of Banquets, Bastards and Burials;Mousesack;She was not for living in her husband's shadow again.
+189;1;4;Of Banquets, Bastards and Burials;;[scoffs]
+190;1;4;Of Banquets, Bastards and Burials;;Something about you reminds me
+191;1;4;Of Banquets, Bastards and Burials;;of a scoundrel I once saw fleeing my wife's chambers!
+192;1;4;Of Banquets, Bastards and Burials;Jaskier;Um, well...
+193;1;4;Of Banquets, Bastards and Burials;;Drop your trousers.
+194;1;4;Of Banquets, Bastards and Burials;Jaskier;What?
+195;1;4;Of Banquets, Bastards and Burials;;I didn't get a proper look at the little shit's face,
+196;1;4;Of Banquets, Bastards and Burials;;but that pimply arse I'd remember anywhere.
+197;1;4;Of Banquets, Bastards and Burials;Jaskier;Well... uh, uh... Ah, Geralt.
+198;1;4;Of Banquets, Bastards and Burials;;[chuckles nervously]
+199;1;4;Of Banquets, Bastards and Burials;Geralt;Forgive me, my lord.
+200;1;4;Of Banquets, Bastards and Burials;Geralt;This... happens all the time.
+201;1;4;Of Banquets, Bastards and Burials;Geralt;It's true, he has the face of a cad and a coward.
+202;1;4;Of Banquets, Bastards and Burials;Geralt;Mm.
+203;1;4;Of Banquets, Bastards and Burials;Geralt;But, truth be known,
+204;1;4;Of Banquets, Bastards and Burials;Geralt;he was kicked in the balls by an ox as a child.
+205;1;4;Of Banquets, Bastards and Burials;Jaskier;Well, that's...
+206;1;4;Of Banquets, Bastards and Burials;Jaskier;tr-- true.
+207;1;4;Of Banquets, Bastards and Burials;;Apologies.
+208;1;4;Of Banquets, Bastards and Burials;;Here, drown your...
+209;1;4;Of Banquets, Bastards and Burials;;sorrows on me, eunuch.
+210;1;4;Of Banquets, Bastards and Burials;Jaskier;Oh, wow. Thank you. Thank you so much.
+211;1;4;Of Banquets, Bastards and Burials;Jaskier;First of all, you hog all the fanfare,
+212;1;4;Of Banquets, Bastards and Burials;Jaskier;then you go and ruin my courtly reputation.
+213;1;4;Of Banquets, Bastards and Burials;Geralt;I saved your life. You're on your own from here on.
+214;1;4;Of Banquets, Bastards and Burials;Geralt;Try not to get any daggers in your back before dawn.
+215;1;4;Of Banquets, Bastards and Burials;;[fanfare]
+216;1;4;Of Banquets, Bastards and Burials;;[herald] All rise for Her Majesty, the Lioness,
+217;1;4;Of Banquets, Bastards and Burials;;Queen Calanthe of Cintra!
+218;1;4;Of Banquets, Bastards and Burials;Calanthe;Beer!
+219;1;4;Of Banquets, Bastards and Burials;;[loud cheer]
+220;1;4;Of Banquets, Bastards and Burials;Calanthe;Apologies, noble sirs.
+221;1;4;Of Banquets, Bastards and Burials;Calanthe;A few upstart townships in the south needed reminding who was Queen.
+222;1;4;Of Banquets, Bastards and Burials;;[cheering and laughter]
+223;1;4;Of Banquets, Bastards and Burials;Calanthe;I find it's good for one's blood and humors.
+224;1;4;Of Banquets, Bastards and Burials;;[jeering]
+225;1;4;Of Banquets, Bastards and Burials;Calanthe;Ready your suitor's tales of glory, good lords.
+226;1;4;Of Banquets, Bastards and Burials;Calanthe;My daughter is eager to have this over with.
+227;1;4;Of Banquets, Bastards and Burials;Calanthe;As am I.
+228;1;4;Of Banquets, Bastards and Burials;Calanthe;Bard, music!
+229;1;4;Of Banquets, Bastards and Burials;;[cheer]
+230;1;4;Of Banquets, Bastards and Burials;Jaskier;♪ She ♪
+231;1;4;Of Banquets, Bastards and Burials;Calanthe;No, no, no! A jig!
+232;1;4;Of Banquets, Bastards and Burials;Calanthe;You can save your bloody maudlin nonsense for my funeral.
+233;1;4;Of Banquets, Bastards and Burials;Jaskier;Three, four...
+234;1;4;Of Banquets, Bastards and Burials;;[playing lively tune]
+235;1;4;Of Banquets, Bastards and Burials;Calanthe;It will be done soon.
+236;1;4;Of Banquets, Bastards and Burials;Calanthe;You think I wanted to marry your father?
+237;1;4;Of Banquets, Bastards and Burials;Calanthe;I'll have none of your waterworks here.
+238;1;4;Of Banquets, Bastards and Burials;Calanthe;You're the daughter of the Lioness, behave like it!
+239;1;4;Of Banquets, Bastards and Burials;Pavetta;Perhaps I should have some starving serfs brought in to slaughter, then.
+240;1;4;Of Banquets, Bastards and Burials;Pavetta;Or I could decapitate some elves
+241;1;4;Of Banquets, Bastards and Burials;Pavetta;and have their heads hung about as a lesson to those who would defy me.
+242;1;4;Of Banquets, Bastards and Burials;Calanthe;I will not have your hysteria turn this night upside down.
+243;1;4;Of Banquets, Bastards and Burials;Calanthe;Besides, that boorish lout is the key
+244;1;4;Of Banquets, Bastards and Burials;Calanthe;to Cintra holding power after I taste clay.
+245;1;4;Of Banquets, Bastards and Burials;Calanthe;He's from good stock.
+246;1;4;Of Banquets, Bastards and Burials;Calanthe;You could do worse.
+247;1;4;Of Banquets, Bastards and Burials;Pavetta;I could do better!
+248;1;4;Of Banquets, Bastards and Burials;Calanthe;You can have who you want when you're married.
+249;1;4;Of Banquets, Bastards and Burials;Calanthe;You have your mother's blood. You'll be fine.
+250;1;4;Of Banquets, Bastards and Burials;;[birds calling]
+251;1;4;Of Banquets, Bastards and Burials;dryad;Where were you headed, Fiona, to end up so lost?
+252;1;4;Of Banquets, Bastards and Burials;Ciri;I was running...
+253;1;4;Of Banquets, Bastards and Burials;Ciri;from the war.
+254;1;4;Of Banquets, Bastards and Burials;dryad;You...
+255;1;4;Of Banquets, Bastards and Burials;dryad;really don't remember how you came to be in Brokilon Forest?
+256;1;4;Of Banquets, Bastards and Burials;dryad;Yet you heard it call to you.
+257;1;4;Of Banquets, Bastards and Burials;dryad;There were many forests like it...
+258;1;4;Of Banquets, Bastards and Burials;dryad;before the Conjunction of the Spheres.
+259;1;4;Of Banquets, Bastards and Burials;dryad;We adapted, fought off the mutants and men who sought our end.
+260;1;4;Of Banquets, Bastards and Burials;dryad;Now only we remain.
+261;1;4;Of Banquets, Bastards and Burials;dryad;Dryads.
+262;1;4;Of Banquets, Bastards and Burials;;[man yelling and groaning]
+263;1;4;Of Banquets, Bastards and Burials;Ciri;Dara!
+264;1;4;Of Banquets, Bastards and Burials;;[groaning]
+265;1;4;Of Banquets, Bastards and Burials;Ciri;I'm so glad you're alive!
+266;1;4;Of Banquets, Bastards and Burials;Ciri;Is he going to be all right?
+267;1;4;Of Banquets, Bastards and Burials;dryad;Bite down on this.
+268;1;4;Of Banquets, Bastards and Burials;;[gasping]
+269;1;4;Of Banquets, Bastards and Burials;;[screams]
+270;1;4;Of Banquets, Bastards and Burials;;[sobs]
+271;1;4;Of Banquets, Bastards and Burials;;[yelling]
+272;1;4;Of Banquets, Bastards and Burials;;[hissing]
+273;1;4;Of Banquets, Bastards and Burials;dryad;[Dryad] The waters of Brokilon are potent.
+274;1;4;Of Banquets, Bastards and Burials;dryad;All newcomers to the forest must drink the waters.
+275;1;4;Of Banquets, Bastards and Burials;dryad;If they bear ill intent towards Brokilon,
+276;1;4;Of Banquets, Bastards and Burials;dryad;they die.
+277;1;4;Of Banquets, Bastards and Burials;dryad;If they're pure in heart, they survive...
+278;1;4;Of Banquets, Bastards and Burials;dryad;and may stay here.
+279;1;4;Of Banquets, Bastards and Burials;dryad;And over time, the waters of Brokilon
+280;1;4;Of Banquets, Bastards and Burials;dryad;will lessen the suffering  they have endured
+281;1;4;Of Banquets, Bastards and Burials;dryad;and make them forget.
+282;1;4;Of Banquets, Bastards and Burials;dryad;I think you'd like that. Am I right...
+283;1;4;Of Banquets, Bastards and Burials;dryad;Fiona?
+284;1;4;Of Banquets, Bastards and Burials;dryad;Because you're scared of more than just war,
+285;1;4;Of Banquets, Bastards and Burials;dryad;aren't you?
+286;1;4;Of Banquets, Bastards and Burials;dryad;You will both drink the waters,
+287;1;4;Of Banquets, Bastards and Burials;dryad;and all will be revealed.
+288;1;4;Of Banquets, Bastards and Burials;Crach and craite;[growling] You lie, you little shite!
+289;1;4;Of Banquets, Bastards and Burials;Crach and craite;You've never faced so much as a bad meal in your life,
+290;1;4;Of Banquets, Bastards and Burials;Crach and craite;never mind a manticore.
+291;1;4;Of Banquets, Bastards and Burials;man;[man] I've had manticores thrice as fat and ugly as you perish under my steel!
+292;1;4;Of Banquets, Bastards and Burials;man;[man 1] Under your bullshit, more like.
+293;1;4;Of Banquets, Bastards and Burials;man;How many stings has it got, then?
+294;1;4;Of Banquets, Bastards and Burials;man;Two.
+295;1;4;Of Banquets, Bastards and Burials;man;Hah! Go away and shite!
+296;1;4;Of Banquets, Bastards and Burials;man;It's five. I know.
+297;1;4;Of Banquets, Bastards and Burials;;Your Majesty, that's Geralt of Rivia.
+298;1;4;Of Banquets, Bastards and Burials;;I've actually killed one.
+299;1;4;Of Banquets, Bastards and Burials;;You--
+300;1;4;Of Banquets, Bastards and Burials;;[crowd yelling]
+301;1;4;Of Banquets, Bastards and Burials;;Enough!
+302;1;4;Of Banquets, Bastards and Burials;;[chuckles]
+303;1;4;Of Banquets, Bastards and Burials;Calanthe;We have a renowned guest here tonight.
+304;1;4;Of Banquets, Bastards and Burials;Calanthe;Perhaps he can declare which esteemed lord is telling the truth.
+305;1;4;Of Banquets, Bastards and Burials;Geralt;[Geralt] Neither.
+306;1;4;Of Banquets, Bastards and Burials;Crach and craite;Are you calling me a liar, old man?
+307;1;4;Of Banquets, Bastards and Burials;man;Aah!
+308;1;4;Of Banquets, Bastards and Burials;man;The Butcher of Blaviken bleats utter nonsense.
+309;1;4;Of Banquets, Bastards and Burials;;[laughter]
+310;1;4;Of Banquets, Bastards and Burials;Geralt;Perhaps the lords encountered...
+311;1;4;Of Banquets, Bastards and Burials;Geralt;rare subspecies of manticore.
+312;1;4;Of Banquets, Bastards and Burials;;[murmuring]
+313;1;4;Of Banquets, Bastards and Burials;;Aye.
+314;1;4;Of Banquets, Bastards and Burials;;[sighs]
+315;1;4;Of Banquets, Bastards and Burials;;[laughing]
+316;1;4;Of Banquets, Bastards and Burials;Calanthe;Perhaps our esteemed guest would like to entertain us
+317;1;4;Of Banquets, Bastards and Burials;Calanthe;with how he slayed the elves at the edge of the world?
+318;1;4;Of Banquets, Bastards and Burials;;[laughter and cheering]
+319;1;4;Of Banquets, Bastards and Burials;Geralt;There was no slaying.
+320;1;4;Of Banquets, Bastards and Burials;Geralt;I had my arse kicked by a ragged band of elves.
+321;1;4;Of Banquets, Bastards and Burials;;[groaning]
+322;1;4;Of Banquets, Bastards and Burials;Geralt;I was about to have my throat cut
+323;1;4;Of Banquets, Bastards and Burials;Geralt;when Filavandrel let me go.
+324;1;4;Of Banquets, Bastards and Burials;;[jeering]
+325;1;4;Of Banquets, Bastards and Burials;;But the song!
+326;1;4;Of Banquets, Bastards and Burials;;Yeah, the song.
+327;1;4;Of Banquets, Bastards and Burials;Geralt;At least when Filavandrel's blade kissed my throat, I didn't shit myself.
+328;1;4;Of Banquets, Bastards and Burials;Geralt;Which is all I can hope for you, good lords.
+329;1;4;Of Banquets, Bastards and Burials;Geralt;At your final breath,
+330;1;4;Of Banquets, Bastards and Burials;Geralt;a shitless death.
+331;1;4;Of Banquets, Bastards and Burials;man;[man] Not going to shit meself...
+332;1;4;Of Banquets, Bastards and Burials;Geralt;But I doubt it.
+333;1;4;Of Banquets, Bastards and Burials;;[laughter]
+334;1;4;Of Banquets, Bastards and Burials;Eist;It would have been your blade at Filavandrel's throat
+335;1;4;Of Banquets, Bastards and Burials;Eist;had you been there, Your Majesty.
+336;1;4;Of Banquets, Bastards and Burials;;[loud cheer]
+337;1;4;Of Banquets, Bastards and Burials;Eist;Not that any elven bastard would crawl from their lair to meet you on the field.
+338;1;4;Of Banquets, Bastards and Burials;Calanthe;Any man willing to paint himself in the shadow of his failures
+339;1;4;Of Banquets, Bastards and Burials;Calanthe;will make for far more interesting conversation this night.
+340;1;4;Of Banquets, Bastards and Burials;Calanthe;Come, Witcher.
+341;1;4;Of Banquets, Bastards and Burials;Calanthe;Take a seat by my side while I change.
+342;1;4;Of Banquets, Bastards and Burials;Geralt;Hm.
+343;1;4;Of Banquets, Bastards and Burials;;[Dryads conversing]
+344;1;4;Of Banquets, Bastards and Burials;Dara;Why did she call you Fiona?
+345;1;4;Of Banquets, Bastards and Burials;Ciri;Mousesack, he... helped raise me and...
+346;1;4;Of Banquets, Bastards and Burials;Ciri;he warned me not to let anyone know who I was outside the castle.
+347;1;4;Of Banquets, Bastards and Burials;Ciri;And now, the Black Knight is after me.
+348;1;4;Of Banquets, Bastards and Burials;Dara;Castle?
+349;1;4;Of Banquets, Bastards and Burials;Ciri;I'm Princess Cirilla...
+350;1;4;Of Banquets, Bastards and Burials;Ciri;of Cintra.
+351;1;4;Of Banquets, Bastards and Burials;;[gasps]
+352;1;4;Of Banquets, Bastards and Burials;Ciri;What's the matter?
+353;1;4;Of Banquets, Bastards and Burials;Dara;Your grandmother slaughtered my family!
+354;1;4;Of Banquets, Bastards and Burials;Dara;No, that's not true.
+355;1;4;Of Banquets, Bastards and Burials;Dara;She ordered it.
+356;1;4;Of Banquets, Bastards and Burials;Dara;After Filavandrel's uprising--
+357;1;4;Of Banquets, Bastards and Burials;Ciri;She wouldn't do that.
+358;1;4;Of Banquets, Bastards and Burials;Dara;Her soldiers...
+359;1;4;Of Banquets, Bastards and Burials;Dara;they laughed when they did it.
+360;1;4;Of Banquets, Bastards and Burials;Dara;Killing, raping...
+361;1;4;Of Banquets, Bastards and Burials;Dara;They laughed the hardest
+362;1;4;Of Banquets, Bastards and Burials;Dara;when they were swinging babies from their legs,
+363;1;4;Of Banquets, Bastards and Burials;Dara;smashing their heads in.
+364;1;4;Of Banquets, Bastards and Burials;Dara;I was the only one left.
+365;1;4;Of Banquets, Bastards and Burials;Dara;Because I hid.
+366;1;4;Of Banquets, Bastards and Burials;Dara;I should've saved them.
+367;1;4;Of Banquets, Bastards and Burials;Dara;Or fought and died.
+368;1;4;Of Banquets, Bastards and Burials;Ciri;Uh...
+369;1;4;Of Banquets, Bastards and Burials;Ciri;I don't know what to say.
+370;1;4;Of Banquets, Bastards and Burials;Dara;Say nothing.
+371;1;4;Of Banquets, Bastards and Burials;Dara;They're gone now.
+372;1;4;Of Banquets, Bastards and Burials;Dara;I would do anything to forget who I was.
+373;1;4;Of Banquets, Bastards and Burials;Ciri;I can't.
+374;1;4;Of Banquets, Bastards and Burials;Ciri;I have to find my destiny.
+375;1;4;Of Banquets, Bastards and Burials;Dara;Why? Because your grandmother said you should?
+376;1;4;Of Banquets, Bastards and Burials;Dara;Maybe you should start thinking for yourself.
+377;1;4;Of Banquets, Bastards and Burials;Dara;Because she is dead.
+378;1;4;Of Banquets, Bastards and Burials;Dara;And you are here.
+379;1;4;Of Banquets, Bastards and Burials;;[band playing]
+380;1;4;Of Banquets, Bastards and Burials;Calanthe;Damn this cursed thing.
+381;1;4;Of Banquets, Bastards and Burials;Calanthe;I'd as soon see this night out in armor.
+382;1;4;Of Banquets, Bastards and Burials;Geralt;As would I.
+383;1;4;Of Banquets, Bastards and Burials;Calanthe;Indeed.
+384;1;4;Of Banquets, Bastards and Burials;Calanthe;Tell me, how does a witcher find himself at my daughter's wedding feast
+385;1;4;Of Banquets, Bastards and Burials;Calanthe;dressed like a... [laughs]
+386;1;4;Of Banquets, Bastards and Burials;Geralt;I'm protecting the bard from vengeful royal cuckolds.
+387;1;4;Of Banquets, Bastards and Burials;Calanthe;Hm!
+388;1;4;Of Banquets, Bastards and Burials;Calanthe;Idiots, the lot of them.
+389;1;4;Of Banquets, Bastards and Burials;Calanthe;Still, I'm glad of your company, which could prove handy.
+390;1;4;Of Banquets, Bastards and Burials;Calanthe;I have no doubt blood will spill here tonight.
+391;1;4;Of Banquets, Bastards and Burials;Geralt;Ah, save the good Queen's breath.
+392;1;4;Of Banquets, Bastards and Burials;Geralt;I'm not for hire as a bodyguard.
+393;1;4;Of Banquets, Bastards and Burials;Calanthe;You were hired just so by the bard.
+394;1;4;Of Banquets, Bastards and Burials;Geralt;I'm helping the idiot free of his coin.
+395;1;4;Of Banquets, Bastards and Burials;Calanthe;[scoffs] And he's the idiot?
+396;1;4;Of Banquets, Bastards and Burials;Calanthe;I'm simply saying, surely if all goes to hell here tonight,
+397;1;4;Of Banquets, Bastards and Burials;Calanthe;I can count on you to strategically remove certain irritants
+398;1;4;Of Banquets, Bastards and Burials;Calanthe;that may present themselves?
+399;1;4;Of Banquets, Bastards and Burials;Calanthe;I'd do so myself,
+400;1;4;Of Banquets, Bastards and Burials;Calanthe;only I'm bound to uphold an artifice of decorum and... fairness.
+401;1;4;Of Banquets, Bastards and Burials;Geralt;Hey.
+402;1;4;Of Banquets, Bastards and Burials;Geralt;I can't help you.
+403;1;4;Of Banquets, Bastards and Burials;Calanthe;So perilously direct.
+404;1;4;Of Banquets, Bastards and Burials;Calanthe;As Queen, I could command it.
+405;1;4;Of Banquets, Bastards and Burials;Geralt;If I were one of your subjects.
+406;1;4;Of Banquets, Bastards and Burials;Calanthe;I could torture you so very slowly into compliance.
+407;1;4;Of Banquets, Bastards and Burials;Geralt;Her Majesty will do as she wishes. I'm not for turning.
+408;1;4;Of Banquets, Bastards and Burials;Calanthe;Oh, come now.
+409;1;4;Of Banquets, Bastards and Burials;Calanthe;Everyone has their price.
+410;1;4;Of Banquets, Bastards and Burials;Peregrine of Nilfguard;Lord Peregrine of Nilfgaard.
+411;1;4;Of Banquets, Bastards and Burials;;[man] Good chance, Peregrine, aah!
+412;1;4;Of Banquets, Bastards and Burials;;[man 2] Go on, Lord Peregrine!
+413;1;4;Of Banquets, Bastards and Burials;;[bagpipes blare]
+414;1;4;Of Banquets, Bastards and Burials;;[loud laughter]
+415;1;4;Of Banquets, Bastards and Burials;;[bagpipes blare]
+416;1;4;Of Banquets, Bastards and Burials;Calanthe;Make another sound, Draig Bon-Dhu,
+417;1;4;Of Banquets, Bastards and Burials;Calanthe;and I'll have your guts sewn into pipes and sent to your mother.
+418;1;4;Of Banquets, Bastards and Burials;Peregrine of Nilfguard;[Lord Peregrine] Queen Calanthe,
+419;1;4;Of Banquets, Bastards and Burials;Peregrine of Nilfguard;my marriage to your daughter will unite the jewels of the north and south,
+420;1;4;Of Banquets, Bastards and Burials;Peregrine of Nilfguard;forging an unbreakable alliance that none would dare cross.
+421;1;4;Of Banquets, Bastards and Burials;Peregrine of Nilfguard;And...
+422;1;4;Of Banquets, Bastards and Burials;Peregrine of Nilfguard;I am one of five brothers with no sisters.
+423;1;4;Of Banquets, Bastards and Burials;Peregrine of Nilfguard;My potent seed inside Pavetta will produce the strongest of male heirs.
+424;1;4;Of Banquets, Bastards and Burials;Calanthe;[Calanthe]  Cintra is indeed the jewel of the north,
+425;1;4;Of Banquets, Bastards and Burials;Calanthe;yet Nilfgaard remains the shit rag of the south, and that's saying something!
+426;1;4;Of Banquets, Bastards and Burials;;[laughter and jeering]
+427;1;4;Of Banquets, Bastards and Burials;Calanthe;Tell me, is it true you drink piss water and feast on your own young?
+428;1;4;Of Banquets, Bastards and Burials;;[laughter and applause]
+429;1;4;Of Banquets, Bastards and Burials;Calanthe;Nilfgaardian kings don't remain kings for long.
+430;1;4;Of Banquets, Bastards and Burials;Calanthe;Who will take the Usurper's crown? You?
+431;1;4;Of Banquets, Bastards and Burials;Calanthe;How long will you last?
+432;1;4;Of Banquets, Bastards and Burials;Calanthe;A year? A month? A day?
+433;1;4;Of Banquets, Bastards and Burials;;[cheering]
+434;1;4;Of Banquets, Bastards and Burials;Steergart of Kaedwen;Lord Steergart of Kaedwen.
+435;1;4;Of Banquets, Bastards and Burials;;[cheering and stamping]
+436;1;4;Of Banquets, Bastards and Burials;;[neighing]
+437;1;4;Of Banquets, Bastards and Burials;Queen Kalis;"I know what they say, Poor Queen Kalis, another girl."""""
+438;1;4;Of Banquets, Bastards and Burials;;[baby coos]
+439;1;4;Of Banquets, Bastards and Burials;Queen Kalis;I mean, I'm just a womb to him.
+440;1;4;Of Banquets, Bastards and Burials;Queen Kalis;No more than a fleshy contraption for squeezing out heirs.
+441;1;4;Of Banquets, Bastards and Burials;Queen Kalis;Bastard cares more about his hounds than he does me.
+442;1;4;Of Banquets, Bastards and Burials;Queen Kalis;Take her.
+443;1;4;Of Banquets, Bastards and Burials;Yennefer;Shh.
+444;1;4;Of Banquets, Bastards and Burials;;[baby gurgling]
+445;1;4;Of Banquets, Bastards and Burials;Queen Kalis;Why don't you stay in Lyria? Keep me company.
+446;1;4;Of Banquets, Bastards and Burials;Yennefer;As soon as I've delivered Your Majesty safely back to court,
+447;1;4;Of Banquets, Bastards and Burials;Yennefer;I'm afraid I must return to Aedirn.
+448;1;4;Of Banquets, Bastards and Burials;Queen Kalis;I envy you. Truly.
+449;1;4;Of Banquets, Bastards and Burials;Queen Kalis;A king's mage.
+450;1;4;Of Banquets, Bastards and Burials;Queen Kalis;How splendid!
+451;1;4;Of Banquets, Bastards and Burials;;[baby cries]
+452;1;4;Of Banquets, Bastards and Burials;Queen Kalis;Oh!
+453;1;4;Of Banquets, Bastards and Burials;Queen Kalis;Oh, come, now. We've been traveling together for days. Speak freely.
+454;1;4;Of Banquets, Bastards and Burials;Yennefer;I love...
+455;1;4;Of Banquets, Bastards and Burials;Yennefer;that I traded everything to get my seat at court.
+456;1;4;Of Banquets, Bastards and Burials;Yennefer;I love that I believed that it would all be worth it,
+457;1;4;Of Banquets, Bastards and Burials;Yennefer;that this would be my legacy.
+458;1;4;Of Banquets, Bastards and Burials;Yennefer;The greatest mage to have ever graced a court.
+459;1;4;Of Banquets, Bastards and Burials;Yennefer;And I really, really love...
+460;1;4;Of Banquets, Bastards and Burials;Yennefer;that instead, I've gotten to spend the last...
+461;1;4;Of Banquets, Bastards and Burials;Yennefer;three decades
+462;1;4;Of Banquets, Bastards and Burials;Yennefer;cleaning up stupid political messes.
+463;1;4;Of Banquets, Bastards and Burials;Yennefer;Glorified royal arse wiper.
+464;1;4;Of Banquets, Bastards and Burials;;[sighs]
+465;1;4;Of Banquets, Bastards and Burials;Queen Kalis;I have it far worse.
+466;1;4;Of Banquets, Bastards and Burials;Queen Kalis;People look at you for who you are, not for what you can give them.
+467;1;4;Of Banquets, Bastards and Burials;Queen Kalis;You made the right choice, giving all that nonsense up.
+468;1;4;Of Banquets, Bastards and Burials;Queen Kalis;To this baby, I am the whole world.
+469;1;4;Of Banquets, Bastards and Burials;Queen Kalis;If only it weren't so boring.
+470;1;4;Of Banquets, Bastards and Burials;;[horse neighs]
+471;1;4;Of Banquets, Bastards and Burials;;[gasps]
+472;1;4;Of Banquets, Bastards and Burials;;[man shouts] Who is that--
+473;1;4;Of Banquets, Bastards and Burials;;[men groaning]
+474;1;4;Of Banquets, Bastards and Burials;;[weapons clashing]
+475;1;4;Of Banquets, Bastards and Burials;;[thump]
+476;1;4;Of Banquets, Bastards and Burials;;[neighing]
+477;1;4;Of Banquets, Bastards and Burials;;[screaming]
+478;1;4;Of Banquets, Bastards and Burials;;[weapons clashing]
+479;1;4;Of Banquets, Bastards and Burials;;[blows landing]
+480;1;4;Of Banquets, Bastards and Burials;;[man yelling]
+481;1;4;Of Banquets, Bastards and Burials;;[Kalis screaming]
+482;1;4;Of Banquets, Bastards and Burials;;[screams]
+483;1;4;Of Banquets, Bastards and Burials;;[whimpering]
+484;1;4;Of Banquets, Bastards and Burials;;[gasping]
+485;1;4;Of Banquets, Bastards and Burials;;[chittering]
+486;1;4;Of Banquets, Bastards and Burials;;[snarling]
+487;1;4;Of Banquets, Bastards and Burials;;[squealing]
+488;1;4;Of Banquets, Bastards and Burials;Yennefer;Run!
+489;1;4;Of Banquets, Bastards and Burials;;[sobbing]
+490;1;4;Of Banquets, Bastards and Burials;;[Kalis screaming]
+491;1;4;Of Banquets, Bastards and Burials;Yennefer;Go!
+492;1;4;Of Banquets, Bastards and Burials;;[screeching]
+493;1;4;Of Banquets, Bastards and Burials;;[screaming]
+494;1;4;Of Banquets, Bastards and Burials;Yennefer;Run!
+495;1;4;Of Banquets, Bastards and Burials;;[baby crying]
+496;1;4;Of Banquets, Bastards and Burials;;[gasping]
+497;1;4;Of Banquets, Bastards and Burials;Queen Kalis;I'll have that brigand's head on a pike
+498;1;4;Of Banquets, Bastards and Burials;Queen Kalis;outside the King's castle  before nightfall.
+499;1;4;Of Banquets, Bastards and Burials;Queen Kalis;How dare he?
+500;1;4;Of Banquets, Bastards and Burials;Yennefer;That was an assassin,
+501;1;4;Of Banquets, Bastards and Burials;Yennefer;not a brigand.
+502;1;4;Of Banquets, Bastards and Burials;Yennefer;What are you saying?
+503;1;4;Of Banquets, Bastards and Burials;Yennefer;He was paid to kill you.
+504;1;4;Of Banquets, Bastards and Burials;Queen Kalis;What?
+505;1;4;Of Banquets, Bastards and Burials;Queen Kalis;Why?
+506;1;4;Of Banquets, Bastards and Burials;Yennefer;It appears you've run out of chances to provide your King a male heir.
+507;1;4;Of Banquets, Bastards and Burials;Queen Kalis;No, he wouldn't.
+508;1;4;Of Banquets, Bastards and Burials;Queen Kalis;Oh, that prick!
+509;1;4;Of Banquets, Bastards and Burials;;[whooshing]
+510;1;4;Of Banquets, Bastards and Burials;;[screams]
+511;1;4;Of Banquets, Bastards and Burials;Yennefer;Go!
+512;1;4;Of Banquets, Bastards and Burials;;[screeching]
+513;1;4;Of Banquets, Bastards and Burials;Yennefer;Go!
+514;1;4;Of Banquets, Bastards and Burials;;[yells]
+515;1;4;Of Banquets, Bastards and Burials;;[screams]
+516;1;4;Of Banquets, Bastards and Burials;;[baby crying]
+517;1;4;Of Banquets, Bastards and Burials;Yennefer;We're being tracked!
+518;1;4;Of Banquets, Bastards and Burials;Yennefer;Think! What did the King give you that could be traced?
+519;1;4;Of Banquets, Bastards and Burials;;[whooshing]
+520;1;4;Of Banquets, Bastards and Burials;;[screams]
+521;1;4;Of Banquets, Bastards and Burials;Yennefer;Come on!
+522;1;4;Of Banquets, Bastards and Burials;;[screams]
+523;1;4;Of Banquets, Bastards and Burials;;[speaking Elder]
+524;1;4;Of Banquets, Bastards and Burials;;[screams]
+525;1;4;Of Banquets, Bastards and Burials;Yennefer;I can't hold it!
+526;1;4;Of Banquets, Bastards and Burials;Yennefer;Hurry!
+527;1;4;Of Banquets, Bastards and Burials;;[screams]
+528;1;4;Of Banquets, Bastards and Burials;;[screams]
+529;1;4;Of Banquets, Bastards and Burials;;[screeches]
+530;1;4;Of Banquets, Bastards and Burials;;[baby wailing]
+531;1;4;Of Banquets, Bastards and Burials;;[whooshing]
+532;1;4;Of Banquets, Bastards and Burials;Yennefer;They're still tracking us.
+533;1;4;Of Banquets, Bastards and Burials;;[groans]
+534;1;4;Of Banquets, Bastards and Burials;;[sobbing]
+535;1;4;Of Banquets, Bastards and Burials;;[groans]
+536;1;4;Of Banquets, Bastards and Burials;Queen Kalis;Get up, you useless witch.
+537;1;4;Of Banquets, Bastards and Burials;Queen Kalis;How could you not foresee this? You were supposed to protect me.
+538;1;4;Of Banquets, Bastards and Burials;;[screams]
+539;1;4;Of Banquets, Bastards and Burials;;[creature snarling]
+540;1;4;Of Banquets, Bastards and Burials;Queen Kalis;Oh, you horrible, useless bitch!
+541;1;4;Of Banquets, Bastards and Burials;;[sobs]
+542;1;4;Of Banquets, Bastards and Burials;;[groans]
+543;1;4;Of Banquets, Bastards and Burials;Jaskier;♪ Oh, fishmonger, oh, fishmonger ♪
+544;1;4;Of Banquets, Bastards and Burials;Jaskier;♪ Come quell your daughter's hunger ♪
+545;1;4;Of Banquets, Bastards and Burials;Jaskier;♪ To pull on my horn ♪
+546;1;4;Of Banquets, Bastards and Burials;;[all clapping in time]
+547;1;4;Of Banquets, Bastards and Burials;Jaskier;♪ As it rises in the morn ♪
+548;1;4;Of Banquets, Bastards and Burials;Jaskier;♪ For 'tis naught but bad luck ♪
+549;1;4;Of Banquets, Bastards and Burials;Jaskier;♪ To fuck with a puck ♪
+550;1;4;Of Banquets, Bastards and Burials;Jaskier;♪ Lest your grandkid be born ♪
+551;1;4;Of Banquets, Bastards and Burials;Jaskier;♪ A hairy young faun ♪
+552;1;4;Of Banquets, Bastards and Burials;Jaskier;♪ Bleating and braying all day, hey ho ♪
+553;1;4;Of Banquets, Bastards and Burials;Jaskier;♪ The fishmonger's daughter, ba, ba ♪
+554;1;4;Of Banquets, Bastards and Burials;Calanthe;How much more of this peacocking must I endure?
+555;1;4;Of Banquets, Bastards and Burials;Calanthe;This...
+556;1;4;Of Banquets, Bastards and Burials;Calanthe;All this because male tradition demands it.
+557;1;4;Of Banquets, Bastards and Burials;Calanthe;If I were a man,
+558;1;4;Of Banquets, Bastards and Burials;Calanthe;I could simply tell the whole lot of them to fuck off,
+559;1;4;Of Banquets, Bastards and Burials;Calanthe;declare outright who Pavetta should marry and have done with it.
+560;1;4;Of Banquets, Bastards and Burials;;[scoffs]
+561;1;4;Of Banquets, Bastards and Burials;Calanthe;Or, better yet, let the poor girl decide her own fate.
+562;1;4;Of Banquets, Bastards and Burials;Geralt;Something tells me this isn't the first time
+563;1;4;Of Banquets, Bastards and Burials;Geralt;you've navigated the vagaries of male tradition.
+564;1;4;Of Banquets, Bastards and Burials;Geralt;In fact,
+565;1;4;Of Banquets, Bastards and Burials;Geralt;I'd wager you thrive on it.
+566;1;4;Of Banquets, Bastards and Burials;Calanthe;Spoken as one who has navigated his own share of fools.
+567;1;4;Of Banquets, Bastards and Burials;Geralt;Hm.
+568;1;4;Of Banquets, Bastards and Burials;Calanthe;Tell me, Witcher,
+569;1;4;Of Banquets, Bastards and Burials;Calanthe;why are there so few of you left?
+570;1;4;Of Banquets, Bastards and Burials;;[guests cheering and applauding]
+571;1;4;Of Banquets, Bastards and Burials;Geralt;Hm.
+572;1;4;Of Banquets, Bastards and Burials;;[sighs]
+573;1;4;Of Banquets, Bastards and Burials;Geralt;It is no longer possible to create more of us,
+574;1;4;Of Banquets, Bastards and Burials;Geralt;since the sacking of Kaer Morhen.
+575;1;4;Of Banquets, Bastards and Burials;;[guests cheering and whistling]
+576;1;4;Of Banquets, Bastards and Burials;Geralt;Tell me, Your Majesty...
+577;1;4;Of Banquets, Bastards and Burials;Geralt;why do you risk your life on the battlefield
+578;1;4;Of Banquets, Bastards and Burials;Geralt;when you can rest on your throne?
+579;1;4;Of Banquets, Bastards and Burials;Calanthe;Because there is a simplicity in killing monsters, is there not?
+580;1;4;Of Banquets, Bastards and Burials;Calanthe;Seems we are quite the pair, Geralt of Rivia.
+581;1;4;Of Banquets, Bastards and Burials;Geralt;Hmm.
+582;1;4;Of Banquets, Bastards and Burials;Eist;Crach! It's time.
+583;1;4;Of Banquets, Bastards and Burials;Eist;Get your hairy ass up here.
+584;1;4;Of Banquets, Bastards and Burials;;[crashing]
+585;1;4;Of Banquets, Bastards and Burials;;[weapons clashing]
+586;1;4;Of Banquets, Bastards and Burials;Duny;Forgive my late intrusion, Your Majesty,
+587;1;4;Of Banquets, Bastards and Burials;Duny;and for the misunderstanding with your guards.
+588;1;4;Of Banquets, Bastards and Burials;Duny;Please! I come in peace.
+589;1;4;Of Banquets, Bastards and Burials;Duny;I need but one moment of your time.
+590;1;4;Of Banquets, Bastards and Burials;Duny;I am Lord Urcheon of Erlenwald,
+591;1;4;Of Banquets, Bastards and Burials;Duny;and I have come to claim your daughter's hand in marriage.
+592;1;4;Of Banquets, Bastards and Burials;Calanthe;A knight...
+593;1;4;Of Banquets, Bastards and Burials;Calanthe;of no renown...
+594;1;4;Of Banquets, Bastards and Burials;Calanthe;from a backwater hamlet...
+595;1;4;Of Banquets, Bastards and Burials;Calanthe;who dares to enter my court
+596;1;4;Of Banquets, Bastards and Burials;Calanthe;without revealing his face?
+597;1;4;Of Banquets, Bastards and Burials;Duny;I apologize, Your Majesty.
+598;1;4;Of Banquets, Bastards and Burials;Duny;A knight's oath prevents me from revealing my face
+599;1;4;Of Banquets, Bastards and Burials;Duny;until the sounding of the twelfth bell.
+600;1;4;Of Banquets, Bastards and Burials;Eist;Bollocks to that.
+601;1;4;Of Banquets, Bastards and Burials;;[yelps]
+602;1;4;Of Banquets, Bastards and Burials;;[guests gasping]
+603;1;4;Of Banquets, Bastards and Burials;;[growls]
+604;1;4;Of Banquets, Bastards and Burials;Calanthe;Witcher...
+605;1;4;Of Banquets, Bastards and Burials;Calanthe;kill it.
+606;1;4;Of Banquets, Bastards and Burials;Geralt;No.
+607;1;4;Of Banquets, Bastards and Burials;Calanthe;Whatever the price.
+608;1;4;Of Banquets, Bastards and Burials;Geralt;This is no monster.
+609;1;4;Of Banquets, Bastards and Burials;Calanthe;[Calanthe] I order you.
+610;1;4;Of Banquets, Bastards and Burials;Geralt;This knight has been cursed.
+611;1;4;Of Banquets, Bastards and Burials;Calanthe;You're as useless as the rest of them.
+612;1;4;Of Banquets, Bastards and Burials;Calanthe;Slay this beast!
+613;1;4;Of Banquets, Bastards and Burials;;[gasps]
+614;1;4;Of Banquets, Bastards and Burials;;[yells]
+615;1;4;Of Banquets, Bastards and Burials;Duny;Lioness of Cintra,
+616;1;4;Of Banquets, Bastards and Burials;Duny;I come to claim what is rightfully mine!
+617;1;4;Of Banquets, Bastards and Burials;Duny;Pavetta.
+618;1;4;Of Banquets, Bastards and Burials;Duny;By the Law of Surprise.
+619;1;4;Of Banquets, Bastards and Burials;;[swords being drawn]
+620;1;4;Of Banquets, Bastards and Burials;;[groans]
+621;1;4;Of Banquets, Bastards and Burials;Calanthe;Oh...
+622;1;4;Of Banquets, Bastards and Burials;Pavetta;No!
+623;1;4;Of Banquets, Bastards and Burials;Calanthe;Kill them both!
+624;1;4;Of Banquets, Bastards and Burials;Eist;The Law of Surprise has been called.
+625;1;4;Of Banquets, Bastards and Burials;Eist;You kill them...
+626;1;4;Of Banquets, Bastards and Burials;Eist;kill me.
+627;1;4;Of Banquets, Bastards and Burials;;[yelling]
+628;1;4;Of Banquets, Bastards and Burials;;[roars]
+629;1;4;Of Banquets, Bastards and Burials;soldier;My Queen...
+630;1;4;Of Banquets, Bastards and Burials;Calanthe;Stop!
+631;1;4;Of Banquets, Bastards and Burials;Calanthe;Stop!
+632;1;4;Of Banquets, Bastards and Burials;Calanthe;Please.
+633;1;4;Of Banquets, Bastards and Burials;;[baby cries]
+634;1;4;Of Banquets, Bastards and Burials;Queen Kalis;I can give him a boy.
+635;1;4;Of Banquets, Bastards and Burials;Queen Kalis;Take her instead.
+636;1;4;Of Banquets, Bastards and Burials;;[creature chittering]
+637;1;4;Of Banquets, Bastards and Burials;Queen Kalis;As a sacrifice.
+638;1;4;Of Banquets, Bastards and Burials;;[screeches]
+639;1;4;Of Banquets, Bastards and Burials;;[screams]
+640;1;4;Of Banquets, Bastards and Burials;;[screams]
+641;1;4;Of Banquets, Bastards and Burials;;[speaks Elder]
+642;1;4;Of Banquets, Bastards and Burials;;[sobs]
+643;1;4;Of Banquets, Bastards and Burials;;[speaks Elder]
+644;1;4;Of Banquets, Bastards and Burials;;[wails]
+645;1;4;Of Banquets, Bastards and Burials;Pavetta;Duny!
+646;1;4;Of Banquets, Bastards and Burials;Duny;Oh!
+647;1;4;Of Banquets, Bastards and Burials;;[murmuring]
+648;1;4;Of Banquets, Bastards and Burials;Duny;Oh.
+649;1;4;Of Banquets, Bastards and Burials;Pavetta;I told you to stay away.
+650;1;4;Of Banquets, Bastards and Burials;Duny;Your Majesty...
+651;1;4;Of Banquets, Bastards and Burials;Duny;the witcher speaks the truth.
+652;1;4;Of Banquets, Bastards and Burials;Duny;I was cursed as a young boy.
+653;1;4;Of Banquets, Bastards and Burials;Duny;My whole life a living misery
+654;1;4;Of Banquets, Bastards and Burials;Duny;until the day that I saved your husband, King Roegner, from a certain death.
+655;1;4;Of Banquets, Bastards and Burials;Duny;By tradition,
+656;1;4;Of Banquets, Bastards and Burials;Duny;I chose the Law of Surprise as payment.
+657;1;4;Of Banquets, Bastards and Burials;Duny;Whatever windfall he came home to find...
+658;1;4;Of Banquets, Bastards and Burials;Duny;would be mine.
+659;1;4;Of Banquets, Bastards and Burials;Duny;Oh, the stupid bastard.
+660;1;4;Of Banquets, Bastards and Burials;Duny;Better you had let him die!
+661;1;4;Of Banquets, Bastards and Burials;Geralt;[Geralt] You knew he'd come,
+662;1;4;Of Banquets, Bastards and Burials;Geralt;and you pushed me to kill him.
+663;1;4;Of Banquets, Bastards and Burials;Calanthe;And you...
+664;1;4;Of Banquets, Bastards and Burials;Calanthe;carousing with the beast that swindled your stupid father!
+665;1;4;Of Banquets, Bastards and Burials;Eist;'Tis no swindle.
+666;1;4;Of Banquets, Bastards and Burials;Eist;Asking for payment with the Law of Surprise
+667;1;4;Of Banquets, Bastards and Burials;Eist;is as old as mankind itself.
+668;1;4;Of Banquets, Bastards and Burials;Calanthe;Don't lecture me, Eist.
+669;1;4;Of Banquets, Bastards and Burials;Eist;It's an honest gamble.
+670;1;4;Of Banquets, Bastards and Burials;Eist;As likely to be rewarded with a bumper crop
+671;1;4;Of Banquets, Bastards and Burials;Eist;as a newborn pup.
+672;1;4;Of Banquets, Bastards and Burials;Eist;Or...
+673;1;4;Of Banquets, Bastards and Burials;Eist;a child of surprise.
+674;1;4;Of Banquets, Bastards and Burials;Eist;He could not know.
+675;1;4;Of Banquets, Bastards and Burials;Eist;Destiny has determined the surprise be Pavetta.
+676;1;4;Of Banquets, Bastards and Burials;Duny;When I heard that King Roegner had returned to find a child on the way...
+677;1;4;Of Banquets, Bastards and Burials;Duny;I abandoned all thought of claiming the Law of Surprise.
+678;1;4;Of Banquets, Bastards and Burials;Duny;I knew...
+679;1;4;Of Banquets, Bastards and Burials;Duny;I knew no woman would ever accept me like this.
+680;1;4;Of Banquets, Bastards and Burials;Duny;And so I waited.
+681;1;4;Of Banquets, Bastards and Burials;Duny;I waited until the twelfth bell when the curse breaks.
+682;1;4;Of Banquets, Bastards and Burials;Duny;I never intended to meet her.
+683;1;4;Of Banquets, Bastards and Burials;Duny;Just to watch from afar.
+684;1;4;Of Banquets, Bastards and Burials;Pavetta;Until destiny intervened...
+685;1;4;Of Banquets, Bastards and Burials;Pavetta;and our hearts collided.
+686;1;4;Of Banquets, Bastards and Burials;Duny;And at dawn, I awoke with her in my arms and me...
+687;1;4;Of Banquets, Bastards and Burials;Duny;like this.
+688;1;4;Of Banquets, Bastards and Burials;Eist;Who are we to challenge destiny?
+689;1;4;Of Banquets, Bastards and Burials;Eist;Life was saved, debt must be paid,
+690;1;4;Of Banquets, Bastards and Burials;Eist;or the whole order of the world falls apart.
+691;1;4;Of Banquets, Bastards and Burials;Mousesack;[Mousesack] Honor destiny's wish,
+692;1;4;Of Banquets, Bastards and Burials;Mousesack;or unleash its wrath upon us.
+693;1;4;Of Banquets, Bastards and Burials;Calanthe;There is no us!
+694;1;4;Of Banquets, Bastards and Burials;Calanthe;I bow to no law made by men who never bore a child!
+695;1;4;Of Banquets, Bastards and Burials;Calanthe;Is there not a man amongst you who does not cower before destiny?
+696;1;4;Of Banquets, Bastards and Burials;Calanthe;You, Witcher...
+697;1;4;Of Banquets, Bastards and Burials;Calanthe;who has known monsters of every fang and claw...
+698;1;4;Of Banquets, Bastards and Burials;Calanthe;are you afraid too?
+699;1;4;Of Banquets, Bastards and Burials;Geralt;No.
+700;1;4;Of Banquets, Bastards and Burials;Geralt;I've seen mothers lash themselves raw over the death of a child,
+701;1;4;Of Banquets, Bastards and Burials;Geralt;believing they crossed destiny,
+702;1;4;Of Banquets, Bastards and Burials;Geralt;ignoring the stench
+703;1;4;Of Banquets, Bastards and Burials;Geralt;of the 50 other children in the plague cart outside.
+704;1;4;Of Banquets, Bastards and Burials;Geralt;Destiny...
+705;1;4;Of Banquets, Bastards and Burials;Geralt;helps people believe there's an order to this horseshit.
+706;1;4;Of Banquets, Bastards and Burials;Geralt;There isn't.
+707;1;4;Of Banquets, Bastards and Burials;Geralt;But a promise made must be honored.
+708;1;4;Of Banquets, Bastards and Burials;Geralt;As true for a commoner...
+709;1;4;Of Banquets, Bastards and Burials;Geralt;as it is for a queen.
+710;1;4;Of Banquets, Bastards and Burials;;[sighs]
+711;1;4;Of Banquets, Bastards and Burials;Pavetta;I love Duny, Mother.
+712;1;4;Of Banquets, Bastards and Burials;Pavetta;I will marry him.
+713;1;4;Of Banquets, Bastards and Burials;Pavetta;I will finally be free.
+714;1;4;Of Banquets, Bastards and Burials;Calanthe;Here is your destiny.
+715;1;4;Of Banquets, Bastards and Burials;Pavetta;No!
+716;1;4;Of Banquets, Bastards and Burials;Eist;My Queen, are you hurt?
+717;1;4;Of Banquets, Bastards and Burials;;[speaking Elder]
+718;1;4;Of Banquets, Bastards and Burials;;[wind howling]
+719;1;4;Of Banquets, Bastards and Burials;;[whispered chanting in Elder]
+720;1;4;Of Banquets, Bastards and Burials;;[whispering voices overlapping]
+721;1;4;Of Banquets, Bastards and Burials;;[chanting continuing]
+722;1;4;Of Banquets, Bastards and Burials;;[yells]
+723;1;4;Of Banquets, Bastards and Burials;;[Pavetta gasps]
+724;1;4;Of Banquets, Bastards and Burials;;[gasping]
+725;1;4;Of Banquets, Bastards and Burials;;[sighs]
+726;1;4;Of Banquets, Bastards and Burials;;[gasps]
+727;1;4;Of Banquets, Bastards and Burials;;[sighs]
+728;1;4;Of Banquets, Bastards and Burials;Eist;Do you believe in destiny now?
+729;1;4;Of Banquets, Bastards and Burials;;[grunts]
+730;1;4;Of Banquets, Bastards and Burials;;[sighs]
+731;1;4;Of Banquets, Bastards and Burials;Calanthe;I thought your grandmother's gift had skipped you...
+732;1;4;Of Banquets, Bastards and Burials;Calanthe;as it did me.
+733;1;4;Of Banquets, Bastards and Burials;Calanthe;It seems I was wrong.
+734;1;4;Of Banquets, Bastards and Burials;Calanthe;About so many things.
+735;1;4;Of Banquets, Bastards and Burials;Calanthe;Destiny has spoken!
+736;1;4;Of Banquets, Bastards and Burials;Calanthe;And I have listened.
+737;1;4;Of Banquets, Bastards and Burials;Calanthe;The Law of Surprise will be honored.
+738;1;4;Of Banquets, Bastards and Burials;Calanthe;Pavetta will marry...
+739;1;4;Of Banquets, Bastards and Burials;Calanthe;Lord Urcheon.
+740;1;4;Of Banquets, Bastards and Burials;;[murmuring]
+741;1;4;Of Banquets, Bastards and Burials;Eist;React poorly,
+742;1;4;Of Banquets, Bastards and Burials;Eist;and you won't just face the Lioness,
+743;1;4;Of Banquets, Bastards and Burials;Eist;you will be facing the sea hounds of Skellige.
+744;1;4;Of Banquets, Bastards and Burials;Eist;Because Queen Calanthe...
+745;1;4;Of Banquets, Bastards and Burials;Eist;has agreed to my proposal of marriage.
+746;1;4;Of Banquets, Bastards and Burials;Calanthe;There will be two vows here tonight!
+747;1;4;Of Banquets, Bastards and Burials;Calanthe;I assume that's agreeable.
+748;1;4;Of Banquets, Bastards and Burials;Calanthe;Delightful.
+749;1;4;Of Banquets, Bastards and Burials;;No!
+750;1;4;Of Banquets, Bastards and Burials;;[swords clashing]
+751;1;4;Of Banquets, Bastards and Burials;;[men shouting]
+752;1;4;Of Banquets, Bastards and Burials;;[horses neighing]
+753;1;4;Of Banquets, Bastards and Burials;;[explosions]
+754;1;4;Of Banquets, Bastards and Burials;;[women screaming]
+755;1;4;Of Banquets, Bastards and Burials;;[gasps]
+756;1;4;Of Banquets, Bastards and Burials;Ciri;Dara?
+757;1;4;Of Banquets, Bastards and Burials;;[sighs]
+758;1;4;Of Banquets, Bastards and Burials;Ciri;Dara?
+759;1;4;Of Banquets, Bastards and Burials;Dara;I drank the waters.
+760;1;4;Of Banquets, Bastards and Burials;Dara;It's gonna be okay.
+761;1;4;Of Banquets, Bastards and Burials;Ciri;What's going to be okay?
+762;1;4;Of Banquets, Bastards and Burials;Ciri;Everything.
+763;1;4;Of Banquets, Bastards and Burials;dryad;Leave your past behind.
+764;1;4;Of Banquets, Bastards and Burials;dryad;Join us.
+765;1;4;Of Banquets, Bastards and Burials;dryad;Drink and forget.
+766;1;4;Of Banquets, Bastards and Burials;Ciri;Why isn't it working?
+767;1;4;Of Banquets, Bastards and Burials;dryad;Come.
+768;1;4;Of Banquets, Bastards and Burials;dryad;Shan-Kayan calls to you.
+769;1;4;Of Banquets, Bastards and Burials;;[bird calling]
+770;1;4;Of Banquets, Bastards and Burials;Yennefer;Which one of us are you here for?
+771;1;4;Of Banquets, Bastards and Burials;Yennefer;I'm sorry you didn't have a life.
+772;1;4;Of Banquets, Bastards and Burials;Yennefer;But if truth be told, you're not missing much.
+773;1;4;Of Banquets, Bastards and Burials;Yennefer;I know it's easy for me to say with warm breath in my lungs,
+774;1;4;Of Banquets, Bastards and Burials;Yennefer;and you with nothing.
+775;1;4;Of Banquets, Bastards and Burials;Yennefer;Still... what would you have had?
+776;1;4;Of Banquets, Bastards and Burials;Yennefer;Parents?
+777;1;4;Of Banquets, Bastards and Burials;Yennefer;Well, they're the ones who wrote your last act,
+778;1;4;Of Banquets, Bastards and Burials;Yennefer;so not much lost there.
+779;1;4;Of Banquets, Bastards and Burials;Yennefer;Friends?
+780;1;4;Of Banquets, Bastards and Burials;Yennefer;Most likely fair weather.
+781;1;4;Of Banquets, Bastards and Burials;Yennefer;Lovers?
+782;1;4;Of Banquets, Bastards and Burials;Yennefer;Fun for a bit, I'll admit, but all eventually disappoint.
+783;1;4;Of Banquets, Bastards and Burials;Yennefer;And let's face it,
+784;1;4;Of Banquets, Bastards and Burials;Yennefer;you're a girl.
+785;1;4;Of Banquets, Bastards and Burials;Yennefer;Your mother was right about one thing.
+786;1;4;Of Banquets, Bastards and Burials;Yennefer;We're just vessels.
+787;1;4;Of Banquets, Bastards and Burials;Yennefer;And even when we're told we're special,
+788;1;4;Of Banquets, Bastards and Burials;Yennefer;as I was,
+789;1;4;Of Banquets, Bastards and Burials;Yennefer;as you would've been,
+790;1;4;Of Banquets, Bastards and Burials;Yennefer;we're still just vessels...
+791;1;4;Of Banquets, Bastards and Burials;Yennefer;for them to take...
+792;1;4;Of Banquets, Bastards and Burials;Yennefer;and take...
+793;1;4;Of Banquets, Bastards and Burials;Yennefer;until we're empty...
+794;1;4;Of Banquets, Bastards and Burials;Yennefer;and alone.
+795;1;4;Of Banquets, Bastards and Burials;;[sighs]
+796;1;4;Of Banquets, Bastards and Burials;Yennefer;So, count yourself lucky.
+797;1;4;Of Banquets, Bastards and Burials;Yennefer;You've cheated the game and won without even knowing it.
+798;1;4;Of Banquets, Bastards and Burials;;[sighs]
+799;1;4;Of Banquets, Bastards and Burials;Yennefer;Sleep well.
+800;1;4;Of Banquets, Bastards and Burials;Calanthe;Pavetta.
+801;1;4;Of Banquets, Bastards and Burials;Calanthe;Duny.
+802;1;4;Of Banquets, Bastards and Burials;Calanthe;With my blessing...
+803;1;4;Of Banquets, Bastards and Burials;Calanthe;I thee bind.
+804;1;4;Of Banquets, Bastards and Burials;;[sighs]
+805;1;4;Of Banquets, Bastards and Burials;;[barks]
+806;1;4;Of Banquets, Bastards and Burials;;[grunting]
+807;1;4;Of Banquets, Bastards and Burials;;[growling]
+808;1;4;Of Banquets, Bastards and Burials;;[gasps]
+809;1;4;Of Banquets, Bastards and Burials;;[growling and moaning]
+810;1;4;Of Banquets, Bastards and Burials;;[wheezes]
+811;1;4;Of Banquets, Bastards and Burials;;[gasps]
+812;1;4;Of Banquets, Bastards and Burials;Pavetta;The twelfth bell has not yet rung.
+813;1;4;Of Banquets, Bastards and Burials;Mousesack;What has happened?
+814;1;4;Of Banquets, Bastards and Burials;Mousesack;I think your blessing of this marriage...
+815;1;4;Of Banquets, Bastards and Burials;Mousesack;has fulfilled a destiny.
+816;1;4;Of Banquets, Bastards and Burials;Mousesack;The curse has been lifted.
+817;1;4;Of Banquets, Bastards and Burials;Jaskier;Whew! [laughs]
+818;1;4;Of Banquets, Bastards and Burials;Jaskier;I think this has the makings of my greatest ballad yet.
+819;1;4;Of Banquets, Bastards and Burials;Geralt;If you're alive in the morning. Don't...
+820;1;4;Of Banquets, Bastards and Burials;Geralt;grope for trout in any peculiar rivers until dawn.
+821;1;4;Of Banquets, Bastards and Burials;Duny;No, wait! Wait.
+822;1;4;Of Banquets, Bastards and Burials;Duny;You saved my life.
+823;1;4;Of Banquets, Bastards and Burials;Duny;I must repay you.
+824;1;4;Of Banquets, Bastards and Burials;Duny;You've proven yourself to be the kind of man who would do the same.
+825;1;4;Of Banquets, Bastards and Burials;Geralt;I want nothing.
+826;1;4;Of Banquets, Bastards and Burials;Duny;No, please.
+827;1;4;Of Banquets, Bastards and Burials;Duny;Please, Geralt of Rivia, do not feel like you're doing me a service.
+828;1;4;Of Banquets, Bastards and Burials;Duny;I cannot start a new life in the shadow of a life debt.
+829;1;4;Of Banquets, Bastards and Burials;Geralt;Fine.
+830;1;4;Of Banquets, Bastards and Burials;Geralt;I...
+831;1;4;Of Banquets, Bastards and Burials;Geralt;claim the tradition as you have,
+832;1;4;Of Banquets, Bastards and Burials;Geralt;the Law of Surprise.
+833;1;4;Of Banquets, Bastards and Burials;Geralt;Give me that which you already have but do not know.
+834;1;4;Of Banquets, Bastards and Burials;Calanthe;[Calanthe] No!
+835;1;4;Of Banquets, Bastards and Burials;Calanthe;What have you done, Witcher?
+836;1;4;Of Banquets, Bastards and Burials;Calanthe;Fear not, Your Majesty,
+837;1;4;Of Banquets, Bastards and Burials;Geralt;if I am seen in your kingdom again, it'll be to kill a real monster,
+838;1;4;Of Banquets, Bastards and Burials;Geralt;not lay claim to a crop or a new pup.
+839;1;4;Of Banquets, Bastards and Burials;Geralt;Destiny can go fu--
+840;1;4;Of Banquets, Bastards and Burials;Calanthe;Pavetta?
+841;1;4;Of Banquets, Bastards and Burials;Calanthe;Are you...
+842;1;4;Of Banquets, Bastards and Burials;Calanthe;Oh...
+843;1;4;Of Banquets, Bastards and Burials;Geralt;Fuck.
+844;1;4;Of Banquets, Bastards and Burials;Mousesack;Clearly the girl has access to immense primal power.
+845;1;4;Of Banquets, Bastards and Burials;Geralt;Yeah, and with no idea how to control it.
+846;1;4;Of Banquets, Bastards and Burials;Mousesack;I'm gonna stay.
+847;1;4;Of Banquets, Bastards and Burials;Mousesack;Guide her.
+848;1;4;Of Banquets, Bastards and Burials;;[sighs]
+849;1;4;Of Banquets, Bastards and Burials;Geralt;You're a good man, Mousesack.
+850;1;4;Of Banquets, Bastards and Burials;Mousesack;You should stay too.
+851;1;4;Of Banquets, Bastards and Burials;Geralt;This has been enough partying for me.
+852;1;4;Of Banquets, Bastards and Burials;Geralt;I'm getting out of here.
+853;1;4;Of Banquets, Bastards and Burials;Geralt;Alone.
+854;1;4;Of Banquets, Bastards and Burials;Mousesack;You're bound to this now, Geralt.
+855;1;4;Of Banquets, Bastards and Burials;Mousesack;Whether you like it or not.
+856;1;4;Of Banquets, Bastards and Burials;Geralt;I'm not for changing.
+857;1;4;Of Banquets, Bastards and Burials;Geralt;You know me better than that.
+858;1;4;Of Banquets, Bastards and Burials;Mousesack;Yes, I do, but you can't outrun destiny just because you're terrified of it.
+859;1;4;Of Banquets, Bastards and Burials;Mousesack;It's coming, Geralt.
+860;1;4;Of Banquets, Bastards and Burials;Mousesack;Not believing won't change that.
+861;1;4;Of Banquets, Bastards and Burials;Geralt;Bullshit.
+862;1;4;Of Banquets, Bastards and Burials;Geralt;This was just a girl using her magic to stop her mother from gutting her lover.
+863;1;4;Of Banquets, Bastards and Burials;Geralt;Nothing more.
+864;1;4;Of Banquets, Bastards and Burials;Mousesack;So you say.
+865;1;4;Of Banquets, Bastards and Burials;Mousesack;But the bond that will come into being between you
+866;1;4;Of Banquets, Bastards and Burials;Mousesack;and this child...
+867;1;4;Of Banquets, Bastards and Burials;Mousesack;when it is born, will be extraordinary.
+868;1;4;Of Banquets, Bastards and Burials;Mousesack;If you dismiss it, leave without claiming this...
+869;1;4;Of Banquets, Bastards and Burials;Mousesack;child surprise,
+870;1;4;Of Banquets, Bastards and Burials;Mousesack;you will surely unleash true calamity upon us all.
+871;1;4;Of Banquets, Bastards and Burials;Geralt;I'll take that chance.
+872;1;4;Of Banquets, Bastards and Burials;;[sighs]
+873;1;4;Of Banquets, Bastards and Burials;Geralt;Mind yourself.
+874;1;4;Of Banquets, Bastards and Burials;Geralt;True words are rare birds in courts like this.
+875;1;4;Of Banquets, Bastards and Burials;Geralt;Watch for daggers in your back.
+876;1;4;Of Banquets, Bastards and Burials;Geralt;Or, more likely, poison.
+877;1;4;Of Banquets, Bastards and Burials;Geralt;Be careful, old friend.
+878;1;4;Of Banquets, Bastards and Burials;;[sighs]
+879;1;4;Of Banquets, Bastards and Burials;;Queen Calanthe.
+880;1;4;Of Banquets, Bastards and Burials;;Mistress, I've found her!
+881;1;4;Of Banquets, Bastards and Burials;;[grunts]
+882;1;4;Of Banquets, Bastards and Burials;Cahir;Is it working?
+883;1;4;Of Banquets, Bastards and Burials;Fringilla;Calanthe's progeny is in Brokilon Forest.
+884;1;4;Of Banquets, Bastards and Burials;soldier;We can spare ten thousand men to take it, sir.
+885;1;4;Of Banquets, Bastards and Burials;soldier;Maybe 12.
+886;1;4;Of Banquets, Bastards and Burials;Cahir;Shut up!
+887;1;4;Of Banquets, Bastards and Burials;Cahir;Armies are not the way into Brokilon Forest.
+888;1;4;Of Banquets, Bastards and Burials;Cahir;Damn it!
+889;1;4;Of Banquets, Bastards and Burials;;[gasps]
+890;1;4;Of Banquets, Bastards and Burials;Soldier;Come on, get moving!
+891;1;4;Of Banquets, Bastards and Burials;;[yelps]
+892;1;4;Of Banquets, Bastards and Burials;;[whispering voices]
+893;1;4;Of Banquets, Bastards and Burials;dryad;You must drink from the source.
+894;1;4;Of Banquets, Bastards and Burials;;[gasps]
+895;1;4;Of Banquets, Bastards and Burials;dryad;What are you, child?

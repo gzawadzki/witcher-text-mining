@@ -1,0 +1,905 @@
+index;season_no;episode_no;episode_name;Character;Text
+0;1;8;Much More;;[man] Where would you be headin', little thief?
+1;1;8;Much More;Geralt;[Geralt] I will take her, protect her,
+2;1;8;Much More;Geralt;and bring her back unharmed, I promise you that.
+3;1;8;Much More;;[horse nickers]
+4;1;8;Much More;;[grunts]
+5;1;8;Much More;;[Roach whinnies]
+6;1;8;Much More;Geralt;Ill winds follow grave Yurgas.
+7;1;8;Much More;Yurga;If I was a Yurga, I'd be taking their belongings, Butcher.
+8;1;8;Much More;Geralt;If I was a butcher, you'd be amongst the corpses.
+9;1;8;Much More;Yurga;I was goin' home to my family when I came upon these poor souls.
+10;1;8;Much More;Yurga;Cintran refugees. Dead at least a week.
+11;1;8;Much More;Yurga;Now they're a feast for the crows.
+12;1;8;Much More;Geralt;They're not crows.
+13;1;8;Much More;;[flies buzzing]
+14;1;8;Much More;Yurga;[man] Wolves?
+15;1;8;Much More;Geralt;No.
+16;1;8;Much More;Yurga;With the hands of two, I could move quicker.
+17;1;8;Much More;Geralt;The only thing you should do quickly is flee.
+18;1;8;Much More;;[grunts]
+19;1;8;Much More;Geralt;[Geralt] Come on, Roach, back to Kaer Morhen.
+20;1;8;Much More;Yurga;[man] Don't leave!
+21;1;8;Much More;Yurga;Look at these people.
+22;1;8;Much More;Yurga;Innocent people, killed for what?
+23;1;8;Much More;Yurga;So Nilfgaard can have more land?
+24;1;8;Much More;;[grunts]
+25;1;8;Much More;Yurga;We owe it to 'em to do better.
+26;1;8;Much More;Geralt;I'm not better.
+27;1;8;Much More;;[grunts]
+28;1;8;Much More;;[sighs]
+29;1;8;Much More;;[hissing]
+30;1;8;Much More;;[yelling]
+31;1;8;Much More;;[screaming]
+32;1;8;Much More;;[sword slashes]
+33;1;8;Much More;;[creature snarls]
+34;1;8;Much More;;[panting]
+35;1;8;Much More;Geralt;Go home.
+36;1;8;Much More;Yurga;I can help.
+37;1;8;Much More;Geralt;One bite will kill you.
+38;1;8;Much More;Yurga;Or you.
+39;1;8;Much More;Geralt;Go... home!
+40;1;8;Much More;Yurga;All right... [grunting]
+41;1;8;Much More;;[flies buzzing]
+42;1;8;Much More;;[exhales]
+43;1;8;Much More;;[buzzing intensifies]
+44;1;8;Much More;;[screeching and growling]
+45;1;8;Much More;;[rumbling]
+46;1;8;Much More;;[snarling]
+47;1;8;Much More;;[snarls]
+48;1;8;Much More;;[snarling]
+49;1;8;Much More;;[panting]
+50;1;8;Much More;;[grunts]
+51;1;8;Much More;Geralt;Fuck.
+52;1;8;Much More;;[grunts]
+53;1;8;Much More;;[groans]
+54;1;8;Much More;;[sighs]
+55;1;8;Much More;Geralt;Not a happy ever after, after all.
+56;1;8;Much More;Geralt;A fitting end...
+57;1;8;Much More;Geralt;huh, Roach?
+58;1;8;Much More;Goldencheeks;[woman] Come on, girl.
+59;1;8;Much More;Goldencheeks;Get up now.
+60;1;8;Much More;;[flies buzzing]
+61;1;8;Much More;;[Ciri shuddering]
+62;1;8;Much More;Goldencheeks;Let's get you out of here.
+63;1;8;Much More;Goldencheeks;What happened?
+64;1;8;Much More;Ciri;They came for me.
+65;1;8;Much More;Goldencheeks;[woman] Well, then...
+66;1;8;Much More;Goldencheeks;they got what they deserved.
+67;1;8;Much More;Goldencheeks;You're safe now.
+68;1;8;Much More;Goldencheeks;It's okay.
+69;1;8;Much More;Goldencheeks;It's okay.
+70;1;8;Much More;Goldencheeks;Let me take you home, girl. Something's in the air.
+71;1;8;Much More;;[upbeat music playing]
+72;1;8;Much More;Yennefer;[Yennefer] There are, what, 60 of us? And we're the saviors of the Continent?
+73;1;8;Much More;vilgefortz;Well, the good news is there's only one way to move north:
+74;1;8;Much More;vilgefortz;through Sodden Hill.
+75;1;8;Much More;vilgefortz;We must get to the Elven keep that guards it before Nilfgaard does.
+76;1;8;Much More;Yennefer;When is that?
+77;1;8;Much More;vilgefortz;My sources say the general's moving troops to the Yaruga Valley.
+78;1;8;Much More;vilgefortz;They're two days away.
+79;1;8;Much More;vilgefortz;If we cut them off at the choke hold,
+80;1;8;Much More;Tissaia;we can still stop the Empire's progress.
+81;1;8;Much More;Tissaia;We have sent word to the Northern Kingdoms.
+82;1;8;Much More;Tissaia;Temeria and Kaedwen will join us to defend their lands.
+83;1;8;Much More;Yennefer;When is that?
+84;1;8;Much More;vilgefortz;Within two days. Hopefully.
+85;1;8;Much More;Tissaia;We will fortify the keep until they arrive.
+86;1;8;Much More;Tissaia;That's the strategy.
+87;1;8;Much More;Yennefer;A military strategy.
+88;1;8;Much More;Yennefer;We're mages. Damn powerful ones.
+89;1;8;Much More;;[men shouting in distance]
+90;1;8;Much More;Triss;Does Nilfgaard really believe they can take the whole Continent?
+91;1;8;Much More;Yennefer;They've been collecting soldiers,
+92;1;8;Much More;Yennefer;occupying territories...
+93;1;8;Much More;Yennefer;letting loose their beliefs like an epidemic.
+94;1;8;Much More;Yennefer;Istredd was telling me.
+95;1;8;Much More;Sabrina;You saw Is?
+96;1;8;Much More;Yennefer;I saw it first hand in Nazair.
+97;1;8;Much More;Yennefer;Nilfgaard take people down to their worst,
+98;1;8;Much More;Yennefer;then give them something to cling to.
+99;1;8;Much More;Yennefer;Even if it's shitty ale.
+100;1;8;Much More;Tissaia;That's why we're here.
+101;1;8;Much More;Tissaia;Because sometimes it's not shitty ale.
+102;1;8;Much More;Tissaia;Sometimes it's a bed in a pigpen.
+103;1;8;Much More;Tissaia;You have to make a choice to fight back.
+104;1;8;Much More;Yennefer;If Nilfgaard wanted to take the North,
+105;1;8;Much More;Yennefer;why would they expose themselves by sacking Cintra first?
+106;1;8;Much More;Yennefer;Why wouldn't they just push through Sodden and surprise everyone?
+107;1;8;Much More;vilgefortz;First, she shuns the military, now she's a military expert.
+108;1;8;Much More;Yennefer;First, he speaks to her as though she's not there,
+109;1;8;Much More;Yennefer;and then he loses a limb.
+110;1;8;Much More;;[chuckles]
+111;1;8;Much More;vilgefortz;You're a talented mage.
+112;1;8;Much More;vilgefortz;An asset, to be sure.
+113;1;8;Much More;vilgefortz;Despite being a...
+114;1;8;Much More;Yennefer;An inconvenient arsehole?
+115;1;8;Much More;vilgefortz;I couldn't have said it better myself.
+116;1;8;Much More;vilgefortz;Why did you come?
+117;1;8;Much More;Yennefer;[Yennefer] We've been walking for hours
+118;1;8;Much More;Yennefer;and you still haven't answered my question.
+119;1;8;Much More;vilgefortz;[Vilgefortz] If my military experience has taught me anything,
+120;1;8;Much More;vilgefortz;it's that the bigger picture's left for history,
+121;1;8;Much More;vilgefortz;which makes our task very clear:
+122;1;8;Much More;vilgefortz;hold Sodden, save the Continent.
+123;1;8;Much More;vilgefortz;Are you in?
+124;1;8;Much More;Yennefer;Is this what we're protecting?
+125;1;8;Much More;Tissaia;[Tissaia] For hundreds of years,
+126;1;8;Much More;Tissaia;this keep has guarded the narrowest parts of the Yaruga River.
+127;1;8;Much More;Tissaia;Now it's the only thing standing between Nilfgaard and the North.
+128;1;8;Much More;Man;[man] These people, they have been pushed here from their homes.
+129;1;8;Much More;Man;They've seen the scorched earth,
+130;1;8;Much More;Man;the fields of corpses stretching between Gemmera and this river.
+131;1;8;Much More;Man;Such cruelty.
+132;1;8;Much More;Tissaia;It's Nilfgaard's way.
+133;1;8;Much More;Tissaia;There's nothing like a higher purpose to permit men to do the unspeakable.
+134;1;8;Much More;Man;[man] But it's all any of us have left.
+135;1;8;Much More;Man;We have to defend it.
+136;1;8;Much More;Sabrina;That's heroic.
+137;1;8;Much More;Yennefer;And stupid.
+138;1;8;Much More;Yennefer;Take the children and hide before they get here.
+139;1;8;Much More;Man;There is no more hiding from Nilfgaard.
+140;1;8;Much More;Man;They have come from beyond the mountains to destroy the world.
+141;1;8;Much More;Triss;You still believe it can be saved?
+142;1;8;Much More;Man;I suppose I do.
+143;1;8;Much More;Man;With some help.
+144;1;8;Much More;;[people clamoring]
+145;1;8;Much More;;[chanting in Elder]
+146;1;8;Much More;;[continues chanting]
+147;1;8;Much More;;[troops marching]
+148;1;8;Much More;;[horses neighing]
+149;1;8;Much More;;[indistinct chatter]
+150;1;8;Much More;;[melancholy tune playing on rebec]
+151;1;8;Much More;;[man] One here, on the east gate.
+152;1;8;Much More;Yennefer;Is this all we have?
+153;1;8;Much More;woman 2;Aye.
+154;1;8;Much More;woman 2;I'm afraid so.
+155;1;8;Much More;woman 2;We tried to get more fletchin', but...
+156;1;8;Much More;woman 2;Nilfgaard's blocked the roads,
+157;1;8;Much More;woman 2;taken everythin' from us.
+158;1;8;Much More;woman 2;Nothin' left to do but wait for 'em to attack.
+159;1;8;Much More;;[sighs]
+160;1;8;Much More;Yennefer;[Yennefer] You could be down there,
+161;1;8;Much More;Yennefer;with the others.
+162;1;8;Much More;woman 2;[woman] No.
+163;1;8;Much More;woman 2;I can't.
+164;1;8;Much More;woman 2;I lost my farm not a sennight ago...
+165;1;8;Much More;woman 2;to soldiers who...
+166;1;8;Much More;woman 2;claimed it belonged to them.
+167;1;8;Much More;woman 2;Took all me sucklin's, the bastards.
+168;1;8;Much More;woman 2;I raised 'em,
+169;1;8;Much More;woman 2;all on me own after me husband died.
+170;1;8;Much More;woman 2;But now I have to fight back.
+171;1;8;Much More;;[whooshing]
+172;1;8;Much More;;[rustling]
+173;1;8;Much More;woman 2;I wish I could do that.
+174;1;8;Much More;Yennefer;It's magic.
+175;1;8;Much More;Yennefer;It's not real.
+176;1;8;Much More;;[indistinct chatter and laughing]
+177;1;8;Much More;;[baby crying]
+178;1;8;Much More;Triss;Is Vilgefortz to be our new daddy?
+179;1;8;Much More;Yennefer;You did time in Temeria.
+180;1;8;Much More;Yennefer;Do you believe King Foltest will bring the Northern armies?
+181;1;8;Much More;Triss;[Triss] I know he will.
+182;1;8;Much More;Triss;His daughter was cursed. A striga.
+183;1;8;Much More;Triss;I guess I was the only one who didn't see her as a lost cause.
+184;1;8;Much More;Yennefer;You saved her?
+185;1;8;Much More;Triss;Well, we did.
+186;1;8;Much More;Triss;I enlisted a witcher.
+187;1;8;Much More;Triss;Geralt of Rivia.
+188;1;8;Much More;Triss;I often wonder where fate took him.
+189;1;8;Much More;Yennefer;Somewhere unpleasant, I'm sure.
+190;1;8;Much More;Yennefer;You should be wary of his kind.
+191;1;8;Much More;Yennefer;They're so often disappointing.
+192;1;8;Much More;Tissaia;[Tissaia] The ale won't disappoint.
+193;1;8;Much More;Yennefer;We should enjoy it while we can.
+194;1;8;Much More;Yennefer;It's the first thing Nilfgaard will destroy.
+195;1;8;Much More;Tissaia;Must you always be so fatalistic?
+196;1;8;Much More;Yennefer;It's only appropriate,
+197;1;8;Much More;Yennefer;seeing as we might die.
+198;1;8;Much More;Tissaia;All the more reason to live tonight.
+199;1;8;Much More;Yennefer;Mmm. Like you.
+200;1;8;Much More;;[both chuckle]
+201;1;8;Much More;Tissaia;So, are you ready?
+202;1;8;Much More;Tissaia;To die?
+203;1;8;Much More;Yennefer;Yes.
+204;1;8;Much More;Yennefer;I've lived two or three lifetimes already.
+205;1;8;Much More;Tissaia;But you haven't been satisfied in any of them.
+206;1;8;Much More;Yennefer;I've tried.
+207;1;8;Much More;Yennefer;But I've no legacy to leave behind.
+208;1;8;Much More;Yennefer;No family.
+209;1;8;Much More;Yennefer;It's time to accept that life has no more to give.
+210;1;8;Much More;Tissaia;You still have so much left to give.
+211;1;8;Much More;;[horses neighing]
+212;1;8;Much More;;[weapons clattering]
+213;1;8;Much More;;[men shouting]
+214;1;8;Much More;field marshal;Fifty thousand of our soldiers are marching from Cintra, sir.
+215;1;8;Much More;Cahir;[Cahir] I know.
+216;1;8;Much More;field marshal;We wipe out the keep,
+217;1;8;Much More;field marshal;and when the General's forces arrive, they push through to the North.
+218;1;8;Much More;Cahir;[Cahir] And if it's too late?
+219;1;8;Much More;field marshal;Fringilla, tell him he cannot possibly take Temeria alone.
+220;1;8;Much More;Cahir;[Cahir] Tell him he cannot possibly understand the stakes at play.
+221;1;8;Much More;Fringilla;The Brotherhood... they're here.
+222;1;8;Much More;Fringilla;Our scouts just spotted them,
+223;1;8;Much More;Fringilla;fortifying the keep.
+224;1;8;Much More;Fringilla;We must move.
+225;1;8;Much More;Cahir;How many?
+226;1;8;Much More;Fringilla;We don't know.
+227;1;8;Much More;field marshal;[field marshal] We must wait.
+228;1;8;Much More;field marshal;It is one thing to destroy a few peasant insurgents,
+229;1;8;Much More;field marshal;but we cannot combat unknown magic.
+230;1;8;Much More;Fringilla;We have magic too.
+231;1;8;Much More;Fringilla;Without rules or restrictions.
+232;1;8;Much More;Fringilla;I will personally deplete them
+233;1;8;Much More;Fringilla;until they are empty...
+234;1;8;Much More;Fringilla;and powerless.
+235;1;8;Much More;Fringilla;Cahir, if the report from the trading post is true,
+236;1;8;Much More;Fringilla;Cirilla may already be across the Yaruga.
+237;1;8;Much More;Fringilla;This...
+238;1;8;Much More;Fringilla;is our chance...
+239;1;8;Much More;Fringilla;to honor the White Flame.
+240;1;8;Much More;field marshal;[field marshal] Sir, forget Princess Cirilla.
+241;1;8;Much More;field marshal;With the General, we can take the Continent.
+242;1;8;Much More;Cahir;[Cahir] Enough!
+243;1;8;Much More;Cahir;We will not lose her.
+244;1;8;Much More;Cahir;Test the Brotherhood's defenses.
+245;1;8;Much More;Nadbor;[Nadbor] Where did you come from, anyway?
+246;1;8;Much More;Nadbor;You tryin' to outrun the war like the rest of them? [scoffs]
+247;1;8;Much More;Nadbor;Refugees have been headin' this way for weeks now.
+248;1;8;Much More;Nadbor;Mum's a bleedin' heart, takin' you in.
+249;1;8;Much More;Nadbor;Are you dumb or somethin'?
+250;1;8;Much More;Nadbor;Why don't you talk?
+251;1;8;Much More;Goldencheeks;Ow.
+252;1;8;Much More;Goldencheeks;Can't you see she's been through hell?
+253;1;8;Much More;Goldencheeks;She's not here to take chores off your lazy hands.
+254;1;8;Much More;Goldencheeks;If you stay, think you could teach him some manners?
+255;1;8;Much More;;[chuckles]
+256;1;8;Much More;;[distant rumbling]
+257;1;8;Much More;;[woman gasps]
+258;1;8;Much More;;[horse whinnies]
+259;1;8;Much More;Nadbor;[Nadbor] Nilfgaard.
+260;1;8;Much More;Goldencheeks;[sighs] They're here.
+261;1;8;Much More;;[low thumping]
+262;1;8;Much More;;[wind whistling]
+263;1;8;Much More;;[men shouting]
+264;1;8;Much More;;[rumbling]
+265;1;8;Much More;;[screeching]
+266;1;8;Much More;;[rumbling]
+267;1;8;Much More;;[people screaming]
+268;1;8;Much More;;[grunts]
+269;1;8;Much More;Fringilla;Again.
+270;1;8;Much More;;[rustling]
+271;1;8;Much More;;[crackling]
+272;1;8;Much More;Yennefer;[Yennefer] Get up! Everyone up!
+273;1;8;Much More;;[people clamoring]
+274;1;8;Much More;Yennefer;[Yennefer] Move!
+275;1;8;Much More;;[crackling]
+276;1;8;Much More;;[rumbling]
+277;1;8;Much More;;[air whooshing]
+278;1;8;Much More;;[low rumbling]
+279;1;8;Much More;Fringilla;[Fringilla] Draw the mages out.
+280;1;8;Much More;Fringilla;We will not lose to them.
+281;1;8;Much More;;[exhales]
+282;1;8;Much More;;[crows cawing]
+283;1;8;Much More;vilgefortz;[Vilgefortz] Stay low. We don't know what other tricks they may have.
+284;1;8;Much More;Triss;[Triss] Maybe it's over.
+285;1;8;Much More;Yennefer;No, Fringilla's just getting started.
+286;1;8;Much More;Sabrina;[Sabrina] It hasn't been two days yet.
+287;1;8;Much More;Sabrina;How is Nilfgaard's army here already?
+288;1;8;Much More;vilgefortz;Doesn't matter. We can't wait for the Northern Kingdoms.
+289;1;8;Much More;vilgefortz;We have to fight.
+290;1;8;Much More;Triss;There are only 22 of us now.
+291;1;8;Much More;vilgefortz;Those cowards fled after tonight's attack, but I'm not goin' anywhere.
+292;1;8;Much More;vilgefortz;I've lived enough.
+293;1;8;Much More;;[wind whooshing]
+294;1;8;Much More;vilgefortz;They're coming. We must move. The ten of you, to the field. Go!
+295;1;8;Much More;Tissaia;Sabrina, you take the villagers to the artillery room.
+296;1;8;Much More;Tissaia;Triss, come with me.
+297;1;8;Much More;Sabrina;[Sabrina] This way! Follow me!
+298;1;8;Much More;vilgefortz;[man] Clear the battlement!
+299;1;8;Much More;Tissaia;Keep watch on the tower.
+300;1;8;Much More;Yennefer;The tower?
+301;1;8;Much More;Tissaia;Reserve your chaos.
+302;1;8;Much More;;[horse neighing]
+303;1;8;Much More;Yurga;[man] I don't like the look of this mist, Butcher.
+304;1;8;Much More;Yurga;It's not natural.
+305;1;8;Much More;;[distorted screeching]
+306;1;8;Much More;Yurga;[man] Hey, careful now.
+307;1;8;Much More;;[grunts]
+308;1;8;Much More;Yurga;Easy does it.
+309;1;8;Much More;;[whooshing]
+310;1;8;Much More;Yurga;You got bit, Butcher.
+311;1;8;Much More;Yurga;You're delirious, but you're not dead.
+312;1;8;Much More;;[snarls echoing]
+313;1;8;Much More;Yurga;Not on my watch!
+314;1;8;Much More;Yurga;Hey, come on now, be still, I said.
+315;1;8;Much More;Yurga;We're goin' to my farm.
+316;1;8;Much More;Yurga;Just as soon as these poor old horses can take us there.
+317;1;8;Much More;Yurga;You must stay awake, though.
+318;1;8;Much More;Yurga;Butcher, you hear me?
+319;1;8;Much More;Yurga;Don't you go to sleep now, whatever you do!
+320;1;8;Much More;Geralt;[Nadbor] Ma?
+321;1;8;Much More;Geralt;Ma?
+322;1;8;Much More;Geralt;Ma?
+323;1;8;Much More;;[growling]
+324;1;8;Much More;Geralt;Back, you beast. I'll kill you and take your treasure.
+325;1;8;Much More;Geralt;Do not fear, Princess.
+326;1;8;Much More;Visenna;[woman] Dinner time.
+327;1;8;Much More;Geralt;[Nadbor] Someday I'll make you a necklace of dragon teeth.
+328;1;8;Much More;Geralt;The prettiest necklace ever.
+329;1;8;Much More;Visenna;[woman] No.
+330;1;8;Much More;Visenna;We must live and let live.
+331;1;8;Much More;Geralt;What's that mean?
+332;1;8;Much More;Visenna;[woman] It's our code.
+333;1;8;Much More;Yurga;[man] Hey, Butcher.
+334;1;8;Much More;Visenna;[woman] We have to cling to something.
+335;1;8;Much More;Visenna;If we don't,
+336;1;8;Much More;Visenna;the world descends into chaos.
+337;1;8;Much More;Geralt;[Geralt] Ma...
+338;1;8;Much More;;[low growl]
+339;1;8;Much More;Borch;[Borch] It's magic.
+340;1;8;Much More;Borch;It's not real.
+341;1;8;Much More;man;[man] Grab your bows. Keep your head down.
+342;1;8;Much More;man 2;[man 2] Ready yourselves!
+343;1;8;Much More;Sabrina;Let's do this.
+344;1;8;Much More;women 2;Right.
+345;1;8;Much More;man 3;[man] Bar the gate!
+346;1;8;Much More;Sabrina;[Sabrina] Let's do this!
+347;1;8;Much More;women 3;[woman] Come on, everyone!
+348;1;8;Much More;;[wind whistling]
+349;1;8;Much More;;[indistinct whispering]
+350;1;8;Much More;;[army marching]
+351;1;8;Much More;;[marching echoing]
+352;1;8;Much More;Yennefer;Can anyone hear me?
+353;1;8;Much More;Yennefer;[Yennefer] Can anyone hear me?
+354;1;8;Much More;Yennefer;Can anyone hear me?
+355;1;8;Much More;Yennefer;Tissaia?
+356;1;8;Much More;Tissaia;[Tissaia] I can.
+357;1;8;Much More;Yennefer;They're closing in.
+358;1;8;Much More;;[wind whistling]
+359;1;8;Much More;Tissaia;[Tissaia] It's time.
+360;1;8;Much More;;[sighs]
+361;1;8;Much More;;[chanting in Elder]
+362;1;8;Much More;;[continues chanting]
+363;1;8;Much More;;[continues chanting]
+364;1;8;Much More;;[squelching]
+365;1;8;Much More;;[coughing and retching]
+366;1;8;Much More;Yennefer;It's working.
+367;1;8;Much More;Yennefer;Coral, soldiers, straight ahead. And they're moving fast.
+368;1;8;Much More;;[army yelling]
+369;1;8;Much More;;[crunching]
+370;1;8;Much More;;[screaming]
+371;1;8;Much More;;[horse snorting]
+372;1;8;Much More;Yennefer;[Yennefer] Sabrina, prepare your shot.
+373;1;8;Much More;Yennefer;[echoing] Hold your fire until they're in range.
+374;1;8;Much More;Yennefer;Hold!
+375;1;8;Much More;Yennefer;Hold!
+376;1;8;Much More;Yennefer;Now! Pull!
+377;1;8;Much More;;[whistling]
+378;1;8;Much More;;[bottle whirring]
+379;1;8;Much More;;[yelling]
+380;1;8;Much More;;[crackling]
+381;1;8;Much More;;[screaming]
+382;1;8;Much More;Yennefer;Who's next?
+383;1;8;Much More;field marshal;[field marshal] So much for depleting them. What now?
+384;1;8;Much More;cahir;Move to the other front.
+385;1;8;Much More;field marshal;Right turn!
+386;1;8;Much More;field marshal;March!
+387;1;8;Much More;;[field marshal shouts indistinctly]
+388;1;8;Much More;Yennefer;Vilgefortz, now!
+389;1;8;Much More;;[metallic ringing]
+390;1;8;Much More;;[sword ringing]
+391;1;8;Much More;;[breathes heavily]
+392;1;8;Much More;Yennefer;[Yennefer] Vilgefortz...
+393;1;8;Much More;Yennefer;slow... down.
+394;1;8;Much More;Yennefer;Reserve your chaos.
+395;1;8;Much More;;[rings]
+396;1;8;Much More;cahir;Huh.
+397;1;8;Much More;Yennefer;Vilgefortz!
+398;1;8;Much More;;[pants]
+399;1;8;Much More;vilgefortz;What are you after?
+400;1;8;Much More;vilgefortz;What do you want?
+401;1;8;Much More;cahir;To get to the center of it all.
+402;1;8;Much More;;[pants]
+403;1;8;Much More;;[Vilgefortz yells]
+404;1;8;Much More;;[sighs deeply]
+405;1;8;Much More;;[crows cawing]
+406;1;8;Much More;Fringilla;[Fringilla] Break! Break.
+407;1;8;Much More;Fringilla;[echoing] Break, break...
+408;1;8;Much More;;[whooshing]
+409;1;8;Much More;man 5;[man] They're comin' in!
+410;1;8;Much More;man 6;[man 2] Get back in!
+411;1;8;Much More;;[woman] Move out!
+412;1;8;Much More;;[wind whooshing]
+413;1;8;Much More;;They've breached the gate!
+414;1;8;Much More;;[rumbling]
+415;1;8;Much More;;[whooshing]
+416;1;8;Much More;Yennefer;Shit! Take cover!
+417;1;8;Much More;Fringilla;Fire.
+418;1;8;Much More;;[woman yells]
+419;1;8;Much More;Yennefer;No!
+420;1;8;Much More;;[people screaming]
+421;1;8;Much More;;[woman screams] Oh, no!
+422;1;8;Much More;;[echoing] Tissaia.
+423;1;8;Much More;Yennefer;Can you hear me?
+424;1;8;Much More;Yennefer;Nilfgaard has broken through!
+425;1;8;Much More;;[wind whooshing]
+426;1;8;Much More;;[rumbling]
+427;1;8;Much More;;[wind whistling]
+428;1;8;Much More;Yennefer;[Yennefer echoing] Tissaia.
+429;1;8;Much More;Yennefer;We must stop Fringilla. [echos] Fringilla...
+430;1;8;Much More;Tissaia;It's not too late.
+431;1;8;Much More;Fringilla;I did tell you to stay out of this.
+432;1;8;Much More;Tissaia;You can come back.
+433;1;8;Much More;;[scoffs]
+434;1;8;Much More;Tissaia;I can help you.
+435;1;8;Much More;;[laughs]
+436;1;8;Much More;Fringilla;Do you know how Nilfgaard took Cintra?
+437;1;8;Much More;Fringilla;Horrible storm.
+438;1;8;Much More;Fringilla;Fifty Skelligen ships sunk to the bottom of the sea,
+439;1;8;Much More;Fringilla;wrecked in that horrible fog.
+440;1;8;Much More;Tissaia;That was you.
+441;1;8;Much More;Tissaia;I won't let you do this.
+442;1;8;Much More;Tissaia;You're worth more than Nilfgaard can ever give you.
+443;1;8;Much More;;[sighing]
+444;1;8;Much More;;[gasps]
+445;1;8;Much More;;[whimpers]
+446;1;8;Much More;Fringilla;Dimeritium.
+447;1;8;Much More;;[gasps and wheezes]
+448;1;8;Much More;Fringilla;I don't need your help...
+449;1;8;Much More;Fringilla;anymore...
+450;1;8;Much More;Fringilla;Rectoress.
+451;1;8;Much More;;[Tissaia groans]
+452;1;8;Much More;;[Tissaia gasps]
+453;1;8;Much More;;[speaks Elder]
+454;1;8;Much More;;[chittering]
+455;1;8;Much More;;[horse neighs]
+456;1;8;Much More;Yurga;Hey, don't you move.
+457;1;8;Much More;Yurga;Butcher, hey! Whoa, lads. Whoa.
+458;1;8;Much More;;[rumbling]
+459;1;8;Much More;Geralt;[Geralt groans] What's that?
+460;1;8;Much More;;[explosions in distance]
+461;1;8;Much More;Yurga;Well, from the direction, I would say that Nilfgaard has made it to Sodden.
+462;1;8;Much More;Yurga;Shit, look.
+463;1;8;Much More;Yurga;Take Sodden, you take the North, some say.
+464;1;8;Much More;Yurga;Ye gods, that looks hideous.
+465;1;8;Much More;;[Geralt groaning]
+466;1;8;Much More;;[groans and grunts]
+467;1;8;Much More;Geralt;[sighs] Fuck.
+468;1;8;Much More;Geralt;My bag.
+469;1;8;Much More;Geralt;My bag!
+470;1;8;Much More;Yurga;This? Here.
+471;1;8;Much More;;[groans]
+472;1;8;Much More;;[groans]
+473;1;8;Much More;;[hissing]
+474;1;8;Much More;;[groaning loudly]
+475;1;8;Much More;Yurga;You need a healer.
+476;1;8;Much More;;[Geralt pants]
+477;1;8;Much More;Geralt;Take me to the Blue Mountains.
+478;1;8;Much More;Yurga;That's the other side of Sodden.
+479;1;8;Much More;Yurga;It's impossible, you'll die.
+480;1;8;Much More;Geralt;He'll...
+481;1;8;Much More;Geralt;save me.
+482;1;8;Much More;Yurga;Who? Who? Ah, hey!
+483;1;8;Much More;Yurga;Wake up! Hey, wake up!
+484;1;8;Much More;;[grunting]
+485;1;8;Much More;Yurga;You stay awake, you bastard!
+486;1;8;Much More;;[sighs]
+487;1;8;Much More;Geralt;I need...
+488;1;8;Much More;Geralt;to go home.
+489;1;8;Much More;Geralt;[Nadbor] What's at the edge of the world?
+490;1;8;Much More;Geralt;If we go past it, do we fall off the world?
+491;1;8;Much More;Geralt;Where do we fall?
+492;1;8;Much More;Geralt;Into another sphere?
+493;1;8;Much More;Geralt;How many spheres are there?
+494;1;8;Much More;Yurga;[man] We're going to my farm.
+495;1;8;Much More;Geralt;Do you have any food?
+496;1;8;Much More;Yurga;Hey, hey, hey. Be still, I said.
+497;1;8;Much More;Geralt;[Nadbor] Is there food on other spheres?
+498;1;8;Much More;;[Nadbor laughs]
+499;1;8;Much More;Geralt;And after the edge of the world,
+500;1;8;Much More;Geralt;let's go to Lyria and Rivia and Vengerberg!
+501;1;8;Much More;Visenna;[mother] Stop.
+502;1;8;Much More;Geralt;And never stop.
+503;1;8;Much More;Visenna;[mother] I have to stop.
+504;1;8;Much More;Yurga;[man] Whoa, lads. Whoa.
+505;1;8;Much More;Geralt;Are you okay, Ma?
+506;1;8;Much More;Visenna;[mother] I need water.
+507;1;8;Much More;Visenna;Go! Fetch it for me.
+508;1;8;Much More;Geralt;Ma? Ma!
+509;1;8;Much More;Geralt;[Geralt] Ma!
+510;1;8;Much More;Geralt;Ma!
+511;1;8;Much More;Geralt;[Nadbor] Visenna?
+512;1;8;Much More;Vesemir;[man] Geralt, I've been waiting for you.
+513;1;8;Much More;Geralt;[Geralt] Vesemir.
+514;1;8;Much More;Geralt;[young Geralt] Ma!
+515;1;8;Much More;Geralt;[Geralt] Vesemir.
+516;1;8;Much More;Yennefer;[Yennefer echoing] Nilfgaard is gaining on us.
+517;1;8;Much More;Yennefer;Get back to the keep if you can!
+518;1;8;Much More;Yennefer;Coral,
+519;1;8;Much More;Yennefer;take the path back to us, do not stop.
+520;1;8;Much More;man 7;[man yells] Get out of the way!
+521;1;8;Much More;;[man yelling]
+522;1;8;Much More;;[screaming]
+523;1;8;Much More;Yennefer;[Yennefer] No!
+524;1;8;Much More;Yennefer;Atlan!
+525;1;8;Much More;Yennefer;Coral!
+526;1;8;Much More;Yennefer;Save yourself!
+527;1;8;Much More;;[whooshing]
+528;1;8;Much More;;[deep sighing]
+529;1;8;Much More;Yennefer;No!
+530;1;8;Much More;;[screams]
+531;1;8;Much More;;[sobs]
+532;1;8;Much More;Yennefer;Triss! The gate! Can you buy us time?
+533;1;8;Much More;Triss;[Triss] I don't know if I can!
+534;1;8;Much More;Yennefer;I'll find Tissaia and get us help.
+535;1;8;Much More;;[Triss breathes heavily]
+536;1;8;Much More;;[rumbling]
+537;1;8;Much More;;[yelling]
+538;1;8;Much More;;[grunts]
+539;1;8;Much More;;[yells]
+540;1;8;Much More;;[soldier yells]
+541;1;8;Much More;Yennefer;Do not stop, Triss.
+542;1;8;Much More;;[horse neighs]
+543;1;8;Much More;;[men yelling]
+544;1;8;Much More;;[indistinct whispering]
+545;1;8;Much More;;[soldier] Get through that gate!
+546;1;8;Much More;;[screams]
+547;1;8;Much More;;[soldier] Get in!
+548;1;8;Much More;;[screaming]
+549;1;8;Much More;;[soldier yells in pain]
+550;1;8;Much More;;[screaming]
+551;1;8;Much More;woman 8;[woman] Come on, lads! Come on! Here!
+552;1;8;Much More;Yennefer;Move, move! Quick, quick!
+553;1;8;Much More;Yennefer;[Yennefer echoing] Tissaia, where are you?
+554;1;8;Much More;Yennefer;Shouldn't you be at--
+555;1;8;Much More;;[yells]
+556;1;8;Much More;;[Yennefer grunts]
+557;1;8;Much More;;[chittering]
+558;1;8;Much More;;[chittering]
+559;1;8;Much More;;[people screaming]
+560;1;8;Much More;;[screaming]
+561;1;8;Much More;;[yells]
+562;1;8;Much More;;[high-pitched ringing]
+563;1;8;Much More;;[Yennefer panting]
+564;1;8;Much More;;[grunts]
+565;1;8;Much More;Yennefer;Sabrina. [wheezes]
+566;1;8;Much More;Yennefer;Sabrina... [breathes shakily]
+567;1;8;Much More;Sabrina;[Sabrina] I'm sorry.
+568;1;8;Much More;Yennefer;Don't worry.
+569;1;8;Much More;Yennefer;I'll find Tissaia.
+570;1;8;Much More;;[groans]
+571;1;8;Much More;;[grunts]
+572;1;8;Much More;;[woman wailing] No!
+573;1;8;Much More;;[wailing continues]
+574;1;8;Much More;Yennefer;[Yennefer] Can anyone hear me?
+575;1;8;Much More;Yennefer;Is anyone out there?
+576;1;8;Much More;;[gasping]
+577;1;8;Much More;Yennefer;[Yennefer] If you can hear me,
+578;1;8;Much More;Yennefer;you need to get to the front line.
+579;1;8;Much More;Yennefer;More Nilfgaardians are coming to the woods.
+580;1;8;Much More;Yennefer;We can't give up.
+581;1;8;Much More;Yennefer;We can still fight.
+582;1;8;Much More;;[whooshing]
+583;1;8;Much More;;[sighs]
+584;1;8;Much More;Fringilla;[Fringilla] You don't need  to fight anymore.
+585;1;8;Much More;Fringilla;You have never stopped searching.
+586;1;8;Much More;Fringilla;For what?
+587;1;8;Much More;Fringilla;It's here.
+588;1;8;Much More;Fringilla;With Nilfgaard.
+589;1;8;Much More;Fringilla;[echo] Nilfgaard...
+590;1;8;Much More;Fringilla;In Nilfgaard, there are no limits.
+591;1;8;Much More;Fringilla;Only power and potential.
+592;1;8;Much More;Fringilla;That could be your legacy.
+593;1;8;Much More;Yennefer;[Yennefer softly] Is anyone out there?
+594;1;8;Much More;Yennefer;Is anyone still alive?
+595;1;8;Much More;Yennefer;Is anyone still alive?
+596;1;8;Much More;;[birds chirping]
+597;1;8;Much More;;[gasps]
+598;1;8;Much More;;[grunts]
+599;1;8;Much More;;[wheezing softly]
+600;1;8;Much More;;[breathlessly] Vilge...
+601;1;8;Much More;;Vilge...
+602;1;8;Much More;;Help...
+603;1;8;Much More;;me.
+604;1;8;Much More;;Vilgefor--
+605;1;8;Much More;;[squelches]
+606;1;8;Much More;;[crunching]
+607;1;8;Much More;Yennefer;[Yennefer] Vilgefortz, are you with us?
+608;1;8;Much More;;[sighs]
+609;1;8;Much More;Yennefer;[Yennefer echoing] Tissaia? Tissaia...
+610;1;8;Much More;Yennefer;I need you.
+611;1;8;Much More;;[gasps]
+612;1;8;Much More;;[groans]
+613;1;8;Much More;;[grunts and groans]
+614;1;8;Much More;;[sighs]
+615;1;8;Much More;;[gasping]
+616;1;8;Much More;Renfri;[woman] You're not dead.
+617;1;8;Much More;Renfri;You've merely woken.
+618;1;8;Much More;Geralt;Tastes like juniper with--
+619;1;8;Much More;Renfri;Burdock, yes.
+620;1;8;Much More;Renfri;Gangrene was setting in.
+621;1;8;Much More;Renfri;I needed to neutralize the toxins.
+622;1;8;Much More;Renfri;Don't move.
+623;1;8;Much More;Geralt;There's...
+624;1;8;Much More;Geralt;magic...
+625;1;8;Much More;Geralt;in the air.
+626;1;8;Much More;Yennefer;[echoing] Your wound was troublesome, Geralt.
+627;1;8;Much More;Yennefer;But you will be all right.
+628;1;8;Much More;;[sighs]
+629;1;8;Much More;Geralt;You know my name.
+630;1;8;Much More;Geralt;You're in my head.
+631;1;8;Much More;Geralt;You're listening.
+632;1;8;Much More;Visenna;I'm a sorceress.
+633;1;8;Much More;Visenna;But you knew that already.
+634;1;8;Much More;Visenna;You were saved by your pulse.
+635;1;8;Much More;Visenna;Four times slower than a normal man's.
+636;1;8;Much More;Geralt;I'm a witcher.
+637;1;8;Much More;Geralt;But you knew that already too.
+638;1;8;Much More;Geralt;Thank you.
+639;1;8;Much More;Geralt;Thank you for saving me.
+640;1;8;Much More;Visenna;Most mages are occupied at the battle raging in Sodden,
+641;1;8;Much More;Visenna;but I heard a merchant's cry for help and...
+642;1;8;Much More;Visenna;it's my profession.
+643;1;8;Much More;Visenna;The only thing I've ever been good at.
+644;1;8;Much More;Geralt;I'm glad our paths crossed, then.
+645;1;8;Much More;Visenna;[woman] People linked by destiny will always find each other.
+646;1;8;Much More;Visenna;People linked by destiny will always find each other.
+647;1;8;Much More;Geralt;Ma?
+648;1;8;Much More;Visenna;[woman] Don't move.
+649;1;8;Much More;Geralt;Come closer.
+650;1;8;Much More;Geralt;I want you to look at me.
+651;1;8;Much More;Geralt;How do you like my eyes?
+652;1;8;Much More;Geralt;Do you know, Visenna,
+653;1;8;Much More;Geralt;what they do to a witcher to improve his eyes?
+654;1;8;Much More;Visenna;Stop it.
+655;1;8;Much More;Geralt;Do you know that it doesn't always work?
+656;1;8;Much More;Visenna;Stop it, Geralt.
+657;1;8;Much More;Geralt;You don't get to use that name.
+658;1;8;Much More;Geralt;Vesemir gave me that name.
+659;1;8;Much More;Geralt;I need to know why.
+660;1;8;Much More;Visenna;[Visenna] No answer will give you what you want.
+661;1;8;Much More;Geralt;[Geralt] Three...
+662;1;8;Much More;Geralt;out of ten Nadbors survive the trial.
+663;1;8;Much More;Geralt;Tell me...
+664;1;8;Much More;Geralt;at least...
+665;1;8;Much More;Geralt;you didn't know this before you left me on his doorstep?
+666;1;8;Much More;Visenna;It's time to sleep.
+667;1;8;Much More;Visenna;There's valerian in the medicines.
+668;1;8;Much More;;[sighs]
+669;1;8;Much More;Geralt;You trusted destiny
+670;1;8;Much More;Geralt;rather than trying to find me yourself.
+671;1;8;Much More;Visenna;Don't ask any more questions.
+672;1;8;Much More;Geralt;[Geralt] Why?
+673;1;8;Much More;Visenna;[Visenna] The answers will only hurt us both.
+674;1;8;Much More;Visenna;It's time to move on, Geralt.
+675;1;8;Much More;Visenna;It's time for you to find what you let go of.
+676;1;8;Much More;;[breathing heavily]
+677;1;8;Much More;Visenna;[softly] Find her.
+678;1;8;Much More;Visenna;[echos] Find her...
+679;1;8;Much More;Visenna;I was just a dream.
+680;1;8;Much More;Geralt;[Geralt] Please don't go.
+681;1;8;Much More;Visenna;Sleep, Sir Geralt.
+682;1;8;Much More;Geralt;Visenna!
+683;1;8;Much More;Visenna;[Visenna] Find her!
+684;1;8;Much More;Geralt;No! [gasps]
+685;1;8;Much More;Geralt;Where'd she go?
+686;1;8;Much More;Geralt;The woman.
+687;1;8;Much More;Yurga;[chuckles] Which one?
+688;1;8;Much More;Yurga;You called out for so many.
+689;1;8;Much More;Geralt;[grunts] How far from your home to the battlefield?
+690;1;8;Much More;Yurga;Huh?
+691;1;8;Much More;Yurga;[grunts] To Sodden?
+692;1;8;Much More;Yurga;How far? [grunts]
+693;1;8;Much More;Yurga;Well, it's an hour with a swift enough horse.
+694;1;8;Much More;Yurga;You know, I'm, uh...
+695;1;8;Much More;Yurga;You know, I'm just a simple merchant.
+696;1;8;Much More;Yurga;I can't repay you for saving my life.
+697;1;8;Much More;Yurga;But what I can offer you...
+698;1;8;Much More;Yurga;is the Law of Surprise.
+699;1;8;Much More;Yurga;That which I have but don't know.
+700;1;8;Much More;Yurga;Just give me an ale and consider your debt paid.
+701;1;8;Much More;Yurga;Now, can we go?
+702;1;8;Much More;;[soldiers yelling]
+703;1;8;Much More;Yennefer;[Yennefer] You're alive!
+704;1;8;Much More;Tissaia;Yennefer.
+705;1;8;Much More;Yennefer;Sabrina needs your help.
+706;1;8;Much More;;[explosion]
+707;1;8;Much More;Yennefer;We all do.
+708;1;8;Much More;;[whimpers]
+709;1;8;Much More;;[groans]
+710;1;8;Much More;Yennefer;No.
+711;1;8;Much More;Yennefer;No! The Northern Kingdoms are close.
+712;1;8;Much More;Yennefer;We can't give up.
+713;1;8;Much More;;[explosions in distance]
+714;1;8;Much More;;[sobs]
+715;1;8;Much More;Yennefer;You...
+716;1;8;Much More;Yennefer;You saved me.
+717;1;8;Much More;Yennefer;I won't ever forget that.
+718;1;8;Much More;Tissaia;It's your turn...
+719;1;8;Much More;Tissaia;to save these people,
+720;1;8;Much More;Tissaia;this Continent.
+721;1;8;Much More;Tissaia;This...
+722;1;8;Much More;Tissaia;is your legacy.
+723;1;8;Much More;Yennefer;[sobs] How? I can't!
+724;1;8;Much More;Tissaia;You can!
+725;1;8;Much More;Tissaia;Everything you have ever felt,
+726;1;8;Much More;Tissaia;everything you've buried...
+727;1;8;Much More;Tissaia;Mm...
+728;1;8;Much More;Tissaia;[softly] Forget the bottle.
+729;1;8;Much More;Tissaia;Let your chaos explode.
+730;1;8;Much More;;[sobs]
+731;1;8;Much More;;[girl] Where you going, crooked girl?
+732;1;8;Much More;;We can teach you.
+733;1;8;Much More;;[father] She's no daughter of mine.
+734;1;8;Much More;;[Glacella] Just because you fucked up doesn't mean we will.
+735;1;8;Much More;;[Queen Kalis] You horrible, useless bitch!
+736;1;8;Much More;;[Artorius] If only Yennefer had gone to Nilfgaard.
+737;1;8;Much More;;[Istredd] I'm sorry you chose power.
+738;1;8;Much More;;[whooshing]
+739;1;8;Much More;;[Tissaia] Do you actually have what it takes?
+740;1;8;Much More;;[whooshing]
+741;1;8;Much More;;[screaming]
+742;1;8;Much More;;[screaming]
+743;1;8;Much More;;[screaming]
+744;1;8;Much More;;[army marching]
+745;1;8;Much More;;[horses neighing]
+746;1;8;Much More;;[distant explosions]
+747;1;8;Much More;Goldencheeks;[woman] It's going to be okay, girl.
+748;1;8;Much More;;[distant explosions continue]
+749;1;8;Much More;Goldencheeks;[woman] The battle's close,
+750;1;8;Much More;Goldencheeks;but Nilfgaard's trying to go north.
+751;1;8;Much More;Goldencheeks;They've no reason to come here.
+752;1;8;Much More;Goldencheeks;I know.
+753;1;8;Much More;Goldencheeks;It's a simple life.
+754;1;8;Much More;Goldencheeks;But if I've gone tomorrow,
+755;1;8;Much More;Goldencheeks;I had everything I wanted:
+756;1;8;Much More;Goldencheeks;my health,
+757;1;8;Much More;Goldencheeks;a roof over my head,
+758;1;8;Much More;Goldencheeks;a headstrong Nadbor,
+759;1;8;Much More;Goldencheeks;his father to match.
+760;1;8;Much More;Goldencheeks;Everything.
+761;1;8;Much More;Goldencheeks;Except a daughter.
+762;1;8;Much More;Goldencheeks;I can't help but think...
+763;1;8;Much More;Goldencheeks;I was meant to find you.
+764;1;8;Much More;Goldencheeks;Sleep, girl.
+765;1;8;Much More;Goldencheeks;Sleep.
+766;1;8;Much More;Goldencheeks;We'll all be better in the morning.
+767;1;8;Much More;;[wind whooshing]
+768;1;8;Much More;;[sighs]
+769;1;8;Much More;;[wind whistling]
+770;1;8;Much More;Tissaia;Yennefer?
+771;1;8;Much More;Tissaia;[yells] Yennefer!
+772;1;8;Much More;Tissaia;Yennefer!
+773;1;8;Much More;Geralt;Yennefer!
+774;1;8;Much More;Tissaia;Yennefer!
+775;1;8;Much More;Geralt;Yennefer!
+776;1;8;Much More;Tissaia;Yennefer!
+777;1;8;Much More;Geralt;[Geralt] Yennefer!
+778;1;8;Much More;Geralt;Yennefer!
+779;1;8;Much More;Tissaia;Yennefer!
+780;1;8;Much More;Geralt;Yennefer!
+781;1;8;Much More;Tissaia;[Tissaia echoing] Yennefer!
+782;1;8;Much More;Geralt;[Geralt echoing] Yennefer! Yennefer!
+783;1;8;Much More;;[whooshing]
+784;1;8;Much More;Calanthe;[Calanthe] Go.
+785;1;8;Much More;Calanthe;Find Geralt of Rivia.
+786;1;8;Much More;Calanthe;He is your destiny.
+787;1;8;Much More;;[horse whinnies]
+788;1;8;Much More;Yurga;[man] Whoa, lads.
+789;1;8;Much More;Yurga;Whoa, now.
+790;1;8;Much More;Goldencheeks;[woman] Yurga.
+791;1;8;Much More;Goldencheeks;Are you all right?
+792;1;8;Much More;Yurga;We're okay.
+793;1;8;Much More;;[Yurga grunts]
+794;1;8;Much More;Yurga;Is Nadbor safe?
+795;1;8;Much More;Goldencheeks;[woman] We're all okay.
+796;1;8;Much More;Goldencheeks;The war is close, but we're okay. I need to tell you something.
+797;1;8;Much More;Yurga;Me too.
+798;1;8;Much More;Goldencheeks;I met a girl.
+799;1;8;Much More;Goldencheeks;An orphan,  I found her in the woods nearby.
+800;1;8;Much More;Renfri;[Renfri] The girl in the woods will be with you always.
+801;1;8;Much More;Renfri;She is your destiny.
+802;1;8;Much More;Yurga;[Yurga] I met a witcher.
+803;1;8;Much More;Yurga;He saved my life.
+804;1;8;Much More;Yurga;Now, fetch him an ale before he goes to Sodden.
+805;1;8;Much More;Yurga;Hey, Butcher.
+806;1;8;Much More;Yurga;Butcher!
+807;1;8;Much More;Yurga;Where are you goin'?
+808;1;8;Much More;Geralt;People linked by destiny will always find each other.
+809;1;8;Much More;Ciri;Who is Yennefer?
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
